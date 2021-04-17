@@ -1,6 +1,7 @@
 const fs = require('fs');
 const jq = require('node-jq');
 const lodash = require('lodash')
+const uuid = require("uuid")
 
 function verses(){
     const inputFilepath  = './data/json/verses.json'
@@ -9,9 +10,10 @@ const file = fs.readFileSync(inputFilepath, 'utf-8');
 const data = JSON.parse(file)
 const response = data.map(verse => {
     verse._type = 'verse'
-    verse._id = `${verse.id}`    
     verse.title = `Verse ${verse.id}`
     verse.verse_number = parseInt(verse.verse_number)
+    verse.externalId=verse.id
+    verse._id = uuid.v4();
     delete verse.id    
     return verse;
 })
@@ -25,14 +27,14 @@ const file = fs.readFileSync(inputFilepath, 'utf-8');
 const data = JSON.parse(file)
 let response = data.map(chapter => {
     chapter._type = 'chapter'
-    //chapter._id = `${chapter.id}`    
     chapter.title = `chapter ${chapter.id}`
     chapter.chapter_number = parseInt(chapter.chapter_number)
+    chapter.externalId = chapter.id
+    chapter._id = uuid.v4();
     delete chapter.id    
     return chapter;
 })
 response = lodash.sortBy(response, [o => parseInt(o._id)]);
-console.log(response.map(r => r._id).join(","));
 fs.writeFileSync(outputFilepath, JSON.stringify(response, null, 2))
 }
 

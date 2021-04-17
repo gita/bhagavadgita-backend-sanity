@@ -8,8 +8,9 @@
     "chapter_number": 1,
     "verse_order": 1,
     "_type": "verse",
-    "_id": "1",
-    "title": "Verse 1"
+    "title": "Verse 1",
+    "externalId": 1,
+    "_id": "0c81612b-2bcc-4aca-bc48-29f9417f807a"
   },
   {
     "verse_number": 2,
@@ -20,8 +21,9 @@
     "chapter_number": 1,
     "verse_order": 2,
     "_type": "verse",
-    "_id": "2",
-    "title": "Verse 2"
+    "title": "Verse 2",
+    "externalId": 2,
+    "_id": "4738fccd-0bc8-427c-8f65-ad99e98a15c0"
   },
   {
     "verse_number": 3,
@@ -32,8 +34,9 @@
     "chapter_number": 1,
     "verse_order": 3,
     "_type": "verse",
-    "_id": "3",
-    "title": "Verse 3"
+    "title": "Verse 3",
+    "externalId": 3,
+    "_id": "e98e830e-a511-4963-9640-78cb8e3b7e68"
   },
   {
     "verse_number": 4,
@@ -44,8 +47,9 @@
     "chapter_number": 1,
     "verse_order": 4,
     "_type": "verse",
-    "_id": "4",
-    "title": "Verse 4"
+    "title": "Verse 4",
+    "externalId": 4,
+    "_id": "3a5c27e8-f0d4-44ae-9199-92a62ad0077c"
   },
   {
     "verse_number": 5,
@@ -56,8 +60,9 @@
     "chapter_number": 1,
     "verse_order": 5,
     "_type": "verse",
-    "_id": "5",
-    "title": "Verse 5"
+    "title": "Verse 5",
+    "externalId": 5,
+    "_id": "6a3d4fa2-b696-47fb-b98c-b6d4e14e7c6a"
   },
   {
     "verse_number": 6,
@@ -68,8 +73,9 @@
     "chapter_number": 1,
     "verse_order": 6,
     "_type": "verse",
-    "_id": "6",
-    "title": "Verse 6"
+    "title": "Verse 6",
+    "externalId": 6,
+    "_id": "1c2afc69-84e1-4813-9fde-10b0e6319653"
   },
   {
     "verse_number": 7,
@@ -80,8 +86,9 @@
     "chapter_number": 1,
     "verse_order": 7,
     "_type": "verse",
-    "_id": "7",
-    "title": "Verse 7"
+    "title": "Verse 7",
+    "externalId": 7,
+    "_id": "88a21529-ef6d-4444-b52a-a1dbc676b5ed"
   },
   {
     "verse_number": 8,
@@ -92,8 +99,9 @@
     "chapter_number": 1,
     "verse_order": 8,
     "_type": "verse",
-    "_id": "8",
-    "title": "Verse 8"
+    "title": "Verse 8",
+    "externalId": 8,
+    "_id": "e08ab82f-7843-418a-a8f9-ba64cc4fad9e"
   },
   {
     "verse_number": 45,
@@ -104,8 +112,9 @@
     "chapter_number": 1,
     "verse_order": 45,
     "_type": "verse",
-    "_id": "45",
-    "title": "Verse 45"
+    "title": "Verse 45",
+    "externalId": 45,
+    "_id": "453e954d-3e00-4861-b2df-df3d2da764ed"
   },
   {
     "verse_number": 9,
@@ -116,8 +125,9 @@
     "chapter_number": 1,
     "verse_order": 9,
     "_type": "verse",
-    "_id": "9",
-    "title": "Verse 9"
+    "title": "Verse 9",
+    "externalId": 9,
+    "_id": "44db6f6f-5ddc-48ae-a200-64de1e5d5e42"
   },
   {
     "verse_number": 10,
@@ -128,8 +138,9 @@
     "chapter_number": 1,
     "verse_order": 10,
     "_type": "verse",
-    "_id": "10",
-    "title": "Verse 10"
+    "title": "Verse 10",
+    "externalId": 10,
+    "_id": "edf0d711-5194-459a-a60c-bb16894dd728"
   },
   {
     "verse_number": 11,
@@ -140,8 +151,9 @@
     "chapter_number": 1,
     "verse_order": 11,
     "_type": "verse",
-    "_id": "11",
-    "title": "Verse 11"
+    "title": "Verse 11",
+    "externalId": 11,
+    "_id": "6c6a5971-255c-4b0c-9301-c001f95247c7"
   },
   {
     "verse_number": 12,
@@ -152,8 +164,9 @@
     "chapter_number": 1,
     "verse_order": 12,
     "_type": "verse",
-    "_id": "12",
-    "title": "Verse 12"
+    "title": "Verse 12",
+    "externalId": 12,
+    "_id": "9300f763-6e0a-4d4c-a1fc-0ce426d9298b"
   },
   {
     "verse_number": 13,
@@ -164,8 +177,9 @@
     "chapter_number": 1,
     "verse_order": 13,
     "_type": "verse",
-    "_id": "13",
-    "title": "Verse 13"
+    "title": "Verse 13",
+    "externalId": 13,
+    "_id": "9f0a2ee6-5947-47ba-b3f7-888d54d2e0cd"
   },
   {
     "verse_number": 14,
@@ -176,8 +190,9 @@
     "chapter_number": 1,
     "verse_order": 14,
     "_type": "verse",
-    "_id": "14",
-    "title": "Verse 14"
+    "title": "Verse 14",
+    "externalId": 14,
+    "_id": "b4d807d1-7d85-4909-a9e3-eef05a1ea00a"
   },
   {
     "verse_number": 15,
@@ -188,8 +203,9 @@
     "chapter_number": 1,
     "verse_order": 15,
     "_type": "verse",
-    "_id": "15",
-    "title": "Verse 15"
+    "title": "Verse 15",
+    "externalId": 15,
+    "_id": "0c451aaa-82d3-4b2c-9591-03a1c4d20b77"
   },
   {
     "verse_number": 16,
@@ -200,8 +216,9 @@
     "chapter_number": 1,
     "verse_order": 16,
     "_type": "verse",
-    "_id": "16",
-    "title": "Verse 16"
+    "title": "Verse 16",
+    "externalId": 16,
+    "_id": "d593aaa1-5cc8-4889-91a7-aadb4b16a6a1"
   },
   {
     "verse_number": 17,
@@ -212,8 +229,9 @@
     "chapter_number": 1,
     "verse_order": 17,
     "_type": "verse",
-    "_id": "17",
-    "title": "Verse 17"
+    "title": "Verse 17",
+    "externalId": 17,
+    "_id": "4433d127-bddf-4862-964f-843dfc65ecbf"
   },
   {
     "verse_number": 18,
@@ -224,8 +242,9 @@
     "chapter_number": 1,
     "verse_order": 18,
     "_type": "verse",
-    "_id": "18",
-    "title": "Verse 18"
+    "title": "Verse 18",
+    "externalId": 18,
+    "_id": "8d25f0b2-6396-40d6-981c-874a83b6501b"
   },
   {
     "verse_number": 19,
@@ -236,8 +255,9 @@
     "chapter_number": 1,
     "verse_order": 19,
     "_type": "verse",
-    "_id": "19",
-    "title": "Verse 19"
+    "title": "Verse 19",
+    "externalId": 19,
+    "_id": "8d8fc52e-994c-4408-a99d-d5d7aba0afd2"
   },
   {
     "verse_number": 20,
@@ -248,8 +268,9 @@
     "chapter_number": 1,
     "verse_order": 20,
     "_type": "verse",
-    "_id": "20",
-    "title": "Verse 20"
+    "title": "Verse 20",
+    "externalId": 20,
+    "_id": "751d2873-0ab8-483e-a2f2-a23b2295db2f"
   },
   {
     "verse_number": 21,
@@ -260,8 +281,9 @@
     "chapter_number": 1,
     "verse_order": 21,
     "_type": "verse",
-    "_id": "21",
-    "title": "Verse 21"
+    "title": "Verse 21",
+    "externalId": 21,
+    "_id": "c653657c-6cf2-4db2-b94f-10a5b3ec8231"
   },
   {
     "verse_number": 22,
@@ -272,8 +294,9 @@
     "chapter_number": 1,
     "verse_order": 22,
     "_type": "verse",
-    "_id": "22",
-    "title": "Verse 22"
+    "title": "Verse 22",
+    "externalId": 22,
+    "_id": "d3b3b3d2-f844-4548-9e7c-63a9880acd83"
   },
   {
     "verse_number": 23,
@@ -284,8 +307,9 @@
     "chapter_number": 1,
     "verse_order": 23,
     "_type": "verse",
-    "_id": "23",
-    "title": "Verse 23"
+    "title": "Verse 23",
+    "externalId": 23,
+    "_id": "3d79acdf-f7b9-43ca-87e1-4b6412d7c229"
   },
   {
     "verse_number": 24,
@@ -296,8 +320,9 @@
     "chapter_number": 1,
     "verse_order": 24,
     "_type": "verse",
-    "_id": "24",
-    "title": "Verse 24"
+    "title": "Verse 24",
+    "externalId": 24,
+    "_id": "63cf78f7-1840-4d48-8608-8cb9b75119dc"
   },
   {
     "verse_number": 25,
@@ -308,8 +333,9 @@
     "chapter_number": 1,
     "verse_order": 25,
     "_type": "verse",
-    "_id": "25",
-    "title": "Verse 25"
+    "title": "Verse 25",
+    "externalId": 25,
+    "_id": "ca583262-ff50-43b2-a53c-22e6cb44c5c0"
   },
   {
     "verse_number": 35,
@@ -320,8 +346,9 @@
     "chapter_number": 1,
     "verse_order": 35,
     "_type": "verse",
-    "_id": "35",
-    "title": "Verse 35"
+    "title": "Verse 35",
+    "externalId": 35,
+    "_id": "58038275-33ce-4119-817e-dd49aa8a0542"
   },
   {
     "verse_number": 26,
@@ -332,8 +359,9 @@
     "chapter_number": 1,
     "verse_order": 26,
     "_type": "verse",
-    "_id": "26",
-    "title": "Verse 26"
+    "title": "Verse 26",
+    "externalId": 26,
+    "_id": "435990b5-c803-40bf-8e67-13a9026bc31a"
   },
   {
     "verse_number": 27,
@@ -344,8 +372,9 @@
     "chapter_number": 1,
     "verse_order": 27,
     "_type": "verse",
-    "_id": "27",
-    "title": "Verse 27"
+    "title": "Verse 27",
+    "externalId": 27,
+    "_id": "f3e5a7fb-8406-49ec-95e1-0f1dfdcca1ca"
   },
   {
     "verse_number": 28,
@@ -356,8 +385,9 @@
     "chapter_number": 1,
     "verse_order": 28,
     "_type": "verse",
-    "_id": "28",
-    "title": "Verse 28"
+    "title": "Verse 28",
+    "externalId": 28,
+    "_id": "6cd2d43b-0ddd-488d-a991-d07945a691a2"
   },
   {
     "verse_number": 29,
@@ -368,8 +398,9 @@
     "chapter_number": 1,
     "verse_order": 29,
     "_type": "verse",
-    "_id": "29",
-    "title": "Verse 29"
+    "title": "Verse 29",
+    "externalId": 29,
+    "_id": "efdec4c7-182f-4a81-89e1-8b6f044f6508"
   },
   {
     "verse_number": 30,
@@ -380,8 +411,9 @@
     "chapter_number": 1,
     "verse_order": 30,
     "_type": "verse",
-    "_id": "30",
-    "title": "Verse 30"
+    "title": "Verse 30",
+    "externalId": 30,
+    "_id": "654765a6-35f9-43d8-a925-f6bfe44abdc0"
   },
   {
     "verse_number": 31,
@@ -392,8 +424,9 @@
     "chapter_number": 1,
     "verse_order": 31,
     "_type": "verse",
-    "_id": "31",
-    "title": "Verse 31"
+    "title": "Verse 31",
+    "externalId": 31,
+    "_id": "592958e1-b91b-4270-9b3c-4bcd18240a9b"
   },
   {
     "verse_number": 32,
@@ -404,8 +437,9 @@
     "chapter_number": 1,
     "verse_order": 32,
     "_type": "verse",
-    "_id": "32",
-    "title": "Verse 32"
+    "title": "Verse 32",
+    "externalId": 32,
+    "_id": "dffb1bf4-83a9-40e4-b698-d082cdc6aee4"
   },
   {
     "verse_number": 33,
@@ -416,8 +450,9 @@
     "chapter_number": 1,
     "verse_order": 33,
     "_type": "verse",
-    "_id": "33",
-    "title": "Verse 33"
+    "title": "Verse 33",
+    "externalId": 33,
+    "_id": "61089584-a1b3-4918-aa68-5a799a7780c2"
   },
   {
     "verse_number": 34,
@@ -428,8 +463,9 @@
     "chapter_number": 1,
     "verse_order": 34,
     "_type": "verse",
-    "_id": "34",
-    "title": "Verse 34"
+    "title": "Verse 34",
+    "externalId": 34,
+    "_id": "92080362-11e8-4d69-af12-f81cb0566191"
   },
   {
     "verse_number": 36,
@@ -440,8 +476,9 @@
     "chapter_number": 1,
     "verse_order": 36,
     "_type": "verse",
-    "_id": "36",
-    "title": "Verse 36"
+    "title": "Verse 36",
+    "externalId": 36,
+    "_id": "9973bb9d-b3f7-4b4f-8dd9-de6758894eb6"
   },
   {
     "verse_number": 37,
@@ -452,8 +489,9 @@
     "chapter_number": 1,
     "verse_order": 37,
     "_type": "verse",
-    "_id": "37",
-    "title": "Verse 37"
+    "title": "Verse 37",
+    "externalId": 37,
+    "_id": "46ab69ab-14e9-4f6c-b7f4-c445cd512706"
   },
   {
     "verse_number": 38,
@@ -464,8 +502,9 @@
     "chapter_number": 1,
     "verse_order": 38,
     "_type": "verse",
-    "_id": "38",
-    "title": "Verse 38"
+    "title": "Verse 38",
+    "externalId": 38,
+    "_id": "7df3c036-7ca9-4e04-9c5b-b6d216f6d32f"
   },
   {
     "verse_number": 39,
@@ -476,8 +515,9 @@
     "chapter_number": 1,
     "verse_order": 39,
     "_type": "verse",
-    "_id": "39",
-    "title": "Verse 39"
+    "title": "Verse 39",
+    "externalId": 39,
+    "_id": "c860d3f3-146e-4c7e-a3d2-73f8afdbb6bb"
   },
   {
     "verse_number": 40,
@@ -488,8 +528,9 @@
     "chapter_number": 1,
     "verse_order": 40,
     "_type": "verse",
-    "_id": "40",
-    "title": "Verse 40"
+    "title": "Verse 40",
+    "externalId": 40,
+    "_id": "516d629c-cdf3-4947-9e8f-a21896e1f2b3"
   },
   {
     "verse_number": 41,
@@ -500,8 +541,9 @@
     "chapter_number": 1,
     "verse_order": 41,
     "_type": "verse",
-    "_id": "41",
-    "title": "Verse 41"
+    "title": "Verse 41",
+    "externalId": 41,
+    "_id": "76734c3d-755f-47ec-8916-2688b8b99243"
   },
   {
     "verse_number": 42,
@@ -512,8 +554,9 @@
     "chapter_number": 1,
     "verse_order": 42,
     "_type": "verse",
-    "_id": "42",
-    "title": "Verse 42"
+    "title": "Verse 42",
+    "externalId": 42,
+    "_id": "9d5dd732-6b01-478f-aa2c-9c306ced1357"
   },
   {
     "verse_number": 43,
@@ -524,8 +567,9 @@
     "chapter_number": 1,
     "verse_order": 43,
     "_type": "verse",
-    "_id": "43",
-    "title": "Verse 43"
+    "title": "Verse 43",
+    "externalId": 43,
+    "_id": "dce87515-fdad-49b3-8656-03c5f0dea40c"
   },
   {
     "verse_number": 44,
@@ -536,8 +580,9 @@
     "chapter_number": 1,
     "verse_order": 44,
     "_type": "verse",
-    "_id": "44",
-    "title": "Verse 44"
+    "title": "Verse 44",
+    "externalId": 44,
+    "_id": "c77c1b63-d4d6-42aa-8f35-0cd99232a2be"
   },
   {
     "verse_number": 46,
@@ -548,8 +593,9 @@
     "chapter_number": 1,
     "verse_order": 46,
     "_type": "verse",
-    "_id": "46",
-    "title": "Verse 46"
+    "title": "Verse 46",
+    "externalId": 46,
+    "_id": "49ad775d-f689-42a8-819e-6110c846aff4"
   },
   {
     "verse_number": 47,
@@ -560,8 +606,9 @@
     "chapter_number": 1,
     "verse_order": 47,
     "_type": "verse",
-    "_id": "47",
-    "title": "Verse 47"
+    "title": "Verse 47",
+    "externalId": 47,
+    "_id": "dad82ccf-a796-4639-bca3-b3e4b25611d4"
   },
   {
     "verse_number": 1,
@@ -572,8 +619,9 @@
     "chapter_number": 2,
     "verse_order": 48,
     "_type": "verse",
-    "_id": "48",
-    "title": "Verse 48"
+    "title": "Verse 48",
+    "externalId": 48,
+    "_id": "44829910-40b2-4223-b84e-4ff9782e825c"
   },
   {
     "verse_number": 2,
@@ -584,8 +632,9 @@
     "chapter_number": 2,
     "verse_order": 49,
     "_type": "verse",
-    "_id": "49",
-    "title": "Verse 49"
+    "title": "Verse 49",
+    "externalId": 49,
+    "_id": "158f2a4c-1731-4a2c-bf5d-730ff585b1e9"
   },
   {
     "verse_number": 3,
@@ -596,8 +645,9 @@
     "chapter_number": 2,
     "verse_order": 50,
     "_type": "verse",
-    "_id": "50",
-    "title": "Verse 50"
+    "title": "Verse 50",
+    "externalId": 50,
+    "_id": "439c6b05-0b95-4096-bf33-e07e43d66ab5"
   },
   {
     "verse_number": 4,
@@ -608,8 +658,9 @@
     "chapter_number": 2,
     "verse_order": 51,
     "_type": "verse",
-    "_id": "51",
-    "title": "Verse 51"
+    "title": "Verse 51",
+    "externalId": 51,
+    "_id": "616f67bd-9d85-47df-8041-26c1a56b8e55"
   },
   {
     "verse_number": 5,
@@ -620,8 +671,9 @@
     "chapter_number": 2,
     "verse_order": 52,
     "_type": "verse",
-    "_id": "52",
-    "title": "Verse 52"
+    "title": "Verse 52",
+    "externalId": 52,
+    "_id": "305ebf5f-b72e-45af-944f-d6101154cd71"
   },
   {
     "verse_number": 6,
@@ -632,8 +684,9 @@
     "chapter_number": 2,
     "verse_order": 53,
     "_type": "verse",
-    "_id": "53",
-    "title": "Verse 53"
+    "title": "Verse 53",
+    "externalId": 53,
+    "_id": "4a77931e-40c7-4cc7-b553-6bf738e32169"
   },
   {
     "verse_number": 7,
@@ -644,8 +697,9 @@
     "chapter_number": 2,
     "verse_order": 54,
     "_type": "verse",
-    "_id": "54",
-    "title": "Verse 54"
+    "title": "Verse 54",
+    "externalId": 54,
+    "_id": "329aea18-3f24-4fc4-9f29-28ec2968dc29"
   },
   {
     "verse_number": 8,
@@ -656,8 +710,9 @@
     "chapter_number": 2,
     "verse_order": 55,
     "_type": "verse",
-    "_id": "55",
-    "title": "Verse 55"
+    "title": "Verse 55",
+    "externalId": 55,
+    "_id": "32ecac03-c3ed-48d9-a215-def11b55c568"
   },
   {
     "verse_number": 9,
@@ -668,8 +723,9 @@
     "chapter_number": 2,
     "verse_order": 56,
     "_type": "verse",
-    "_id": "56",
-    "title": "Verse 56"
+    "title": "Verse 56",
+    "externalId": 56,
+    "_id": "ef67e343-dc0f-4217-a8f7-6ab025e0af21"
   },
   {
     "verse_number": 10,
@@ -680,8 +736,9 @@
     "chapter_number": 2,
     "verse_order": 57,
     "_type": "verse",
-    "_id": "57",
-    "title": "Verse 57"
+    "title": "Verse 57",
+    "externalId": 57,
+    "_id": "f6e03bbd-fbf3-463a-be08-1aea7ed01ec6"
   },
   {
     "verse_number": 11,
@@ -692,8 +749,9 @@
     "chapter_number": 2,
     "verse_order": 58,
     "_type": "verse",
-    "_id": "58",
-    "title": "Verse 58"
+    "title": "Verse 58",
+    "externalId": 58,
+    "_id": "fd668e46-3f9f-433b-81d3-13e32ccef29d"
   },
   {
     "verse_number": 12,
@@ -704,8 +762,9 @@
     "chapter_number": 2,
     "verse_order": 59,
     "_type": "verse",
-    "_id": "59",
-    "title": "Verse 59"
+    "title": "Verse 59",
+    "externalId": 59,
+    "_id": "e829ae28-f134-461f-be5a-79e60c50bacb"
   },
   {
     "verse_number": 13,
@@ -716,8 +775,9 @@
     "chapter_number": 2,
     "verse_order": 60,
     "_type": "verse",
-    "_id": "60",
-    "title": "Verse 60"
+    "title": "Verse 60",
+    "externalId": 60,
+    "_id": "e40c62a7-becd-47c0-b30d-97bcc85be762"
   },
   {
     "verse_number": 14,
@@ -728,8 +788,9 @@
     "chapter_number": 2,
     "verse_order": 61,
     "_type": "verse",
-    "_id": "61",
-    "title": "Verse 61"
+    "title": "Verse 61",
+    "externalId": 61,
+    "_id": "6683ece4-efa9-4023-a980-4e84ce333050"
   },
   {
     "verse_number": 15,
@@ -740,8 +801,9 @@
     "chapter_number": 2,
     "verse_order": 62,
     "_type": "verse",
-    "_id": "62",
-    "title": "Verse 62"
+    "title": "Verse 62",
+    "externalId": 62,
+    "_id": "c8be0054-2d3a-4749-ba3d-859b211552c6"
   },
   {
     "verse_number": 16,
@@ -752,8 +814,9 @@
     "chapter_number": 2,
     "verse_order": 63,
     "_type": "verse",
-    "_id": "63",
-    "title": "Verse 63"
+    "title": "Verse 63",
+    "externalId": 63,
+    "_id": "cbdc6521-e822-4c0c-aa9e-8a90c912231a"
   },
   {
     "verse_number": 17,
@@ -764,8 +827,9 @@
     "chapter_number": 2,
     "verse_order": 64,
     "_type": "verse",
-    "_id": "64",
-    "title": "Verse 64"
+    "title": "Verse 64",
+    "externalId": 64,
+    "_id": "b5cd71ec-2110-4551-b7fe-95aabfafaba0"
   },
   {
     "verse_number": 18,
@@ -776,8 +840,9 @@
     "chapter_number": 2,
     "verse_order": 65,
     "_type": "verse",
-    "_id": "65",
-    "title": "Verse 65"
+    "title": "Verse 65",
+    "externalId": 65,
+    "_id": "92c96f90-a87c-4036-9e9d-643e89b4a040"
   },
   {
     "verse_number": 19,
@@ -788,8 +853,9 @@
     "chapter_number": 2,
     "verse_order": 66,
     "_type": "verse",
-    "_id": "66",
-    "title": "Verse 66"
+    "title": "Verse 66",
+    "externalId": 66,
+    "_id": "95b2768e-25b8-4ea4-bb44-9db5712c00f5"
   },
   {
     "verse_number": 20,
@@ -800,8 +866,9 @@
     "chapter_number": 2,
     "verse_order": 67,
     "_type": "verse",
-    "_id": "67",
-    "title": "Verse 67"
+    "title": "Verse 67",
+    "externalId": 67,
+    "_id": "52057d32-90b6-4767-ac82-a6e0c806049d"
   },
   {
     "verse_number": 21,
@@ -812,8 +879,9 @@
     "chapter_number": 2,
     "verse_order": 68,
     "_type": "verse",
-    "_id": "68",
-    "title": "Verse 68"
+    "title": "Verse 68",
+    "externalId": 68,
+    "_id": "6eb7f260-4cc2-4bf1-a21b-15617ef865d2"
   },
   {
     "verse_number": 22,
@@ -824,8 +892,9 @@
     "chapter_number": 2,
     "verse_order": 69,
     "_type": "verse",
-    "_id": "69",
-    "title": "Verse 69"
+    "title": "Verse 69",
+    "externalId": 69,
+    "_id": "41e7225f-438e-409c-ad28-32f0fff1b01a"
   },
   {
     "verse_number": 23,
@@ -836,8 +905,9 @@
     "chapter_number": 2,
     "verse_order": 70,
     "_type": "verse",
-    "_id": "70",
-    "title": "Verse 70"
+    "title": "Verse 70",
+    "externalId": 70,
+    "_id": "118aa2ee-19d0-44e2-a236-82bcf1aa446e"
   },
   {
     "verse_number": 24,
@@ -848,8 +918,9 @@
     "chapter_number": 2,
     "verse_order": 71,
     "_type": "verse",
-    "_id": "71",
-    "title": "Verse 71"
+    "title": "Verse 71",
+    "externalId": 71,
+    "_id": "a5aec957-c19b-40fc-962d-faa0e19194d9"
   },
   {
     "verse_number": 25,
@@ -860,8 +931,9 @@
     "chapter_number": 2,
     "verse_order": 72,
     "_type": "verse",
-    "_id": "72",
-    "title": "Verse 72"
+    "title": "Verse 72",
+    "externalId": 72,
+    "_id": "fa7ab5ea-27fd-47c0-94ce-817caa76f583"
   },
   {
     "verse_number": 26,
@@ -872,8 +944,9 @@
     "chapter_number": 2,
     "verse_order": 73,
     "_type": "verse",
-    "_id": "73",
-    "title": "Verse 73"
+    "title": "Verse 73",
+    "externalId": 73,
+    "_id": "aa691cf2-6743-40f3-bf7b-9a38432a6730"
   },
   {
     "verse_number": 27,
@@ -884,8 +957,9 @@
     "chapter_number": 2,
     "verse_order": 74,
     "_type": "verse",
-    "_id": "74",
-    "title": "Verse 74"
+    "title": "Verse 74",
+    "externalId": 74,
+    "_id": "b51fc05a-4e13-4d59-b3b1-fccf41ac8f2e"
   },
   {
     "verse_number": 28,
@@ -896,8 +970,9 @@
     "chapter_number": 2,
     "verse_order": 75,
     "_type": "verse",
-    "_id": "75",
-    "title": "Verse 75"
+    "title": "Verse 75",
+    "externalId": 75,
+    "_id": "8ad96f54-3d45-4fe9-acf9-a021b60791ad"
   },
   {
     "verse_number": 29,
@@ -908,8 +983,9 @@
     "chapter_number": 2,
     "verse_order": 76,
     "_type": "verse",
-    "_id": "76",
-    "title": "Verse 76"
+    "title": "Verse 76",
+    "externalId": 76,
+    "_id": "466aabd1-583c-477c-93dc-80db25c80cdd"
   },
   {
     "verse_number": 30,
@@ -920,8 +996,9 @@
     "chapter_number": 2,
     "verse_order": 77,
     "_type": "verse",
-    "_id": "77",
-    "title": "Verse 77"
+    "title": "Verse 77",
+    "externalId": 77,
+    "_id": "8276d400-4378-496e-a57e-421217d7f663"
   },
   {
     "verse_number": 31,
@@ -932,8 +1009,9 @@
     "chapter_number": 2,
     "verse_order": 78,
     "_type": "verse",
-    "_id": "78",
-    "title": "Verse 78"
+    "title": "Verse 78",
+    "externalId": 78,
+    "_id": "5eb69377-bd1a-4a7d-8684-501a10a5a611"
   },
   {
     "verse_number": 32,
@@ -944,8 +1022,9 @@
     "chapter_number": 2,
     "verse_order": 79,
     "_type": "verse",
-    "_id": "79",
-    "title": "Verse 79"
+    "title": "Verse 79",
+    "externalId": 79,
+    "_id": "634eec25-10a7-442b-b3fb-49c8ad50ba75"
   },
   {
     "verse_number": 33,
@@ -956,8 +1035,9 @@
     "chapter_number": 2,
     "verse_order": 80,
     "_type": "verse",
-    "_id": "80",
-    "title": "Verse 80"
+    "title": "Verse 80",
+    "externalId": 80,
+    "_id": "d1f23527-0630-46a7-8938-4d088b5598b9"
   },
   {
     "verse_number": 34,
@@ -968,8 +1048,9 @@
     "chapter_number": 2,
     "verse_order": 81,
     "_type": "verse",
-    "_id": "81",
-    "title": "Verse 81"
+    "title": "Verse 81",
+    "externalId": 81,
+    "_id": "b596411f-f209-4feb-b4e5-19305d6450c9"
   },
   {
     "verse_number": 35,
@@ -980,8 +1061,9 @@
     "chapter_number": 2,
     "verse_order": 82,
     "_type": "verse",
-    "_id": "82",
-    "title": "Verse 82"
+    "title": "Verse 82",
+    "externalId": 82,
+    "_id": "c416b6a3-a2d6-49d8-b985-7b4292c2b659"
   },
   {
     "verse_number": 36,
@@ -992,8 +1074,9 @@
     "chapter_number": 2,
     "verse_order": 83,
     "_type": "verse",
-    "_id": "83",
-    "title": "Verse 83"
+    "title": "Verse 83",
+    "externalId": 83,
+    "_id": "06f1661d-03cf-4159-81b8-6045f00be54e"
   },
   {
     "verse_number": 37,
@@ -1004,8 +1087,9 @@
     "chapter_number": 2,
     "verse_order": 84,
     "_type": "verse",
-    "_id": "84",
-    "title": "Verse 84"
+    "title": "Verse 84",
+    "externalId": 84,
+    "_id": "62c821f3-7075-44f1-98b5-f8877c13b02f"
   },
   {
     "verse_number": 38,
@@ -1016,8 +1100,9 @@
     "chapter_number": 2,
     "verse_order": 85,
     "_type": "verse",
-    "_id": "85",
-    "title": "Verse 85"
+    "title": "Verse 85",
+    "externalId": 85,
+    "_id": "cb020e82-1fdf-4ddd-9098-fd013e91e80d"
   },
   {
     "verse_number": 39,
@@ -1028,8 +1113,9 @@
     "chapter_number": 2,
     "verse_order": 86,
     "_type": "verse",
-    "_id": "86",
-    "title": "Verse 86"
+    "title": "Verse 86",
+    "externalId": 86,
+    "_id": "686f7659-9ce9-4c02-9780-4850322086af"
   },
   {
     "verse_number": 40,
@@ -1040,8 +1126,9 @@
     "chapter_number": 2,
     "verse_order": 87,
     "_type": "verse",
-    "_id": "87",
-    "title": "Verse 87"
+    "title": "Verse 87",
+    "externalId": 87,
+    "_id": "90bf13f7-8be8-4a22-9c9d-429d2438d20b"
   },
   {
     "verse_number": 41,
@@ -1052,8 +1139,9 @@
     "chapter_number": 2,
     "verse_order": 88,
     "_type": "verse",
-    "_id": "88",
-    "title": "Verse 88"
+    "title": "Verse 88",
+    "externalId": 88,
+    "_id": "8c21d734-03d1-47f2-b25b-a33fa899b659"
   },
   {
     "verse_number": 42,
@@ -1064,8 +1152,9 @@
     "chapter_number": 2,
     "verse_order": 89,
     "_type": "verse",
-    "_id": "89",
-    "title": "Verse 89"
+    "title": "Verse 89",
+    "externalId": 89,
+    "_id": "01cb1d57-23a1-43bf-b6e0-651fd7af9a4c"
   },
   {
     "verse_number": 44,
@@ -1076,8 +1165,9 @@
     "chapter_number": 2,
     "verse_order": 90,
     "_type": "verse",
-    "_id": "90",
-    "title": "Verse 90"
+    "title": "Verse 90",
+    "externalId": 90,
+    "_id": "85dd19dc-689f-497b-b493-62238f2fe8d9"
   },
   {
     "verse_number": 45,
@@ -1088,8 +1178,9 @@
     "chapter_number": 2,
     "verse_order": 91,
     "_type": "verse",
-    "_id": "91",
-    "title": "Verse 91"
+    "title": "Verse 91",
+    "externalId": 91,
+    "_id": "e9f25a49-aed2-48df-abb4-4cc38c22ddb2"
   },
   {
     "verse_number": 46,
@@ -1100,8 +1191,9 @@
     "chapter_number": 2,
     "verse_order": 92,
     "_type": "verse",
-    "_id": "92",
-    "title": "Verse 92"
+    "title": "Verse 92",
+    "externalId": 92,
+    "_id": "c733467e-6a7a-4365-a0cb-90f63bc20bc9"
   },
   {
     "verse_number": 47,
@@ -1112,8 +1204,9 @@
     "chapter_number": 2,
     "verse_order": 93,
     "_type": "verse",
-    "_id": "93",
-    "title": "Verse 93"
+    "title": "Verse 93",
+    "externalId": 93,
+    "_id": "8ef507d6-a62f-48c2-9233-9ec1afb5ecf4"
   },
   {
     "verse_number": 48,
@@ -1124,8 +1217,9 @@
     "chapter_number": 2,
     "verse_order": 94,
     "_type": "verse",
-    "_id": "94",
-    "title": "Verse 94"
+    "title": "Verse 94",
+    "externalId": 94,
+    "_id": "183d83b0-64a2-488f-97fa-dad7bf682e6b"
   },
   {
     "verse_number": 8,
@@ -1136,8 +1230,9 @@
     "chapter_number": 4,
     "verse_order": 169,
     "_type": "verse",
-    "_id": "169",
-    "title": "Verse 169"
+    "title": "Verse 169",
+    "externalId": 169,
+    "_id": "a21e1855-a85b-4412-9c17-cb0d63c796ea"
   },
   {
     "verse_number": 49,
@@ -1148,8 +1243,9 @@
     "chapter_number": 2,
     "verse_order": 95,
     "_type": "verse",
-    "_id": "95",
-    "title": "Verse 95"
+    "title": "Verse 95",
+    "externalId": 95,
+    "_id": "95a203a0-225f-4bf8-a77e-5a619462bfe9"
   },
   {
     "verse_number": 50,
@@ -1160,8 +1256,9 @@
     "chapter_number": 2,
     "verse_order": 96,
     "_type": "verse",
-    "_id": "96",
-    "title": "Verse 96"
+    "title": "Verse 96",
+    "externalId": 96,
+    "_id": "5bd61435-e58f-4474-a85a-0dcbd8d1915c"
   },
   {
     "verse_number": 51,
@@ -1172,8 +1269,9 @@
     "chapter_number": 2,
     "verse_order": 97,
     "_type": "verse",
-    "_id": "97",
-    "title": "Verse 97"
+    "title": "Verse 97",
+    "externalId": 97,
+    "_id": "e03c6627-0041-4e5f-8552-8db3e6d8b4db"
   },
   {
     "verse_number": 52,
@@ -1184,8 +1282,9 @@
     "chapter_number": 2,
     "verse_order": 98,
     "_type": "verse",
-    "_id": "98",
-    "title": "Verse 98"
+    "title": "Verse 98",
+    "externalId": 98,
+    "_id": "755be555-a44a-40ff-a804-3f8b85ea8b3b"
   },
   {
     "verse_number": 53,
@@ -1196,8 +1295,9 @@
     "chapter_number": 2,
     "verse_order": 99,
     "_type": "verse",
-    "_id": "99",
-    "title": "Verse 99"
+    "title": "Verse 99",
+    "externalId": 99,
+    "_id": "0fe76b22-b875-4c50-af44-5f645fef05e0"
   },
   {
     "verse_number": 54,
@@ -1208,8 +1308,9 @@
     "chapter_number": 2,
     "verse_order": 100,
     "_type": "verse",
-    "_id": "100",
-    "title": "Verse 100"
+    "title": "Verse 100",
+    "externalId": 100,
+    "_id": "bdc99eac-8f8a-4ec3-a4eb-8e9f2415e33d"
   },
   {
     "verse_number": 55,
@@ -1220,8 +1321,9 @@
     "chapter_number": 2,
     "verse_order": 101,
     "_type": "verse",
-    "_id": "101",
-    "title": "Verse 101"
+    "title": "Verse 101",
+    "externalId": 101,
+    "_id": "32c681c6-bde8-44f6-856a-4dbad7bb0cec"
   },
   {
     "verse_number": 56,
@@ -1232,8 +1334,9 @@
     "chapter_number": 2,
     "verse_order": 102,
     "_type": "verse",
-    "_id": "102",
-    "title": "Verse 102"
+    "title": "Verse 102",
+    "externalId": 102,
+    "_id": "f129ff6a-d933-4fb3-9dc2-0469c8a966e6"
   },
   {
     "verse_number": 57,
@@ -1244,8 +1347,9 @@
     "chapter_number": 2,
     "verse_order": 103,
     "_type": "verse",
-    "_id": "103",
-    "title": "Verse 103"
+    "title": "Verse 103",
+    "externalId": 103,
+    "_id": "bd2136ff-0d19-45db-ab7c-fdb059279969"
   },
   {
     "verse_number": 58,
@@ -1256,8 +1360,9 @@
     "chapter_number": 2,
     "verse_order": 104,
     "_type": "verse",
-    "_id": "104",
-    "title": "Verse 104"
+    "title": "Verse 104",
+    "externalId": 104,
+    "_id": "3e4f6fa0-9251-4fb8-b5ef-43602016488a"
   },
   {
     "verse_number": 59,
@@ -1268,8 +1373,9 @@
     "chapter_number": 2,
     "verse_order": 105,
     "_type": "verse",
-    "_id": "105",
-    "title": "Verse 105"
+    "title": "Verse 105",
+    "externalId": 105,
+    "_id": "9eec0598-a27e-445a-9c2d-308ba15b270b"
   },
   {
     "verse_number": 60,
@@ -1280,8 +1386,9 @@
     "chapter_number": 2,
     "verse_order": 106,
     "_type": "verse",
-    "_id": "106",
-    "title": "Verse 106"
+    "title": "Verse 106",
+    "externalId": 106,
+    "_id": "8c896553-2724-40da-b61a-bb43028a96ce"
   },
   {
     "verse_number": 61,
@@ -1292,8 +1399,9 @@
     "chapter_number": 2,
     "verse_order": 107,
     "_type": "verse",
-    "_id": "107",
-    "title": "Verse 107"
+    "title": "Verse 107",
+    "externalId": 107,
+    "_id": "7f0ee727-0ec8-4909-b25c-a2a24edb2115"
   },
   {
     "verse_number": 62,
@@ -1304,8 +1412,9 @@
     "chapter_number": 2,
     "verse_order": 108,
     "_type": "verse",
-    "_id": "108",
-    "title": "Verse 108"
+    "title": "Verse 108",
+    "externalId": 108,
+    "_id": "5397cfba-ce50-4fa1-8fd9-68341bd3570d"
   },
   {
     "verse_number": 63,
@@ -1316,8 +1425,9 @@
     "chapter_number": 2,
     "verse_order": 109,
     "_type": "verse",
-    "_id": "109",
-    "title": "Verse 109"
+    "title": "Verse 109",
+    "externalId": 109,
+    "_id": "eb68a10f-deb6-4314-96d2-173af506381a"
   },
   {
     "verse_number": 64,
@@ -1328,8 +1438,9 @@
     "chapter_number": 2,
     "verse_order": 110,
     "_type": "verse",
-    "_id": "110",
-    "title": "Verse 110"
+    "title": "Verse 110",
+    "externalId": 110,
+    "_id": "9b430b61-95a1-4759-8fcc-18fa6f3c5e63"
   },
   {
     "verse_number": 65,
@@ -1340,8 +1451,9 @@
     "chapter_number": 2,
     "verse_order": 111,
     "_type": "verse",
-    "_id": "111",
-    "title": "Verse 111"
+    "title": "Verse 111",
+    "externalId": 111,
+    "_id": "23af2abc-4332-47f7-859e-e6bd40a06267"
   },
   {
     "verse_number": 66,
@@ -1352,8 +1464,9 @@
     "chapter_number": 2,
     "verse_order": 112,
     "_type": "verse",
-    "_id": "112",
-    "title": "Verse 112"
+    "title": "Verse 112",
+    "externalId": 112,
+    "_id": "7bb9ed7a-6ab8-47e0-beb3-bd493f0a7a3f"
   },
   {
     "verse_number": 67,
@@ -1364,8 +1477,9 @@
     "chapter_number": 2,
     "verse_order": 113,
     "_type": "verse",
-    "_id": "113",
-    "title": "Verse 113"
+    "title": "Verse 113",
+    "externalId": 113,
+    "_id": "fa361889-ac65-42ee-a5bf-2aafb9e6168d"
   },
   {
     "verse_number": 68,
@@ -1376,8 +1490,9 @@
     "chapter_number": 2,
     "verse_order": 114,
     "_type": "verse",
-    "_id": "114",
-    "title": "Verse 114"
+    "title": "Verse 114",
+    "externalId": 114,
+    "_id": "76ae3ce6-5864-41df-b348-943ce5ed282f"
   },
   {
     "verse_number": 69,
@@ -1388,8 +1503,9 @@
     "chapter_number": 2,
     "verse_order": 115,
     "_type": "verse",
-    "_id": "115",
-    "title": "Verse 115"
+    "title": "Verse 115",
+    "externalId": 115,
+    "_id": "d0d95ced-f045-4b92-98b4-353c3910c774"
   },
   {
     "verse_number": 70,
@@ -1400,8 +1516,9 @@
     "chapter_number": 2,
     "verse_order": 116,
     "_type": "verse",
-    "_id": "116",
-    "title": "Verse 116"
+    "title": "Verse 116",
+    "externalId": 116,
+    "_id": "23cd65ef-1ffb-4dc6-9d4b-d2b773e9a234"
   },
   {
     "verse_number": 71,
@@ -1412,8 +1529,9 @@
     "chapter_number": 2,
     "verse_order": 117,
     "_type": "verse",
-    "_id": "117",
-    "title": "Verse 117"
+    "title": "Verse 117",
+    "externalId": 117,
+    "_id": "93d53c36-9f6c-409f-b020-3fe90ba16664"
   },
   {
     "verse_number": 72,
@@ -1424,8 +1542,9 @@
     "chapter_number": 2,
     "verse_order": 118,
     "_type": "verse",
-    "_id": "118",
-    "title": "Verse 118"
+    "title": "Verse 118",
+    "externalId": 118,
+    "_id": "cda396ca-64f5-4187-a1c6-66d4e92b4859"
   },
   {
     "verse_number": 1,
@@ -1436,8 +1555,9 @@
     "chapter_number": 3,
     "verse_order": 119,
     "_type": "verse",
-    "_id": "119",
-    "title": "Verse 119"
+    "title": "Verse 119",
+    "externalId": 119,
+    "_id": "9bf35208-4de1-4d92-a73f-5984895d8aae"
   },
   {
     "verse_number": 2,
@@ -1448,8 +1568,9 @@
     "chapter_number": 3,
     "verse_order": 120,
     "_type": "verse",
-    "_id": "120",
-    "title": "Verse 120"
+    "title": "Verse 120",
+    "externalId": 120,
+    "_id": "a3d4a520-5aee-4365-9c2d-19330b0c4fbd"
   },
   {
     "verse_number": 3,
@@ -1460,8 +1581,9 @@
     "chapter_number": 3,
     "verse_order": 121,
     "_type": "verse",
-    "_id": "121",
-    "title": "Verse 121"
+    "title": "Verse 121",
+    "externalId": 121,
+    "_id": "57b0d418-807b-4c77-bd9e-dc43b11ed1a4"
   },
   {
     "verse_number": 4,
@@ -1472,8 +1594,9 @@
     "chapter_number": 3,
     "verse_order": 122,
     "_type": "verse",
-    "_id": "122",
-    "title": "Verse 122"
+    "title": "Verse 122",
+    "externalId": 122,
+    "_id": "0c65411f-392a-4f7b-9853-000aad1a7fc1"
   },
   {
     "verse_number": 5,
@@ -1484,8 +1607,9 @@
     "chapter_number": 3,
     "verse_order": 123,
     "_type": "verse",
-    "_id": "123",
-    "title": "Verse 123"
+    "title": "Verse 123",
+    "externalId": 123,
+    "_id": "a594ecd5-27be-4948-b5dd-29b2072dfca0"
   },
   {
     "verse_number": 6,
@@ -1496,8 +1620,9 @@
     "chapter_number": 3,
     "verse_order": 124,
     "_type": "verse",
-    "_id": "124",
-    "title": "Verse 124"
+    "title": "Verse 124",
+    "externalId": 124,
+    "_id": "95a96d74-6c75-4324-8036-66c912670bf7"
   },
   {
     "verse_number": 7,
@@ -1508,8 +1633,9 @@
     "chapter_number": 3,
     "verse_order": 125,
     "_type": "verse",
-    "_id": "125",
-    "title": "Verse 125"
+    "title": "Verse 125",
+    "externalId": 125,
+    "_id": "eec6068b-95fe-4e71-9e19-b16ccb7ee566"
   },
   {
     "verse_number": 8,
@@ -1520,8 +1646,9 @@
     "chapter_number": 3,
     "verse_order": 126,
     "_type": "verse",
-    "_id": "126",
-    "title": "Verse 126"
+    "title": "Verse 126",
+    "externalId": 126,
+    "_id": "6a12faea-abdf-47b1-8f1b-f9fcdf38ae93"
   },
   {
     "verse_number": 9,
@@ -1532,8 +1659,9 @@
     "chapter_number": 3,
     "verse_order": 127,
     "_type": "verse",
-    "_id": "127",
-    "title": "Verse 127"
+    "title": "Verse 127",
+    "externalId": 127,
+    "_id": "a724bf92-373d-431c-90b8-e9d79356866b"
   },
   {
     "verse_number": 32,
@@ -1544,8 +1672,9 @@
     "chapter_number": 6,
     "verse_order": 261,
     "_type": "verse",
-    "_id": "261",
-    "title": "Verse 261"
+    "title": "Verse 261",
+    "externalId": 261,
+    "_id": "830cee51-5f79-4fad-896f-092e7188c9e3"
   },
   {
     "verse_number": 10,
@@ -1556,8 +1685,9 @@
     "chapter_number": 3,
     "verse_order": 128,
     "_type": "verse",
-    "_id": "128",
-    "title": "Verse 128"
+    "title": "Verse 128",
+    "externalId": 128,
+    "_id": "00d2d71b-2751-4e75-90c0-9e7c086427db"
   },
   {
     "verse_number": 11,
@@ -1568,8 +1698,9 @@
     "chapter_number": 3,
     "verse_order": 129,
     "_type": "verse",
-    "_id": "129",
-    "title": "Verse 129"
+    "title": "Verse 129",
+    "externalId": 129,
+    "_id": "53f9aa43-cab7-4aee-b629-84f8c1d5c6fa"
   },
   {
     "verse_number": 12,
@@ -1580,8 +1711,9 @@
     "chapter_number": 3,
     "verse_order": 130,
     "_type": "verse",
-    "_id": "130",
-    "title": "Verse 130"
+    "title": "Verse 130",
+    "externalId": 130,
+    "_id": "715e1241-6a0e-4af3-9962-f481a3edc2e9"
   },
   {
     "verse_number": 13,
@@ -1592,8 +1724,9 @@
     "chapter_number": 3,
     "verse_order": 131,
     "_type": "verse",
-    "_id": "131",
-    "title": "Verse 131"
+    "title": "Verse 131",
+    "externalId": 131,
+    "_id": "46bf894c-6d0e-4367-8edf-b8854111b4ec"
   },
   {
     "verse_number": 14,
@@ -1604,8 +1737,9 @@
     "chapter_number": 3,
     "verse_order": 132,
     "_type": "verse",
-    "_id": "132",
-    "title": "Verse 132"
+    "title": "Verse 132",
+    "externalId": 132,
+    "_id": "9b313de5-9a4c-4b7d-93bf-c42a079ab0af"
   },
   {
     "verse_number": 15,
@@ -1616,8 +1750,9 @@
     "chapter_number": 3,
     "verse_order": 133,
     "_type": "verse",
-    "_id": "133",
-    "title": "Verse 133"
+    "title": "Verse 133",
+    "externalId": 133,
+    "_id": "c082f0a8-c44f-42bf-b387-9db952592ac9"
   },
   {
     "verse_number": 16,
@@ -1628,8 +1763,9 @@
     "chapter_number": 3,
     "verse_order": 134,
     "_type": "verse",
-    "_id": "134",
-    "title": "Verse 134"
+    "title": "Verse 134",
+    "externalId": 134,
+    "_id": "a72668f5-8cb0-408e-8068-fb5d727ad8fc"
   },
   {
     "verse_number": 17,
@@ -1640,8 +1776,9 @@
     "chapter_number": 3,
     "verse_order": 135,
     "_type": "verse",
-    "_id": "135",
-    "title": "Verse 135"
+    "title": "Verse 135",
+    "externalId": 135,
+    "_id": "8596ad9f-c97b-43ba-b779-7607ee2f76b0"
   },
   {
     "verse_number": 5,
@@ -1652,8 +1789,9 @@
     "chapter_number": 6,
     "verse_order": 234,
     "_type": "verse",
-    "_id": "234",
-    "title": "Verse 234"
+    "title": "Verse 234",
+    "externalId": 234,
+    "_id": "a8e04b6a-20a5-42dd-a2e3-989af9527f4e"
   },
   {
     "verse_number": 18,
@@ -1664,8 +1802,9 @@
     "chapter_number": 3,
     "verse_order": 136,
     "_type": "verse",
-    "_id": "136",
-    "title": "Verse 136"
+    "title": "Verse 136",
+    "externalId": 136,
+    "_id": "950be045-d0cc-4ac8-ae3f-bc35a40bb9d1"
   },
   {
     "verse_number": 19,
@@ -1676,8 +1815,9 @@
     "chapter_number": 3,
     "verse_order": 137,
     "_type": "verse",
-    "_id": "137",
-    "title": "Verse 137"
+    "title": "Verse 137",
+    "externalId": 137,
+    "_id": "0716f89e-3c2b-41e0-afc8-6d8f23a104ce"
   },
   {
     "verse_number": 20,
@@ -1688,8 +1828,9 @@
     "chapter_number": 3,
     "verse_order": 138,
     "_type": "verse",
-    "_id": "138",
-    "title": "Verse 138"
+    "title": "Verse 138",
+    "externalId": 138,
+    "_id": "0a5fc222-9e40-4809-9637-86f037002636"
   },
   {
     "verse_number": 21,
@@ -1700,8 +1841,9 @@
     "chapter_number": 3,
     "verse_order": 139,
     "_type": "verse",
-    "_id": "139",
-    "title": "Verse 139"
+    "title": "Verse 139",
+    "externalId": 139,
+    "_id": "bcd42d2e-a0c4-4d24-acdb-9979914ffbad"
   },
   {
     "verse_number": 22,
@@ -1712,8 +1854,9 @@
     "chapter_number": 3,
     "verse_order": 140,
     "_type": "verse",
-    "_id": "140",
-    "title": "Verse 140"
+    "title": "Verse 140",
+    "externalId": 140,
+    "_id": "f22d5d90-ed73-49c9-93f1-494ba8b2bd48"
   },
   {
     "verse_number": 23,
@@ -1724,8 +1867,9 @@
     "chapter_number": 3,
     "verse_order": 141,
     "_type": "verse",
-    "_id": "141",
-    "title": "Verse 141"
+    "title": "Verse 141",
+    "externalId": 141,
+    "_id": "ccd44622-9075-4884-9408-8c1e5ae5d912"
   },
   {
     "verse_number": 24,
@@ -1736,8 +1880,9 @@
     "chapter_number": 3,
     "verse_order": 142,
     "_type": "verse",
-    "_id": "142",
-    "title": "Verse 142"
+    "title": "Verse 142",
+    "externalId": 142,
+    "_id": "ce10bdb9-f68f-4f67-9b1c-3c99ca7e526f"
   },
   {
     "verse_number": 25,
@@ -1748,8 +1893,9 @@
     "chapter_number": 3,
     "verse_order": 143,
     "_type": "verse",
-    "_id": "143",
-    "title": "Verse 143"
+    "title": "Verse 143",
+    "externalId": 143,
+    "_id": "3a90db16-a499-49a8-851e-ed7eabee5285"
   },
   {
     "verse_number": 26,
@@ -1760,8 +1906,9 @@
     "chapter_number": 3,
     "verse_order": 144,
     "_type": "verse",
-    "_id": "144",
-    "title": "Verse 144"
+    "title": "Verse 144",
+    "externalId": 144,
+    "_id": "8321d938-b93e-48d9-9b63-f3fa483d5ceb"
   },
   {
     "verse_number": 27,
@@ -1772,8 +1919,9 @@
     "chapter_number": 3,
     "verse_order": 145,
     "_type": "verse",
-    "_id": "145",
-    "title": "Verse 145"
+    "title": "Verse 145",
+    "externalId": 145,
+    "_id": "0f0e73d9-66ff-4896-8c77-c8ec83dedd1b"
   },
   {
     "verse_number": 28,
@@ -1784,8 +1932,9 @@
     "chapter_number": 3,
     "verse_order": 146,
     "_type": "verse",
-    "_id": "146",
-    "title": "Verse 146"
+    "title": "Verse 146",
+    "externalId": 146,
+    "_id": "6e481bdb-e658-4c59-9eef-43784cb9bc18"
   },
   {
     "verse_number": 29,
@@ -1796,8 +1945,9 @@
     "chapter_number": 3,
     "verse_order": 147,
     "_type": "verse",
-    "_id": "147",
-    "title": "Verse 147"
+    "title": "Verse 147",
+    "externalId": 147,
+    "_id": "6a6c7c05-7ecf-4938-b954-5e3fba986de4"
   },
   {
     "verse_number": 30,
@@ -1808,8 +1958,9 @@
     "chapter_number": 3,
     "verse_order": 148,
     "_type": "verse",
-    "_id": "148",
-    "title": "Verse 148"
+    "title": "Verse 148",
+    "externalId": 148,
+    "_id": "a8391a1d-e2a1-4ef5-b4a3-7704effb1c47"
   },
   {
     "verse_number": 31,
@@ -1820,8 +1971,9 @@
     "chapter_number": 3,
     "verse_order": 149,
     "_type": "verse",
-    "_id": "149",
-    "title": "Verse 149"
+    "title": "Verse 149",
+    "externalId": 149,
+    "_id": "59406e76-ea74-4c94-84fa-efe34d5ac8a4"
   },
   {
     "verse_number": 32,
@@ -1832,8 +1984,9 @@
     "chapter_number": 3,
     "verse_order": 150,
     "_type": "verse",
-    "_id": "150",
-    "title": "Verse 150"
+    "title": "Verse 150",
+    "externalId": 150,
+    "_id": "9a19c88e-94f8-4420-b16f-d4073e46b9ac"
   },
   {
     "verse_number": 33,
@@ -1844,8 +1997,9 @@
     "chapter_number": 3,
     "verse_order": 151,
     "_type": "verse",
-    "_id": "151",
-    "title": "Verse 151"
+    "title": "Verse 151",
+    "externalId": 151,
+    "_id": "da22f0e2-aaf3-4634-bdb7-397d0c040f63"
   },
   {
     "verse_number": 34,
@@ -1856,8 +2010,9 @@
     "chapter_number": 3,
     "verse_order": 152,
     "_type": "verse",
-    "_id": "152",
-    "title": "Verse 152"
+    "title": "Verse 152",
+    "externalId": 152,
+    "_id": "4b71f37c-7b1b-4149-b5b3-4bc59b53f627"
   },
   {
     "verse_number": 35,
@@ -1868,8 +2023,9 @@
     "chapter_number": 3,
     "verse_order": 153,
     "_type": "verse",
-    "_id": "153",
-    "title": "Verse 153"
+    "title": "Verse 153",
+    "externalId": 153,
+    "_id": "1bb569ed-0e13-4085-b817-49dca65ba9fd"
   },
   {
     "verse_number": 36,
@@ -1880,8 +2036,9 @@
     "chapter_number": 3,
     "verse_order": 154,
     "_type": "verse",
-    "_id": "154",
-    "title": "Verse 154"
+    "title": "Verse 154",
+    "externalId": 154,
+    "_id": "cc6df0c5-e8f9-430d-a730-e6ef49b1c2f4"
   },
   {
     "verse_number": 37,
@@ -1892,8 +2049,9 @@
     "chapter_number": 3,
     "verse_order": 155,
     "_type": "verse",
-    "_id": "155",
-    "title": "Verse 155"
+    "title": "Verse 155",
+    "externalId": 155,
+    "_id": "dbb97c9d-6a79-4803-95d4-1f1b2ace7546"
   },
   {
     "verse_number": 38,
@@ -1904,8 +2062,9 @@
     "chapter_number": 3,
     "verse_order": 156,
     "_type": "verse",
-    "_id": "156",
-    "title": "Verse 156"
+    "title": "Verse 156",
+    "externalId": 156,
+    "_id": "700b93df-80a2-4d6b-9ca3-226733bc95a1"
   },
   {
     "verse_number": 39,
@@ -1916,8 +2075,9 @@
     "chapter_number": 3,
     "verse_order": 157,
     "_type": "verse",
-    "_id": "157",
-    "title": "Verse 157"
+    "title": "Verse 157",
+    "externalId": 157,
+    "_id": "39ffcead-aba0-488f-85d5-897ef970c94d"
   },
   {
     "verse_number": 40,
@@ -1928,8 +2088,9 @@
     "chapter_number": 3,
     "verse_order": 158,
     "_type": "verse",
-    "_id": "158",
-    "title": "Verse 158"
+    "title": "Verse 158",
+    "externalId": 158,
+    "_id": "86c78883-30e4-494b-96d4-92cd30201f73"
   },
   {
     "verse_number": 41,
@@ -1940,8 +2101,9 @@
     "chapter_number": 3,
     "verse_order": 159,
     "_type": "verse",
-    "_id": "159",
-    "title": "Verse 159"
+    "title": "Verse 159",
+    "externalId": 159,
+    "_id": "6d9a2853-3338-4041-8d50-f361b98538e6"
   },
   {
     "verse_number": 42,
@@ -1952,8 +2114,9 @@
     "chapter_number": 3,
     "verse_order": 160,
     "_type": "verse",
-    "_id": "160",
-    "title": "Verse 160"
+    "title": "Verse 160",
+    "externalId": 160,
+    "_id": "d0137cc8-beb2-46f3-a194-53b8c98de075"
   },
   {
     "verse_number": 9,
@@ -1964,8 +2127,9 @@
     "chapter_number": 4,
     "verse_order": 170,
     "_type": "verse",
-    "_id": "170",
-    "title": "Verse 170"
+    "title": "Verse 170",
+    "externalId": 170,
+    "_id": "a78a7f33-d07d-4e55-9179-eea81c9bb68e"
   },
   {
     "verse_number": 43,
@@ -1976,8 +2140,9 @@
     "chapter_number": 3,
     "verse_order": 161,
     "_type": "verse",
-    "_id": "161",
-    "title": "Verse 161"
+    "title": "Verse 161",
+    "externalId": 161,
+    "_id": "399035eb-6d78-4304-b76f-cfbd377df8a2"
   },
   {
     "verse_number": 1,
@@ -1988,8 +2153,9 @@
     "chapter_number": 4,
     "verse_order": 162,
     "_type": "verse",
-    "_id": "162",
-    "title": "Verse 162"
+    "title": "Verse 162",
+    "externalId": 162,
+    "_id": "9a6ca074-e3b1-40b8-8420-3eca1edb270c"
   },
   {
     "verse_number": 2,
@@ -2000,8 +2166,9 @@
     "chapter_number": 4,
     "verse_order": 163,
     "_type": "verse",
-    "_id": "163",
-    "title": "Verse 163"
+    "title": "Verse 163",
+    "externalId": 163,
+    "_id": "a492e9c0-916a-4d8d-976a-9fc263c72065"
   },
   {
     "verse_number": 3,
@@ -2012,8 +2179,9 @@
     "chapter_number": 4,
     "verse_order": 164,
     "_type": "verse",
-    "_id": "164",
-    "title": "Verse 164"
+    "title": "Verse 164",
+    "externalId": 164,
+    "_id": "67d5cd70-8df9-410c-b7f3-5c853192aa59"
   },
   {
     "verse_number": 4,
@@ -2024,8 +2192,9 @@
     "chapter_number": 4,
     "verse_order": 165,
     "_type": "verse",
-    "_id": "165",
-    "title": "Verse 165"
+    "title": "Verse 165",
+    "externalId": 165,
+    "_id": "4ca5cec8-388a-48c6-9234-cd9099cafd21"
   },
   {
     "verse_number": 5,
@@ -2036,8 +2205,9 @@
     "chapter_number": 4,
     "verse_order": 166,
     "_type": "verse",
-    "_id": "166",
-    "title": "Verse 166"
+    "title": "Verse 166",
+    "externalId": 166,
+    "_id": "52b16cd4-6cad-436b-bea7-e88b43f74b6a"
   },
   {
     "verse_number": 6,
@@ -2048,8 +2218,9 @@
     "chapter_number": 4,
     "verse_order": 167,
     "_type": "verse",
-    "_id": "167",
-    "title": "Verse 167"
+    "title": "Verse 167",
+    "externalId": 167,
+    "_id": "1715fd09-d4f0-4c2e-8428-a745108d4be7"
   },
   {
     "verse_number": 7,
@@ -2060,8 +2231,9 @@
     "chapter_number": 4,
     "verse_order": 168,
     "_type": "verse",
-    "_id": "168",
-    "title": "Verse 168"
+    "title": "Verse 168",
+    "externalId": 168,
+    "_id": "faa60867-7b09-41cc-8d65-ee5a938df26e"
   },
   {
     "verse_number": 10,
@@ -2072,8 +2244,9 @@
     "chapter_number": 4,
     "verse_order": 171,
     "_type": "verse",
-    "_id": "171",
-    "title": "Verse 171"
+    "title": "Verse 171",
+    "externalId": 171,
+    "_id": "97e4455a-fa22-442d-adaa-fadb021dc504"
   },
   {
     "verse_number": 11,
@@ -2084,8 +2257,9 @@
     "chapter_number": 4,
     "verse_order": 172,
     "_type": "verse",
-    "_id": "172",
-    "title": "Verse 172"
+    "title": "Verse 172",
+    "externalId": 172,
+    "_id": "0a91bd82-9c41-4fad-ae51-ec5f979703c6"
   },
   {
     "verse_number": 12,
@@ -2096,8 +2270,9 @@
     "chapter_number": 4,
     "verse_order": 173,
     "_type": "verse",
-    "_id": "173",
-    "title": "Verse 173"
+    "title": "Verse 173",
+    "externalId": 173,
+    "_id": "a0fb6fcd-8f6b-4fb4-9c73-c5e15e6f20af"
   },
   {
     "verse_number": 13,
@@ -2108,8 +2283,9 @@
     "chapter_number": 4,
     "verse_order": 174,
     "_type": "verse",
-    "_id": "174",
-    "title": "Verse 174"
+    "title": "Verse 174",
+    "externalId": 174,
+    "_id": "1f037732-b88d-4bd4-8c26-f6bd2d132bf7"
   },
   {
     "verse_number": 14,
@@ -2120,8 +2296,9 @@
     "chapter_number": 4,
     "verse_order": 175,
     "_type": "verse",
-    "_id": "175",
-    "title": "Verse 175"
+    "title": "Verse 175",
+    "externalId": 175,
+    "_id": "80ed4833-3562-41e1-a22c-07da99be6786"
   },
   {
     "verse_number": 15,
@@ -2132,8 +2309,9 @@
     "chapter_number": 4,
     "verse_order": 176,
     "_type": "verse",
-    "_id": "176",
-    "title": "Verse 176"
+    "title": "Verse 176",
+    "externalId": 176,
+    "_id": "78549530-49e5-4b2d-88b3-c7070a0feccf"
   },
   {
     "verse_number": 16,
@@ -2144,8 +2322,9 @@
     "chapter_number": 4,
     "verse_order": 177,
     "_type": "verse",
-    "_id": "177",
-    "title": "Verse 177"
+    "title": "Verse 177",
+    "externalId": 177,
+    "_id": "1abc57c3-4f7d-4bf7-9c20-91a8d65c269d"
   },
   {
     "verse_number": 17,
@@ -2156,8 +2335,9 @@
     "chapter_number": 4,
     "verse_order": 178,
     "_type": "verse",
-    "_id": "178",
-    "title": "Verse 178"
+    "title": "Verse 178",
+    "externalId": 178,
+    "_id": "8652e5db-778d-4a23-bcec-337e9e114dc1"
   },
   {
     "verse_number": 18,
@@ -2168,8 +2348,9 @@
     "chapter_number": 4,
     "verse_order": 179,
     "_type": "verse",
-    "_id": "179",
-    "title": "Verse 179"
+    "title": "Verse 179",
+    "externalId": 179,
+    "_id": "3735dfa7-4081-49dc-bcf3-d290c3cb1bf4"
   },
   {
     "verse_number": 19,
@@ -2180,8 +2361,9 @@
     "chapter_number": 4,
     "verse_order": 180,
     "_type": "verse",
-    "_id": "180",
-    "title": "Verse 180"
+    "title": "Verse 180",
+    "externalId": 180,
+    "_id": "9a4acd54-4e1c-42e4-b773-0230641005fa"
   },
   {
     "verse_number": 20,
@@ -2192,8 +2374,9 @@
     "chapter_number": 4,
     "verse_order": 181,
     "_type": "verse",
-    "_id": "181",
-    "title": "Verse 181"
+    "title": "Verse 181",
+    "externalId": 181,
+    "_id": "9eae0f84-0218-4c09-b458-befbde0ddbc2"
   },
   {
     "verse_number": 21,
@@ -2204,8 +2387,9 @@
     "chapter_number": 4,
     "verse_order": 182,
     "_type": "verse",
-    "_id": "182",
-    "title": "Verse 182"
+    "title": "Verse 182",
+    "externalId": 182,
+    "_id": "ac703f61-054a-4db4-be36-ea125388aac4"
   },
   {
     "verse_number": 22,
@@ -2216,8 +2400,9 @@
     "chapter_number": 4,
     "verse_order": 183,
     "_type": "verse",
-    "_id": "183",
-    "title": "Verse 183"
+    "title": "Verse 183",
+    "externalId": 183,
+    "_id": "434f2a29-4b3c-4566-8406-8d43b216384f"
   },
   {
     "verse_number": 23,
@@ -2228,8 +2413,9 @@
     "chapter_number": 4,
     "verse_order": 184,
     "_type": "verse",
-    "_id": "184",
-    "title": "Verse 184"
+    "title": "Verse 184",
+    "externalId": 184,
+    "_id": "37e88d57-1d6f-4506-9251-fbe8f2bf5c35"
   },
   {
     "verse_number": 24,
@@ -2240,8 +2426,9 @@
     "chapter_number": 4,
     "verse_order": 185,
     "_type": "verse",
-    "_id": "185",
-    "title": "Verse 185"
+    "title": "Verse 185",
+    "externalId": 185,
+    "_id": "a3702457-c0df-4e70-ad8f-2d4692eb98d7"
   },
   {
     "verse_number": 25,
@@ -2252,8 +2439,9 @@
     "chapter_number": 4,
     "verse_order": 186,
     "_type": "verse",
-    "_id": "186",
-    "title": "Verse 186"
+    "title": "Verse 186",
+    "externalId": 186,
+    "_id": "68861943-fe03-4f44-b1cc-41c9705a208e"
   },
   {
     "verse_number": 26,
@@ -2264,8 +2452,9 @@
     "chapter_number": 4,
     "verse_order": 187,
     "_type": "verse",
-    "_id": "187",
-    "title": "Verse 187"
+    "title": "Verse 187",
+    "externalId": 187,
+    "_id": "d876d267-6a68-4f0b-921f-a58e44c883d8"
   },
   {
     "verse_number": 27,
@@ -2276,8 +2465,9 @@
     "chapter_number": 4,
     "verse_order": 188,
     "_type": "verse",
-    "_id": "188",
-    "title": "Verse 188"
+    "title": "Verse 188",
+    "externalId": 188,
+    "_id": "3d2fffae-54e2-4787-9716-733727956984"
   },
   {
     "verse_number": 28,
@@ -2288,8 +2478,9 @@
     "chapter_number": 4,
     "verse_order": 189,
     "_type": "verse",
-    "_id": "189",
-    "title": "Verse 189"
+    "title": "Verse 189",
+    "externalId": 189,
+    "_id": "88bc0977-0829-4534-bb3b-5b674e2bd3b4"
   },
   {
     "verse_number": 29,
@@ -2300,8 +2491,9 @@
     "chapter_number": 4,
     "verse_order": 190,
     "_type": "verse",
-    "_id": "190",
-    "title": "Verse 190"
+    "title": "Verse 190",
+    "externalId": 190,
+    "_id": "eba25c57-115f-47fe-b989-4738df67250c"
   },
   {
     "verse_number": 31,
@@ -2312,8 +2504,9 @@
     "chapter_number": 4,
     "verse_order": 191,
     "_type": "verse",
-    "_id": "191",
-    "title": "Verse 191"
+    "title": "Verse 191",
+    "externalId": 191,
+    "_id": "afcb437e-c9f4-419d-8877-39ae42ac98b0"
   },
   {
     "verse_number": 32,
@@ -2324,8 +2517,9 @@
     "chapter_number": 4,
     "verse_order": 192,
     "_type": "verse",
-    "_id": "192",
-    "title": "Verse 192"
+    "title": "Verse 192",
+    "externalId": 192,
+    "_id": "5744acf3-3d36-46c8-af8b-91376f9557c9"
   },
   {
     "verse_number": 33,
@@ -2336,8 +2530,9 @@
     "chapter_number": 4,
     "verse_order": 193,
     "_type": "verse",
-    "_id": "193",
-    "title": "Verse 193"
+    "title": "Verse 193",
+    "externalId": 193,
+    "_id": "aa98b8f2-33d6-4d11-8421-11c564582808"
   },
   {
     "verse_number": 34,
@@ -2348,8 +2543,9 @@
     "chapter_number": 4,
     "verse_order": 194,
     "_type": "verse",
-    "_id": "194",
-    "title": "Verse 194"
+    "title": "Verse 194",
+    "externalId": 194,
+    "_id": "fd3c3cf7-dd71-4e5d-8735-6e0fc18ff6d0"
   },
   {
     "verse_number": 35,
@@ -2360,8 +2556,9 @@
     "chapter_number": 4,
     "verse_order": 195,
     "_type": "verse",
-    "_id": "195",
-    "title": "Verse 195"
+    "title": "Verse 195",
+    "externalId": 195,
+    "_id": "ace773dc-8b59-4ff0-a5eb-9752dc8d9881"
   },
   {
     "verse_number": 36,
@@ -2372,8 +2569,9 @@
     "chapter_number": 4,
     "verse_order": 196,
     "_type": "verse",
-    "_id": "196",
-    "title": "Verse 196"
+    "title": "Verse 196",
+    "externalId": 196,
+    "_id": "d3df4c2c-f294-436f-95b4-57ae31d2a155"
   },
   {
     "verse_number": 37,
@@ -2384,8 +2582,9 @@
     "chapter_number": 4,
     "verse_order": 197,
     "_type": "verse",
-    "_id": "197",
-    "title": "Verse 197"
+    "title": "Verse 197",
+    "externalId": 197,
+    "_id": "dfc67b4d-b814-46f5-9974-5293019d60d3"
   },
   {
     "verse_number": 38,
@@ -2396,8 +2595,9 @@
     "chapter_number": 4,
     "verse_order": 198,
     "_type": "verse",
-    "_id": "198",
-    "title": "Verse 198"
+    "title": "Verse 198",
+    "externalId": 198,
+    "_id": "7033c19d-20f5-4c1a-ba50-14bdb31850f8"
   },
   {
     "verse_number": 39,
@@ -2408,8 +2608,9 @@
     "chapter_number": 4,
     "verse_order": 199,
     "_type": "verse",
-    "_id": "199",
-    "title": "Verse 199"
+    "title": "Verse 199",
+    "externalId": 199,
+    "_id": "a51a5a49-b2d1-4866-9c49-ed306339a54b"
   },
   {
     "verse_number": 40,
@@ -2420,8 +2621,9 @@
     "chapter_number": 4,
     "verse_order": 200,
     "_type": "verse",
-    "_id": "200",
-    "title": "Verse 200"
+    "title": "Verse 200",
+    "externalId": 200,
+    "_id": "bad4fd78-9b01-4435-bd13-9e8d674b4264"
   },
   {
     "verse_number": 41,
@@ -2432,8 +2634,9 @@
     "chapter_number": 4,
     "verse_order": 201,
     "_type": "verse",
-    "_id": "201",
-    "title": "Verse 201"
+    "title": "Verse 201",
+    "externalId": 201,
+    "_id": "026005cc-68a2-47f7-8fc2-ca07c05a3e23"
   },
   {
     "verse_number": 25,
@@ -2444,8 +2647,9 @@
     "chapter_number": 5,
     "verse_order": 226,
     "_type": "verse",
-    "_id": "226",
-    "title": "Verse 226"
+    "title": "Verse 226",
+    "externalId": 226,
+    "_id": "2a837691-bf65-480b-a9c3-b85ee7782784"
   },
   {
     "verse_number": 42,
@@ -2456,8 +2660,9 @@
     "chapter_number": 4,
     "verse_order": 202,
     "_type": "verse",
-    "_id": "202",
-    "title": "Verse 202"
+    "title": "Verse 202",
+    "externalId": 202,
+    "_id": "be15332c-7336-44d8-b301-09bfdb45dcd4"
   },
   {
     "verse_number": 1,
@@ -2468,8 +2673,9 @@
     "chapter_number": 5,
     "verse_order": 203,
     "_type": "verse",
-    "_id": "203",
-    "title": "Verse 203"
+    "title": "Verse 203",
+    "externalId": 203,
+    "_id": "37d337be-3829-45b9-8da6-f332b0a5d384"
   },
   {
     "verse_number": 2,
@@ -2480,8 +2686,9 @@
     "chapter_number": 5,
     "verse_order": 204,
     "_type": "verse",
-    "_id": "204",
-    "title": "Verse 204"
+    "title": "Verse 204",
+    "externalId": 204,
+    "_id": "265771ff-c3d3-44bd-9b79-59841656b46f"
   },
   {
     "verse_number": 3,
@@ -2492,8 +2699,9 @@
     "chapter_number": 5,
     "verse_order": 205,
     "_type": "verse",
-    "_id": "205",
-    "title": "Verse 205"
+    "title": "Verse 205",
+    "externalId": 205,
+    "_id": "eb3c862f-d4a2-48a3-854c-78204f31b794"
   },
   {
     "verse_number": 4,
@@ -2504,8 +2712,9 @@
     "chapter_number": 5,
     "verse_order": 206,
     "_type": "verse",
-    "_id": "206",
-    "title": "Verse 206"
+    "title": "Verse 206",
+    "externalId": 206,
+    "_id": "227a1e01-7e7a-4d15-806b-0cb5a20ecfea"
   },
   {
     "verse_number": 5,
@@ -2516,8 +2725,9 @@
     "chapter_number": 5,
     "verse_order": 207,
     "_type": "verse",
-    "_id": "207",
-    "title": "Verse 207"
+    "title": "Verse 207",
+    "externalId": 207,
+    "_id": "e9a19600-54e7-447f-9556-738843235c79"
   },
   {
     "verse_number": 6,
@@ -2528,8 +2738,9 @@
     "chapter_number": 5,
     "verse_order": 208,
     "_type": "verse",
-    "_id": "208",
-    "title": "Verse 208"
+    "title": "Verse 208",
+    "externalId": 208,
+    "_id": "9457a7f9-e570-4a12-b940-b6ecd6b35b50"
   },
   {
     "verse_number": 7,
@@ -2540,8 +2751,9 @@
     "chapter_number": 5,
     "verse_order": 209,
     "_type": "verse",
-    "_id": "209",
-    "title": "Verse 209"
+    "title": "Verse 209",
+    "externalId": 209,
+    "_id": "1af60519-40c6-4115-a1cb-d8e269bf8767"
   },
   {
     "verse_number": 8,
@@ -2552,8 +2764,9 @@
     "chapter_number": 5,
     "verse_order": 210,
     "_type": "verse",
-    "_id": "210",
-    "title": "Verse 210"
+    "title": "Verse 210",
+    "externalId": 210,
+    "_id": "aeace8da-3c07-4acf-a561-6dff79ee0d91"
   },
   {
     "verse_number": 10,
@@ -2564,8 +2777,9 @@
     "chapter_number": 5,
     "verse_order": 211,
     "_type": "verse",
-    "_id": "211",
-    "title": "Verse 211"
+    "title": "Verse 211",
+    "externalId": 211,
+    "_id": "ce4639e7-d774-4287-9046-a5faa139dc20"
   },
   {
     "verse_number": 11,
@@ -2576,8 +2790,9 @@
     "chapter_number": 5,
     "verse_order": 212,
     "_type": "verse",
-    "_id": "212",
-    "title": "Verse 212"
+    "title": "Verse 212",
+    "externalId": 212,
+    "_id": "7c73f235-98f7-40d3-9381-ea88b4252063"
   },
   {
     "verse_number": 12,
@@ -2588,8 +2803,9 @@
     "chapter_number": 5,
     "verse_order": 213,
     "_type": "verse",
-    "_id": "213",
-    "title": "Verse 213"
+    "title": "Verse 213",
+    "externalId": 213,
+    "_id": "7a536a9f-ce5a-48cf-b82b-0a64a116d9ac"
   },
   {
     "verse_number": 13,
@@ -2600,8 +2816,9 @@
     "chapter_number": 5,
     "verse_order": 214,
     "_type": "verse",
-    "_id": "214",
-    "title": "Verse 214"
+    "title": "Verse 214",
+    "externalId": 214,
+    "_id": "1633d121-eba7-4082-b5a7-e32b8f7fe9ae"
   },
   {
     "verse_number": 14,
@@ -2612,8 +2829,9 @@
     "chapter_number": 5,
     "verse_order": 215,
     "_type": "verse",
-    "_id": "215",
-    "title": "Verse 215"
+    "title": "Verse 215",
+    "externalId": 215,
+    "_id": "3dfaa297-a180-48a8-9154-923b7cb952ce"
   },
   {
     "verse_number": 15,
@@ -2624,8 +2842,9 @@
     "chapter_number": 5,
     "verse_order": 216,
     "_type": "verse",
-    "_id": "216",
-    "title": "Verse 216"
+    "title": "Verse 216",
+    "externalId": 216,
+    "_id": "b8372070-e6a6-4439-a572-45bad20cc680"
   },
   {
     "verse_number": 16,
@@ -2636,8 +2855,9 @@
     "chapter_number": 5,
     "verse_order": 217,
     "_type": "verse",
-    "_id": "217",
-    "title": "Verse 217"
+    "title": "Verse 217",
+    "externalId": 217,
+    "_id": "64b0ded9-d8f3-481b-8f29-3527fd9adc04"
   },
   {
     "verse_number": 17,
@@ -2648,8 +2868,9 @@
     "chapter_number": 5,
     "verse_order": 218,
     "_type": "verse",
-    "_id": "218",
-    "title": "Verse 218"
+    "title": "Verse 218",
+    "externalId": 218,
+    "_id": "d1ae0233-bd2c-4418-b995-7b45d89fcd1e"
   },
   {
     "verse_number": 18,
@@ -2660,8 +2881,9 @@
     "chapter_number": 5,
     "verse_order": 219,
     "_type": "verse",
-    "_id": "219",
-    "title": "Verse 219"
+    "title": "Verse 219",
+    "externalId": 219,
+    "_id": "e2ac23e9-f7e8-49b9-be16-801235fa872c"
   },
   {
     "verse_number": 19,
@@ -2672,8 +2894,9 @@
     "chapter_number": 5,
     "verse_order": 220,
     "_type": "verse",
-    "_id": "220",
-    "title": "Verse 220"
+    "title": "Verse 220",
+    "externalId": 220,
+    "_id": "ddb21aec-183f-4939-b73c-e2d9a1290e06"
   },
   {
     "verse_number": 20,
@@ -2684,8 +2907,9 @@
     "chapter_number": 5,
     "verse_order": 221,
     "_type": "verse",
-    "_id": "221",
-    "title": "Verse 221"
+    "title": "Verse 221",
+    "externalId": 221,
+    "_id": "067385af-c31c-407e-b601-c15dc1bfc1d3"
   },
   {
     "verse_number": 21,
@@ -2696,8 +2920,9 @@
     "chapter_number": 5,
     "verse_order": 222,
     "_type": "verse",
-    "_id": "222",
-    "title": "Verse 222"
+    "title": "Verse 222",
+    "externalId": 222,
+    "_id": "d078feeb-5790-4a50-8742-9e769eca8185"
   },
   {
     "verse_number": 22,
@@ -2708,8 +2933,9 @@
     "chapter_number": 5,
     "verse_order": 223,
     "_type": "verse",
-    "_id": "223",
-    "title": "Verse 223"
+    "title": "Verse 223",
+    "externalId": 223,
+    "_id": "0ef9ce03-775d-407c-bdb2-e8e8f59db6cf"
   },
   {
     "verse_number": 23,
@@ -2720,8 +2946,9 @@
     "chapter_number": 5,
     "verse_order": 224,
     "_type": "verse",
-    "_id": "224",
-    "title": "Verse 224"
+    "title": "Verse 224",
+    "externalId": 224,
+    "_id": "ca533dbc-8452-4a80-b6e7-427e34e138a2"
   },
   {
     "verse_number": 24,
@@ -2732,8 +2959,9 @@
     "chapter_number": 5,
     "verse_order": 225,
     "_type": "verse",
-    "_id": "225",
-    "title": "Verse 225"
+    "title": "Verse 225",
+    "externalId": 225,
+    "_id": "34ba1805-ca35-4bc5-9365-124ed9504b8c"
   },
   {
     "verse_number": 26,
@@ -2744,8 +2972,9 @@
     "chapter_number": 5,
     "verse_order": 227,
     "_type": "verse",
-    "_id": "227",
-    "title": "Verse 227"
+    "title": "Verse 227",
+    "externalId": 227,
+    "_id": "5fb17db8-41db-4c34-a79e-eae5b7cbfec6"
   },
   {
     "verse_number": 27,
@@ -2756,8 +2985,9 @@
     "chapter_number": 5,
     "verse_order": 228,
     "_type": "verse",
-    "_id": "228",
-    "title": "Verse 228"
+    "title": "Verse 228",
+    "externalId": 228,
+    "_id": "ac2840de-d834-4a63-a7dd-2d45e2346617"
   },
   {
     "verse_number": 29,
@@ -2768,8 +2998,9 @@
     "chapter_number": 5,
     "verse_order": 229,
     "_type": "verse",
-    "_id": "229",
-    "title": "Verse 229"
+    "title": "Verse 229",
+    "externalId": 229,
+    "_id": "4ebbb4d7-6a68-4407-bb6a-bf5beaa8689c"
   },
   {
     "verse_number": 1,
@@ -2780,8 +3011,9 @@
     "chapter_number": 6,
     "verse_order": 230,
     "_type": "verse",
-    "_id": "230",
-    "title": "Verse 230"
+    "title": "Verse 230",
+    "externalId": 230,
+    "_id": "b5b5a0bb-ca52-481f-a656-93605eedda3e"
   },
   {
     "verse_number": 2,
@@ -2792,8 +3024,9 @@
     "chapter_number": 6,
     "verse_order": 231,
     "_type": "verse",
-    "_id": "231",
-    "title": "Verse 231"
+    "title": "Verse 231",
+    "externalId": 231,
+    "_id": "dd322328-94c0-40d5-8c9c-7353d52c6ba4"
   },
   {
     "verse_number": 3,
@@ -2804,8 +3037,9 @@
     "chapter_number": 6,
     "verse_order": 232,
     "_type": "verse",
-    "_id": "232",
-    "title": "Verse 232"
+    "title": "Verse 232",
+    "externalId": 232,
+    "_id": "3d031147-2334-4097-90f1-95ef26addf23"
   },
   {
     "verse_number": 4,
@@ -2816,8 +3050,9 @@
     "chapter_number": 6,
     "verse_order": 233,
     "_type": "verse",
-    "_id": "233",
-    "title": "Verse 233"
+    "title": "Verse 233",
+    "externalId": 233,
+    "_id": "fc74a4d2-7bae-40f7-b2ad-39acd192f43d"
   },
   {
     "verse_number": 6,
@@ -2828,8 +3063,9 @@
     "chapter_number": 6,
     "verse_order": 235,
     "_type": "verse",
-    "_id": "235",
-    "title": "Verse 235"
+    "title": "Verse 235",
+    "externalId": 235,
+    "_id": "92b662ba-15db-4888-adc8-488fd8e10b57"
   },
   {
     "verse_number": 7,
@@ -2840,8 +3076,9 @@
     "chapter_number": 6,
     "verse_order": 236,
     "_type": "verse",
-    "_id": "236",
-    "title": "Verse 236"
+    "title": "Verse 236",
+    "externalId": 236,
+    "_id": "9e50d01c-2a2e-4e53-ba59-761e9bb389d9"
   },
   {
     "verse_number": 8,
@@ -2852,8 +3089,9 @@
     "chapter_number": 6,
     "verse_order": 237,
     "_type": "verse",
-    "_id": "237",
-    "title": "Verse 237"
+    "title": "Verse 237",
+    "externalId": 237,
+    "_id": "70a40307-f930-430d-9093-5736a76bb578"
   },
   {
     "verse_number": 9,
@@ -2864,8 +3102,9 @@
     "chapter_number": 6,
     "verse_order": 238,
     "_type": "verse",
-    "_id": "238",
-    "title": "Verse 238"
+    "title": "Verse 238",
+    "externalId": 238,
+    "_id": "be3e01b5-9d56-4400-96b6-146eff954496"
   },
   {
     "verse_number": 10,
@@ -2876,8 +3115,9 @@
     "chapter_number": 6,
     "verse_order": 239,
     "_type": "verse",
-    "_id": "239",
-    "title": "Verse 239"
+    "title": "Verse 239",
+    "externalId": 239,
+    "_id": "df9bf2d1-44e9-4e44-8f6a-67e839e85c9f"
   },
   {
     "verse_number": 11,
@@ -2888,8 +3128,9 @@
     "chapter_number": 6,
     "verse_order": 240,
     "_type": "verse",
-    "_id": "240",
-    "title": "Verse 240"
+    "title": "Verse 240",
+    "externalId": 240,
+    "_id": "59401a6c-e549-45fd-85b3-448ed4ffcbb6"
   },
   {
     "verse_number": 12,
@@ -2900,8 +3141,9 @@
     "chapter_number": 6,
     "verse_order": 241,
     "_type": "verse",
-    "_id": "241",
-    "title": "Verse 241"
+    "title": "Verse 241",
+    "externalId": 241,
+    "_id": "932ad45f-7ab4-4f60-8e39-ca70b4020bd6"
   },
   {
     "verse_number": 13,
@@ -2912,8 +3154,9 @@
     "chapter_number": 6,
     "verse_order": 242,
     "_type": "verse",
-    "_id": "242",
-    "title": "Verse 242"
+    "title": "Verse 242",
+    "externalId": 242,
+    "_id": "4085ebb3-0b9a-4e61-90da-09f3ffffdc4f"
   },
   {
     "verse_number": 14,
@@ -2924,8 +3167,9 @@
     "chapter_number": 6,
     "verse_order": 243,
     "_type": "verse",
-    "_id": "243",
-    "title": "Verse 243"
+    "title": "Verse 243",
+    "externalId": 243,
+    "_id": "8e0cc5ab-6f56-4c86-a71f-feb2fee74464"
   },
   {
     "verse_number": 15,
@@ -2936,8 +3180,9 @@
     "chapter_number": 6,
     "verse_order": 244,
     "_type": "verse",
-    "_id": "244",
-    "title": "Verse 244"
+    "title": "Verse 244",
+    "externalId": 244,
+    "_id": "76fcadf8-0a97-40c3-b2a6-b07554c242b2"
   },
   {
     "verse_number": 16,
@@ -2948,8 +3193,9 @@
     "chapter_number": 6,
     "verse_order": 245,
     "_type": "verse",
-    "_id": "245",
-    "title": "Verse 245"
+    "title": "Verse 245",
+    "externalId": 245,
+    "_id": "8f9bc8aa-bc9c-4b20-9d7d-070714f96f60"
   },
   {
     "verse_number": 17,
@@ -2960,8 +3206,9 @@
     "chapter_number": 6,
     "verse_order": 246,
     "_type": "verse",
-    "_id": "246",
-    "title": "Verse 246"
+    "title": "Verse 246",
+    "externalId": 246,
+    "_id": "b1507895-468b-4fde-b7ce-a6f44af0c51d"
   },
   {
     "verse_number": 18,
@@ -2972,8 +3219,9 @@
     "chapter_number": 6,
     "verse_order": 247,
     "_type": "verse",
-    "_id": "247",
-    "title": "Verse 247"
+    "title": "Verse 247",
+    "externalId": 247,
+    "_id": "02c48689-294c-4e8d-858a-0a7a4fccbeba"
   },
   {
     "verse_number": 19,
@@ -2984,8 +3232,9 @@
     "chapter_number": 6,
     "verse_order": 248,
     "_type": "verse",
-    "_id": "248",
-    "title": "Verse 248"
+    "title": "Verse 248",
+    "externalId": 248,
+    "_id": "88771279-1b4b-422c-bc23-486b8b31701f"
   },
   {
     "verse_number": 20,
@@ -2996,8 +3245,9 @@
     "chapter_number": 6,
     "verse_order": 249,
     "_type": "verse",
-    "_id": "249",
-    "title": "Verse 249"
+    "title": "Verse 249",
+    "externalId": 249,
+    "_id": "2453e9b7-e83b-453f-ac3b-2cb0be95716d"
   },
   {
     "verse_number": 21,
@@ -3008,8 +3258,9 @@
     "chapter_number": 6,
     "verse_order": 250,
     "_type": "verse",
-    "_id": "250",
-    "title": "Verse 250"
+    "title": "Verse 250",
+    "externalId": 250,
+    "_id": "022a999c-ec03-4a4c-88f5-1033c13185df"
   },
   {
     "verse_number": 22,
@@ -3020,8 +3271,9 @@
     "chapter_number": 6,
     "verse_order": 251,
     "_type": "verse",
-    "_id": "251",
-    "title": "Verse 251"
+    "title": "Verse 251",
+    "externalId": 251,
+    "_id": "e7db9a00-ea8c-408b-b5ef-b3b85b428918"
   },
   {
     "verse_number": 23,
@@ -3032,8 +3284,9 @@
     "chapter_number": 6,
     "verse_order": 252,
     "_type": "verse",
-    "_id": "252",
-    "title": "Verse 252"
+    "title": "Verse 252",
+    "externalId": 252,
+    "_id": "3b6c7d4c-5cbe-4e92-bc70-042ecc761c31"
   },
   {
     "verse_number": 24,
@@ -3044,8 +3297,9 @@
     "chapter_number": 6,
     "verse_order": 253,
     "_type": "verse",
-    "_id": "253",
-    "title": "Verse 253"
+    "title": "Verse 253",
+    "externalId": 253,
+    "_id": "8e16c93a-627d-495d-90fe-8e582c6eb266"
   },
   {
     "verse_number": 25,
@@ -3056,8 +3310,9 @@
     "chapter_number": 6,
     "verse_order": 254,
     "_type": "verse",
-    "_id": "254",
-    "title": "Verse 254"
+    "title": "Verse 254",
+    "externalId": 254,
+    "_id": "e8ea4ce0-4aa5-469d-b0ae-b498a0331e03"
   },
   {
     "verse_number": 26,
@@ -3068,8 +3323,9 @@
     "chapter_number": 6,
     "verse_order": 255,
     "_type": "verse",
-    "_id": "255",
-    "title": "Verse 255"
+    "title": "Verse 255",
+    "externalId": 255,
+    "_id": "dab1430f-8797-4d5f-b341-614b5d679ed9"
   },
   {
     "verse_number": 27,
@@ -3080,8 +3336,9 @@
     "chapter_number": 6,
     "verse_order": 256,
     "_type": "verse",
-    "_id": "256",
-    "title": "Verse 256"
+    "title": "Verse 256",
+    "externalId": 256,
+    "_id": "f52896db-bb1e-45ce-8a45-0aac23dfc0e6"
   },
   {
     "verse_number": 28,
@@ -3092,8 +3349,9 @@
     "chapter_number": 6,
     "verse_order": 257,
     "_type": "verse",
-    "_id": "257",
-    "title": "Verse 257"
+    "title": "Verse 257",
+    "externalId": 257,
+    "_id": "5c35d6b1-0191-404d-8d55-6caa19c2ca00"
   },
   {
     "verse_number": 29,
@@ -3104,8 +3362,9 @@
     "chapter_number": 6,
     "verse_order": 258,
     "_type": "verse",
-    "_id": "258",
-    "title": "Verse 258"
+    "title": "Verse 258",
+    "externalId": 258,
+    "_id": "adee7851-a307-4220-a7bc-823a6f2436db"
   },
   {
     "verse_number": 30,
@@ -3116,8 +3375,9 @@
     "chapter_number": 6,
     "verse_order": 259,
     "_type": "verse",
-    "_id": "259",
-    "title": "Verse 259"
+    "title": "Verse 259",
+    "externalId": 259,
+    "_id": "01ab85f0-b249-4b3e-af35-ae7d275f21bf"
   },
   {
     "verse_number": 31,
@@ -3128,8 +3388,9 @@
     "chapter_number": 6,
     "verse_order": 260,
     "_type": "verse",
-    "_id": "260",
-    "title": "Verse 260"
+    "title": "Verse 260",
+    "externalId": 260,
+    "_id": "4a32cc9b-25e6-4bb5-9a6a-cf4cfdc947b6"
   },
   {
     "verse_number": 33,
@@ -3140,8 +3401,9 @@
     "chapter_number": 6,
     "verse_order": 262,
     "_type": "verse",
-    "_id": "262",
-    "title": "Verse 262"
+    "title": "Verse 262",
+    "externalId": 262,
+    "_id": "4c9de1d4-ce60-4409-af04-6073db493179"
   },
   {
     "verse_number": 34,
@@ -3152,8 +3414,9 @@
     "chapter_number": 6,
     "verse_order": 263,
     "_type": "verse",
-    "_id": "263",
-    "title": "Verse 263"
+    "title": "Verse 263",
+    "externalId": 263,
+    "_id": "5ff48c85-41ff-45e4-ac6b-1b28291164e7"
   },
   {
     "verse_number": 35,
@@ -3164,8 +3427,9 @@
     "chapter_number": 6,
     "verse_order": 264,
     "_type": "verse",
-    "_id": "264",
-    "title": "Verse 264"
+    "title": "Verse 264",
+    "externalId": 264,
+    "_id": "4f22e750-599e-4c03-acd9-75f3ed0d33a5"
   },
   {
     "verse_number": 36,
@@ -3176,8 +3440,9 @@
     "chapter_number": 6,
     "verse_order": 265,
     "_type": "verse",
-    "_id": "265",
-    "title": "Verse 265"
+    "title": "Verse 265",
+    "externalId": 265,
+    "_id": "61fa4967-3775-487d-9909-0f43319adf7a"
   },
   {
     "verse_number": 37,
@@ -3188,8 +3453,9 @@
     "chapter_number": 6,
     "verse_order": 266,
     "_type": "verse",
-    "_id": "266",
-    "title": "Verse 266"
+    "title": "Verse 266",
+    "externalId": 266,
+    "_id": "cc658a4d-76d4-4f39-a708-2bb12ee52b14"
   },
   {
     "verse_number": 38,
@@ -3200,8 +3466,9 @@
     "chapter_number": 6,
     "verse_order": 267,
     "_type": "verse",
-    "_id": "267",
-    "title": "Verse 267"
+    "title": "Verse 267",
+    "externalId": 267,
+    "_id": "17983eac-f566-4d36-9ad7-49b825aa921d"
   },
   {
     "verse_number": 39,
@@ -3212,8 +3479,9 @@
     "chapter_number": 6,
     "verse_order": 268,
     "_type": "verse",
-    "_id": "268",
-    "title": "Verse 268"
+    "title": "Verse 268",
+    "externalId": 268,
+    "_id": "b42799a2-7dfd-49e6-8224-f2e6bf6d67c8"
   },
   {
     "verse_number": 40,
@@ -3224,8 +3492,9 @@
     "chapter_number": 6,
     "verse_order": 269,
     "_type": "verse",
-    "_id": "269",
-    "title": "Verse 269"
+    "title": "Verse 269",
+    "externalId": 269,
+    "_id": "72bd3b8f-d20a-4683-9cf2-7f781c150f56"
   },
   {
     "verse_number": 41,
@@ -3236,8 +3505,9 @@
     "chapter_number": 6,
     "verse_order": 270,
     "_type": "verse",
-    "_id": "270",
-    "title": "Verse 270"
+    "title": "Verse 270",
+    "externalId": 270,
+    "_id": "567d806c-c031-464a-8002-3ac763edd67a"
   },
   {
     "verse_number": 42,
@@ -3248,8 +3518,9 @@
     "chapter_number": 6,
     "verse_order": 271,
     "_type": "verse",
-    "_id": "271",
-    "title": "Verse 271"
+    "title": "Verse 271",
+    "externalId": 271,
+    "_id": "c35589a7-ad3d-4cd2-b464-182e7ac99c00"
   },
   {
     "verse_number": 43,
@@ -3260,8 +3531,9 @@
     "chapter_number": 6,
     "verse_order": 272,
     "_type": "verse",
-    "_id": "272",
-    "title": "Verse 272"
+    "title": "Verse 272",
+    "externalId": 272,
+    "_id": "ed3d7e89-63a3-4204-b824-0c2f4296239e"
   },
   {
     "verse_number": 44,
@@ -3272,8 +3544,9 @@
     "chapter_number": 6,
     "verse_order": 273,
     "_type": "verse",
-    "_id": "273",
-    "title": "Verse 273"
+    "title": "Verse 273",
+    "externalId": 273,
+    "_id": "70825237-1724-4d43-b59c-6bfc28f1be6a"
   },
   {
     "verse_number": 45,
@@ -3284,8 +3557,9 @@
     "chapter_number": 6,
     "verse_order": 274,
     "_type": "verse",
-    "_id": "274",
-    "title": "Verse 274"
+    "title": "Verse 274",
+    "externalId": 274,
+    "_id": "2421f7ad-dc7e-440e-80de-99cfd524d348"
   },
   {
     "verse_number": 46,
@@ -3296,8 +3570,9 @@
     "chapter_number": 6,
     "verse_order": 275,
     "_type": "verse",
-    "_id": "275",
-    "title": "Verse 275"
+    "title": "Verse 275",
+    "externalId": 275,
+    "_id": "437458c3-6bdc-43d2-aa38-6688c4728f1e"
   },
   {
     "verse_number": 47,
@@ -3308,8 +3583,9 @@
     "chapter_number": 6,
     "verse_order": 276,
     "_type": "verse",
-    "_id": "276",
-    "title": "Verse 276"
+    "title": "Verse 276",
+    "externalId": 276,
+    "_id": "f724ea84-9d81-45b4-b011-09873dcb9498"
   },
   {
     "verse_number": 1,
@@ -3320,8 +3596,9 @@
     "chapter_number": 7,
     "verse_order": 277,
     "_type": "verse",
-    "_id": "277",
-    "title": "Verse 277"
+    "title": "Verse 277",
+    "externalId": 277,
+    "_id": "758d461d-0173-43d4-b62a-175a9044262a"
   },
   {
     "verse_number": 2,
@@ -3332,8 +3609,9 @@
     "chapter_number": 7,
     "verse_order": 278,
     "_type": "verse",
-    "_id": "278",
-    "title": "Verse 278"
+    "title": "Verse 278",
+    "externalId": 278,
+    "_id": "2f7f5274-2e39-4d60-bc82-6b55b02516a8"
   },
   {
     "verse_number": 3,
@@ -3344,8 +3622,9 @@
     "chapter_number": 7,
     "verse_order": 279,
     "_type": "verse",
-    "_id": "279",
-    "title": "Verse 279"
+    "title": "Verse 279",
+    "externalId": 279,
+    "_id": "b9f3ee19-1d78-4809-adf6-6a0f870b0998"
   },
   {
     "verse_number": 4,
@@ -3356,8 +3635,9 @@
     "chapter_number": 7,
     "verse_order": 280,
     "_type": "verse",
-    "_id": "280",
-    "title": "Verse 280"
+    "title": "Verse 280",
+    "externalId": 280,
+    "_id": "86428ab0-8f3c-4418-8882-88c76ac5507b"
   },
   {
     "verse_number": 5,
@@ -3368,8 +3648,9 @@
     "chapter_number": 7,
     "verse_order": 281,
     "_type": "verse",
-    "_id": "281",
-    "title": "Verse 281"
+    "title": "Verse 281",
+    "externalId": 281,
+    "_id": "86b8304e-90e1-4fd2-987f-ad0261695690"
   },
   {
     "verse_number": 6,
@@ -3380,8 +3661,9 @@
     "chapter_number": 7,
     "verse_order": 282,
     "_type": "verse",
-    "_id": "282",
-    "title": "Verse 282"
+    "title": "Verse 282",
+    "externalId": 282,
+    "_id": "306bef6a-edc3-4375-b5f5-3cfe524a4acf"
   },
   {
     "verse_number": 7,
@@ -3392,8 +3674,9 @@
     "chapter_number": 7,
     "verse_order": 283,
     "_type": "verse",
-    "_id": "283",
-    "title": "Verse 283"
+    "title": "Verse 283",
+    "externalId": 283,
+    "_id": "20ae55ab-eb66-4d01-8275-1fd89ceae2ba"
   },
   {
     "verse_number": 8,
@@ -3404,8 +3687,9 @@
     "chapter_number": 7,
     "verse_order": 284,
     "_type": "verse",
-    "_id": "284",
-    "title": "Verse 284"
+    "title": "Verse 284",
+    "externalId": 284,
+    "_id": "44dc75cc-622f-458d-8a0f-b9d2f5c5c179"
   },
   {
     "verse_number": 9,
@@ -3416,8 +3700,9 @@
     "chapter_number": 7,
     "verse_order": 285,
     "_type": "verse",
-    "_id": "285",
-    "title": "Verse 285"
+    "title": "Verse 285",
+    "externalId": 285,
+    "_id": "475a76f9-938e-42ac-8965-093429072290"
   },
   {
     "verse_number": 10,
@@ -3428,8 +3713,9 @@
     "chapter_number": 7,
     "verse_order": 286,
     "_type": "verse",
-    "_id": "286",
-    "title": "Verse 286"
+    "title": "Verse 286",
+    "externalId": 286,
+    "_id": "792a7ec4-accd-468e-9a63-fc87f9579160"
   },
   {
     "verse_number": 11,
@@ -3440,8 +3726,9 @@
     "chapter_number": 7,
     "verse_order": 287,
     "_type": "verse",
-    "_id": "287",
-    "title": "Verse 287"
+    "title": "Verse 287",
+    "externalId": 287,
+    "_id": "06a853be-4197-4847-8ed2-69e7ecd7442a"
   },
   {
     "verse_number": 12,
@@ -3452,8 +3739,9 @@
     "chapter_number": 7,
     "verse_order": 288,
     "_type": "verse",
-    "_id": "288",
-    "title": "Verse 288"
+    "title": "Verse 288",
+    "externalId": 288,
+    "_id": "b72a75e5-5ff3-418e-bd5c-b8172aa817bd"
   },
   {
     "verse_number": 13,
@@ -3464,8 +3752,9 @@
     "chapter_number": 7,
     "verse_order": 289,
     "_type": "verse",
-    "_id": "289",
-    "title": "Verse 289"
+    "title": "Verse 289",
+    "externalId": 289,
+    "_id": "ec9adb1c-0798-4147-bcf6-4d46d4780e86"
   },
   {
     "verse_number": 14,
@@ -3476,8 +3765,9 @@
     "chapter_number": 7,
     "verse_order": 290,
     "_type": "verse",
-    "_id": "290",
-    "title": "Verse 290"
+    "title": "Verse 290",
+    "externalId": 290,
+    "_id": "112cd186-5c07-459f-a2c4-c30bad364a08"
   },
   {
     "verse_number": 15,
@@ -3488,8 +3778,9 @@
     "chapter_number": 7,
     "verse_order": 291,
     "_type": "verse",
-    "_id": "291",
-    "title": "Verse 291"
+    "title": "Verse 291",
+    "externalId": 291,
+    "_id": "4caa5103-33d5-47da-aa1f-a3d3f7a14b9b"
   },
   {
     "verse_number": 16,
@@ -3500,8 +3791,9 @@
     "chapter_number": 7,
     "verse_order": 292,
     "_type": "verse",
-    "_id": "292",
-    "title": "Verse 292"
+    "title": "Verse 292",
+    "externalId": 292,
+    "_id": "d21a3898-7353-42b0-aafa-fd7f223fe714"
   },
   {
     "verse_number": 17,
@@ -3512,8 +3804,9 @@
     "chapter_number": 7,
     "verse_order": 293,
     "_type": "verse",
-    "_id": "293",
-    "title": "Verse 293"
+    "title": "Verse 293",
+    "externalId": 293,
+    "_id": "3ff847f0-11b4-477a-8736-8fa62df81556"
   },
   {
     "verse_number": 18,
@@ -3524,8 +3817,9 @@
     "chapter_number": 7,
     "verse_order": 294,
     "_type": "verse",
-    "_id": "294",
-    "title": "Verse 294"
+    "title": "Verse 294",
+    "externalId": 294,
+    "_id": "2cbd0573-ecac-4fd3-a88c-71d3e02b441a"
   },
   {
     "verse_number": 19,
@@ -3536,8 +3830,9 @@
     "chapter_number": 7,
     "verse_order": 295,
     "_type": "verse",
-    "_id": "295",
-    "title": "Verse 295"
+    "title": "Verse 295",
+    "externalId": 295,
+    "_id": "d6e7e8b6-475c-4da6-9adb-dbb703346a52"
   },
   {
     "verse_number": 20,
@@ -3548,8 +3843,9 @@
     "chapter_number": 7,
     "verse_order": 296,
     "_type": "verse",
-    "_id": "296",
-    "title": "Verse 296"
+    "title": "Verse 296",
+    "externalId": 296,
+    "_id": "d07565a4-b084-42dd-acca-8cd9e790b34b"
   },
   {
     "verse_number": 21,
@@ -3560,8 +3856,9 @@
     "chapter_number": 7,
     "verse_order": 297,
     "_type": "verse",
-    "_id": "297",
-    "title": "Verse 297"
+    "title": "Verse 297",
+    "externalId": 297,
+    "_id": "93722aa9-4306-49ae-ad3a-087ad38e5caf"
   },
   {
     "verse_number": 22,
@@ -3572,8 +3869,9 @@
     "chapter_number": 7,
     "verse_order": 298,
     "_type": "verse",
-    "_id": "298",
-    "title": "Verse 298"
+    "title": "Verse 298",
+    "externalId": 298,
+    "_id": "1bc7ff61-e40f-48cf-899f-6f12e63af10c"
   },
   {
     "verse_number": 23,
@@ -3584,8 +3882,9 @@
     "chapter_number": 7,
     "verse_order": 299,
     "_type": "verse",
-    "_id": "299",
-    "title": "Verse 299"
+    "title": "Verse 299",
+    "externalId": 299,
+    "_id": "d788a6d9-eee2-4e17-83d6-b345df4b1c5d"
   },
   {
     "verse_number": 24,
@@ -3596,8 +3895,9 @@
     "chapter_number": 7,
     "verse_order": 300,
     "_type": "verse",
-    "_id": "300",
-    "title": "Verse 300"
+    "title": "Verse 300",
+    "externalId": 300,
+    "_id": "e073fee1-1cc5-4dc2-8f41-e1dea101f5c6"
   },
   {
     "verse_number": 25,
@@ -3608,8 +3908,9 @@
     "chapter_number": 7,
     "verse_order": 301,
     "_type": "verse",
-    "_id": "301",
-    "title": "Verse 301"
+    "title": "Verse 301",
+    "externalId": 301,
+    "_id": "fe88b992-d03b-48f9-a8c9-198ed2c1bdef"
   },
   {
     "verse_number": 26,
@@ -3620,8 +3921,9 @@
     "chapter_number": 7,
     "verse_order": 302,
     "_type": "verse",
-    "_id": "302",
-    "title": "Verse 302"
+    "title": "Verse 302",
+    "externalId": 302,
+    "_id": "1e961c11-1879-4319-a1a5-bb94808407bb"
   },
   {
     "verse_number": 27,
@@ -3632,8 +3934,9 @@
     "chapter_number": 7,
     "verse_order": 303,
     "_type": "verse",
-    "_id": "303",
-    "title": "Verse 303"
+    "title": "Verse 303",
+    "externalId": 303,
+    "_id": "6161a0ac-c780-4ea5-8213-21839553e58a"
   },
   {
     "verse_number": 28,
@@ -3644,8 +3947,9 @@
     "chapter_number": 7,
     "verse_order": 304,
     "_type": "verse",
-    "_id": "304",
-    "title": "Verse 304"
+    "title": "Verse 304",
+    "externalId": 304,
+    "_id": "87818960-08df-4b54-832e-812caafa9524"
   },
   {
     "verse_number": 29,
@@ -3656,8 +3960,9 @@
     "chapter_number": 7,
     "verse_order": 305,
     "_type": "verse",
-    "_id": "305",
-    "title": "Verse 305"
+    "title": "Verse 305",
+    "externalId": 305,
+    "_id": "98bd4eb4-e942-45f8-aee3-416c3cecb5c4"
   },
   {
     "verse_number": 30,
@@ -3668,8 +3973,9 @@
     "chapter_number": 7,
     "verse_order": 306,
     "_type": "verse",
-    "_id": "306",
-    "title": "Verse 306"
+    "title": "Verse 306",
+    "externalId": 306,
+    "_id": "13483975-1250-4492-b76d-1119571777fc"
   },
   {
     "verse_number": 1,
@@ -3680,8 +3986,9 @@
     "chapter_number": 8,
     "verse_order": 307,
     "_type": "verse",
-    "_id": "307",
-    "title": "Verse 307"
+    "title": "Verse 307",
+    "externalId": 307,
+    "_id": "a051614a-795f-4354-b6ea-fc48ed09acc6"
   },
   {
     "verse_number": 2,
@@ -3692,8 +3999,9 @@
     "chapter_number": 8,
     "verse_order": 308,
     "_type": "verse",
-    "_id": "308",
-    "title": "Verse 308"
+    "title": "Verse 308",
+    "externalId": 308,
+    "_id": "9c2de399-0886-4b97-976a-4b3d20267fc3"
   },
   {
     "verse_number": 3,
@@ -3704,8 +4012,9 @@
     "chapter_number": 8,
     "verse_order": 309,
     "_type": "verse",
-    "_id": "309",
-    "title": "Verse 309"
+    "title": "Verse 309",
+    "externalId": 309,
+    "_id": "4119d58e-8aae-4374-bf87-c848beafd06e"
   },
   {
     "verse_number": 4,
@@ -3716,8 +4025,9 @@
     "chapter_number": 8,
     "verse_order": 310,
     "_type": "verse",
-    "_id": "310",
-    "title": "Verse 310"
+    "title": "Verse 310",
+    "externalId": 310,
+    "_id": "7ba85091-7968-4ebb-969e-60f0f5b993b2"
   },
   {
     "verse_number": 5,
@@ -3728,8 +4038,9 @@
     "chapter_number": 8,
     "verse_order": 311,
     "_type": "verse",
-    "_id": "311",
-    "title": "Verse 311"
+    "title": "Verse 311",
+    "externalId": 311,
+    "_id": "ff9c82a8-a1e3-4b04-93a8-e9b47777e429"
   },
   {
     "verse_number": 6,
@@ -3740,8 +4051,9 @@
     "chapter_number": 8,
     "verse_order": 312,
     "_type": "verse",
-    "_id": "312",
-    "title": "Verse 312"
+    "title": "Verse 312",
+    "externalId": 312,
+    "_id": "49254af2-74c6-43f6-b6b8-71936c8ddea3"
   },
   {
     "verse_number": 7,
@@ -3752,8 +4064,9 @@
     "chapter_number": 8,
     "verse_order": 313,
     "_type": "verse",
-    "_id": "313",
-    "title": "Verse 313"
+    "title": "Verse 313",
+    "externalId": 313,
+    "_id": "5b51ad9c-3dc2-4626-80c0-e9a303523fe3"
   },
   {
     "verse_number": 8,
@@ -3764,8 +4077,9 @@
     "chapter_number": 8,
     "verse_order": 314,
     "_type": "verse",
-    "_id": "314",
-    "title": "Verse 314"
+    "title": "Verse 314",
+    "externalId": 314,
+    "_id": "99503ea0-e807-489c-8fe8-e96a655256c0"
   },
   {
     "verse_number": 9,
@@ -3776,8 +4090,9 @@
     "chapter_number": 8,
     "verse_order": 315,
     "_type": "verse",
-    "_id": "315",
-    "title": "Verse 315"
+    "title": "Verse 315",
+    "externalId": 315,
+    "_id": "d8880b02-e38b-46b5-b390-345226e6aba6"
   },
   {
     "verse_number": 10,
@@ -3788,8 +4103,9 @@
     "chapter_number": 8,
     "verse_order": 316,
     "_type": "verse",
-    "_id": "316",
-    "title": "Verse 316"
+    "title": "Verse 316",
+    "externalId": 316,
+    "_id": "3cc4d2dd-bc83-4e46-9d12-93427ca4d426"
   },
   {
     "verse_number": 11,
@@ -3800,8 +4116,9 @@
     "chapter_number": 8,
     "verse_order": 317,
     "_type": "verse",
-    "_id": "317",
-    "title": "Verse 317"
+    "title": "Verse 317",
+    "externalId": 317,
+    "_id": "4cfb351d-1cea-4303-8beb-6ba033ad0dde"
   },
   {
     "verse_number": 12,
@@ -3812,8 +4129,9 @@
     "chapter_number": 8,
     "verse_order": 318,
     "_type": "verse",
-    "_id": "318",
-    "title": "Verse 318"
+    "title": "Verse 318",
+    "externalId": 318,
+    "_id": "4edd6c8d-b1c0-4509-b6f0-d58a66a01cab"
   },
   {
     "verse_number": 13,
@@ -3824,8 +4142,9 @@
     "chapter_number": 8,
     "verse_order": 319,
     "_type": "verse",
-    "_id": "319",
-    "title": "Verse 319"
+    "title": "Verse 319",
+    "externalId": 319,
+    "_id": "634dffdd-353a-4a29-9f03-c80af0764e14"
   },
   {
     "verse_number": 14,
@@ -3836,8 +4155,9 @@
     "chapter_number": 8,
     "verse_order": 320,
     "_type": "verse",
-    "_id": "320",
-    "title": "Verse 320"
+    "title": "Verse 320",
+    "externalId": 320,
+    "_id": "7adf416e-c7cc-4f2f-9b43-7c6020d96ab7"
   },
   {
     "verse_number": 15,
@@ -3848,8 +4168,9 @@
     "chapter_number": 8,
     "verse_order": 321,
     "_type": "verse",
-    "_id": "321",
-    "title": "Verse 321"
+    "title": "Verse 321",
+    "externalId": 321,
+    "_id": "87ac2235-593f-4740-83f2-7e0660dbf8a9"
   },
   {
     "verse_number": 16,
@@ -3860,8 +4181,9 @@
     "chapter_number": 8,
     "verse_order": 322,
     "_type": "verse",
-    "_id": "322",
-    "title": "Verse 322"
+    "title": "Verse 322",
+    "externalId": 322,
+    "_id": "525f3a36-a2e0-49bd-8ff1-b71ffa9d8dfd"
   },
   {
     "verse_number": 17,
@@ -3872,8 +4194,9 @@
     "chapter_number": 8,
     "verse_order": 323,
     "_type": "verse",
-    "_id": "323",
-    "title": "Verse 323"
+    "title": "Verse 323",
+    "externalId": 323,
+    "_id": "8ecc990f-8952-4c47-b37f-c0f65cf74ef2"
   },
   {
     "verse_number": 18,
@@ -3884,8 +4207,9 @@
     "chapter_number": 8,
     "verse_order": 324,
     "_type": "verse",
-    "_id": "324",
-    "title": "Verse 324"
+    "title": "Verse 324",
+    "externalId": 324,
+    "_id": "7e8dbd20-f565-494b-9839-cd9ad976dc5f"
   },
   {
     "verse_number": 19,
@@ -3896,8 +4220,9 @@
     "chapter_number": 8,
     "verse_order": 325,
     "_type": "verse",
-    "_id": "325",
-    "title": "Verse 325"
+    "title": "Verse 325",
+    "externalId": 325,
+    "_id": "3770e6b4-ed35-4d66-b52b-d019349b6eef"
   },
   {
     "verse_number": 20,
@@ -3908,8 +4233,9 @@
     "chapter_number": 8,
     "verse_order": 326,
     "_type": "verse",
-    "_id": "326",
-    "title": "Verse 326"
+    "title": "Verse 326",
+    "externalId": 326,
+    "_id": "b611d5f2-3aba-4d39-883f-6df254df72fc"
   },
   {
     "verse_number": 21,
@@ -3920,8 +4246,9 @@
     "chapter_number": 8,
     "verse_order": 327,
     "_type": "verse",
-    "_id": "327",
-    "title": "Verse 327"
+    "title": "Verse 327",
+    "externalId": 327,
+    "_id": "51720144-b126-42ff-8cc0-0507ffff0edd"
   },
   {
     "verse_number": 22,
@@ -3932,8 +4259,9 @@
     "chapter_number": 8,
     "verse_order": 328,
     "_type": "verse",
-    "_id": "328",
-    "title": "Verse 328"
+    "title": "Verse 328",
+    "externalId": 328,
+    "_id": "9d43f3ff-8786-4a67-bf06-0e59082b6fda"
   },
   {
     "verse_number": 23,
@@ -3944,8 +4272,9 @@
     "chapter_number": 8,
     "verse_order": 329,
     "_type": "verse",
-    "_id": "329",
-    "title": "Verse 329"
+    "title": "Verse 329",
+    "externalId": 329,
+    "_id": "116dc1d1-f108-4b08-9825-a96ba7251a46"
   },
   {
     "verse_number": 24,
@@ -3956,8 +4285,9 @@
     "chapter_number": 8,
     "verse_order": 330,
     "_type": "verse",
-    "_id": "330",
-    "title": "Verse 330"
+    "title": "Verse 330",
+    "externalId": 330,
+    "_id": "01db5afc-2adf-4312-b0a2-bf3ea4322047"
   },
   {
     "verse_number": 25,
@@ -3968,8 +4298,9 @@
     "chapter_number": 8,
     "verse_order": 331,
     "_type": "verse",
-    "_id": "331",
-    "title": "Verse 331"
+    "title": "Verse 331",
+    "externalId": 331,
+    "_id": "1f6bbdb9-2e8d-4eaa-9fad-66b0c03f4c48"
   },
   {
     "verse_number": 26,
@@ -3980,8 +4311,9 @@
     "chapter_number": 8,
     "verse_order": 332,
     "_type": "verse",
-    "_id": "332",
-    "title": "Verse 332"
+    "title": "Verse 332",
+    "externalId": 332,
+    "_id": "1afe7ab0-65d3-4bc5-92ee-897b622af165"
   },
   {
     "verse_number": 27,
@@ -3992,8 +4324,9 @@
     "chapter_number": 8,
     "verse_order": 333,
     "_type": "verse",
-    "_id": "333",
-    "title": "Verse 333"
+    "title": "Verse 333",
+    "externalId": 333,
+    "_id": "60e21eb8-54ca-49fd-a035-ceac6cd3dcea"
   },
   {
     "verse_number": 28,
@@ -4004,8 +4337,9 @@
     "chapter_number": 8,
     "verse_order": 334,
     "_type": "verse",
-    "_id": "334",
-    "title": "Verse 334"
+    "title": "Verse 334",
+    "externalId": 334,
+    "_id": "576ad426-6e0d-44b1-8297-e917b54c4f59"
   },
   {
     "verse_number": 1,
@@ -4016,8 +4350,9 @@
     "chapter_number": 9,
     "verse_order": 335,
     "_type": "verse",
-    "_id": "335",
-    "title": "Verse 335"
+    "title": "Verse 335",
+    "externalId": 335,
+    "_id": "bde563c4-9074-4a49-a9e4-17be2374f07c"
   },
   {
     "verse_number": 2,
@@ -4028,8 +4363,9 @@
     "chapter_number": 9,
     "verse_order": 336,
     "_type": "verse",
-    "_id": "336",
-    "title": "Verse 336"
+    "title": "Verse 336",
+    "externalId": 336,
+    "_id": "3d542e63-3e8e-4038-b28d-87a994289356"
   },
   {
     "verse_number": 3,
@@ -4040,8 +4376,9 @@
     "chapter_number": 9,
     "verse_order": 337,
     "_type": "verse",
-    "_id": "337",
-    "title": "Verse 337"
+    "title": "Verse 337",
+    "externalId": 337,
+    "_id": "ac5ea981-4938-49e7-9a23-1e47013d385c"
   },
   {
     "verse_number": 4,
@@ -4052,8 +4389,9 @@
     "chapter_number": 9,
     "verse_order": 338,
     "_type": "verse",
-    "_id": "338",
-    "title": "Verse 338"
+    "title": "Verse 338",
+    "externalId": 338,
+    "_id": "59ecfe68-2de7-4061-85b8-cf66c0bd11a6"
   },
   {
     "verse_number": 5,
@@ -4064,8 +4402,9 @@
     "chapter_number": 9,
     "verse_order": 339,
     "_type": "verse",
-    "_id": "339",
-    "title": "Verse 339"
+    "title": "Verse 339",
+    "externalId": 339,
+    "_id": "4ea346e0-4d93-48af-8849-95a20ce38a9f"
   },
   {
     "verse_number": 6,
@@ -4076,8 +4415,9 @@
     "chapter_number": 9,
     "verse_order": 340,
     "_type": "verse",
-    "_id": "340",
-    "title": "Verse 340"
+    "title": "Verse 340",
+    "externalId": 340,
+    "_id": "f343da96-f834-4970-8d39-1b9502b8c9a2"
   },
   {
     "verse_number": 7,
@@ -4088,8 +4428,9 @@
     "chapter_number": 9,
     "verse_order": 341,
     "_type": "verse",
-    "_id": "341",
-    "title": "Verse 341"
+    "title": "Verse 341",
+    "externalId": 341,
+    "_id": "70a81347-2801-489a-9c05-c9d92f994014"
   },
   {
     "verse_number": 8,
@@ -4100,8 +4441,9 @@
     "chapter_number": 9,
     "verse_order": 342,
     "_type": "verse",
-    "_id": "342",
-    "title": "Verse 342"
+    "title": "Verse 342",
+    "externalId": 342,
+    "_id": "1d069895-c83d-4dfa-8cc0-25b96263776a"
   },
   {
     "verse_number": 9,
@@ -4112,8 +4454,9 @@
     "chapter_number": 9,
     "verse_order": 343,
     "_type": "verse",
-    "_id": "343",
-    "title": "Verse 343"
+    "title": "Verse 343",
+    "externalId": 343,
+    "_id": "79bbabbd-a55b-457e-b17d-d0c0a6d9dd75"
   },
   {
     "verse_number": 10,
@@ -4124,8 +4467,9 @@
     "chapter_number": 9,
     "verse_order": 344,
     "_type": "verse",
-    "_id": "344",
-    "title": "Verse 344"
+    "title": "Verse 344",
+    "externalId": 344,
+    "_id": "a552d372-0374-4028-9177-8f25de6a4a25"
   },
   {
     "verse_number": 11,
@@ -4136,8 +4480,9 @@
     "chapter_number": 9,
     "verse_order": 345,
     "_type": "verse",
-    "_id": "345",
-    "title": "Verse 345"
+    "title": "Verse 345",
+    "externalId": 345,
+    "_id": "5840433f-4d1a-4e8d-b94d-7c59daa710f0"
   },
   {
     "verse_number": 12,
@@ -4148,8 +4493,9 @@
     "chapter_number": 9,
     "verse_order": 346,
     "_type": "verse",
-    "_id": "346",
-    "title": "Verse 346"
+    "title": "Verse 346",
+    "externalId": 346,
+    "_id": "e200522b-a835-4ba7-846e-a0dbf5c2b06a"
   },
   {
     "verse_number": 13,
@@ -4160,8 +4506,9 @@
     "chapter_number": 9,
     "verse_order": 347,
     "_type": "verse",
-    "_id": "347",
-    "title": "Verse 347"
+    "title": "Verse 347",
+    "externalId": 347,
+    "_id": "004e6d0a-a440-424a-95ac-d6a57103a99b"
   },
   {
     "verse_number": 14,
@@ -4172,8 +4519,9 @@
     "chapter_number": 9,
     "verse_order": 348,
     "_type": "verse",
-    "_id": "348",
-    "title": "Verse 348"
+    "title": "Verse 348",
+    "externalId": 348,
+    "_id": "fa6255f7-129b-4808-a0da-ebd8e4b5116d"
   },
   {
     "verse_number": 15,
@@ -4184,8 +4532,9 @@
     "chapter_number": 9,
     "verse_order": 349,
     "_type": "verse",
-    "_id": "349",
-    "title": "Verse 349"
+    "title": "Verse 349",
+    "externalId": 349,
+    "_id": "28900744-5eb3-44f2-8789-28157f9d4f57"
   },
   {
     "verse_number": 16,
@@ -4196,8 +4545,9 @@
     "chapter_number": 9,
     "verse_order": 350,
     "_type": "verse",
-    "_id": "350",
-    "title": "Verse 350"
+    "title": "Verse 350",
+    "externalId": 350,
+    "_id": "b579dcc6-7d64-4ba4-b862-b6c7b5a1b6d5"
   },
   {
     "verse_number": 17,
@@ -4208,8 +4558,9 @@
     "chapter_number": 9,
     "verse_order": 351,
     "_type": "verse",
-    "_id": "351",
-    "title": "Verse 351"
+    "title": "Verse 351",
+    "externalId": 351,
+    "_id": "726031b1-090a-4009-8b7b-845341b05ec5"
   },
   {
     "verse_number": 18,
@@ -4220,8 +4571,9 @@
     "chapter_number": 9,
     "verse_order": 352,
     "_type": "verse",
-    "_id": "352",
-    "title": "Verse 352"
+    "title": "Verse 352",
+    "externalId": 352,
+    "_id": "b7c96cfb-873a-46ed-9c87-7bf5bf76270b"
   },
   {
     "verse_number": 19,
@@ -4232,8 +4584,9 @@
     "chapter_number": 9,
     "verse_order": 353,
     "_type": "verse",
-    "_id": "353",
-    "title": "Verse 353"
+    "title": "Verse 353",
+    "externalId": 353,
+    "_id": "0736c7c3-4c90-42f3-a46c-f55873bc5ea5"
   },
   {
     "verse_number": 28,
@@ -4244,8 +4597,9 @@
     "chapter_number": 9,
     "verse_order": 362,
     "_type": "verse",
-    "_id": "362",
-    "title": "Verse 362"
+    "title": "Verse 362",
+    "externalId": 362,
+    "_id": "40fe561c-f6c0-404a-94ed-2c37e76ae0f5"
   },
   {
     "verse_number": 20,
@@ -4256,8 +4610,9 @@
     "chapter_number": 9,
     "verse_order": 354,
     "_type": "verse",
-    "_id": "354",
-    "title": "Verse 354"
+    "title": "Verse 354",
+    "externalId": 354,
+    "_id": "5fd86b88-d11c-4065-95a3-3b198f8ec502"
   },
   {
     "verse_number": 21,
@@ -4268,8 +4623,9 @@
     "chapter_number": 9,
     "verse_order": 355,
     "_type": "verse",
-    "_id": "355",
-    "title": "Verse 355"
+    "title": "Verse 355",
+    "externalId": 355,
+    "_id": "e4993244-c039-4434-bc93-9a9661d92d14"
   },
   {
     "verse_number": 22,
@@ -4280,8 +4636,9 @@
     "chapter_number": 9,
     "verse_order": 356,
     "_type": "verse",
-    "_id": "356",
-    "title": "Verse 356"
+    "title": "Verse 356",
+    "externalId": 356,
+    "_id": "eaef5db4-2dc8-4c91-932a-83315691f250"
   },
   {
     "verse_number": 23,
@@ -4292,8 +4649,9 @@
     "chapter_number": 9,
     "verse_order": 357,
     "_type": "verse",
-    "_id": "357",
-    "title": "Verse 357"
+    "title": "Verse 357",
+    "externalId": 357,
+    "_id": "e1d73f82-da90-449c-a32e-56a6f47187f1"
   },
   {
     "verse_number": 24,
@@ -4304,8 +4662,9 @@
     "chapter_number": 9,
     "verse_order": 358,
     "_type": "verse",
-    "_id": "358",
-    "title": "Verse 358"
+    "title": "Verse 358",
+    "externalId": 358,
+    "_id": "1abdaf8d-0789-487b-a4f5-3fd062e86fb7"
   },
   {
     "verse_number": 25,
@@ -4316,8 +4675,9 @@
     "chapter_number": 9,
     "verse_order": 359,
     "_type": "verse",
-    "_id": "359",
-    "title": "Verse 359"
+    "title": "Verse 359",
+    "externalId": 359,
+    "_id": "29afed8f-b59f-4f8e-a8ab-e4a61496c89a"
   },
   {
     "verse_number": 26,
@@ -4328,8 +4688,9 @@
     "chapter_number": 9,
     "verse_order": 360,
     "_type": "verse",
-    "_id": "360",
-    "title": "Verse 360"
+    "title": "Verse 360",
+    "externalId": 360,
+    "_id": "eba74c3b-2893-4b10-b983-34ffe690e597"
   },
   {
     "verse_number": 27,
@@ -4340,8 +4701,9 @@
     "chapter_number": 9,
     "verse_order": 361,
     "_type": "verse",
-    "_id": "361",
-    "title": "Verse 361"
+    "title": "Verse 361",
+    "externalId": 361,
+    "_id": "2527b466-2731-411f-8fb3-aae54fe7e609"
   },
   {
     "verse_number": 29,
@@ -4352,8 +4714,9 @@
     "chapter_number": 9,
     "verse_order": 363,
     "_type": "verse",
-    "_id": "363",
-    "title": "Verse 363"
+    "title": "Verse 363",
+    "externalId": 363,
+    "_id": "c37b7d3a-57c6-4d10-aadd-a560e71b71d8"
   },
   {
     "verse_number": 30,
@@ -4364,8 +4727,9 @@
     "chapter_number": 9,
     "verse_order": 364,
     "_type": "verse",
-    "_id": "364",
-    "title": "Verse 364"
+    "title": "Verse 364",
+    "externalId": 364,
+    "_id": "928d75f6-e16c-40e3-bbbd-73f0f546c543"
   },
   {
     "verse_number": 31,
@@ -4376,8 +4740,9 @@
     "chapter_number": 9,
     "verse_order": 365,
     "_type": "verse",
-    "_id": "365",
-    "title": "Verse 365"
+    "title": "Verse 365",
+    "externalId": 365,
+    "_id": "98ee4d12-36b8-4150-b9e3-b1140301033f"
   },
   {
     "verse_number": 32,
@@ -4388,8 +4753,9 @@
     "chapter_number": 9,
     "verse_order": 366,
     "_type": "verse",
-    "_id": "366",
-    "title": "Verse 366"
+    "title": "Verse 366",
+    "externalId": 366,
+    "_id": "5e6625d1-7bfe-4550-80a6-5b2b21176b1b"
   },
   {
     "verse_number": 33,
@@ -4400,8 +4766,9 @@
     "chapter_number": 9,
     "verse_order": 367,
     "_type": "verse",
-    "_id": "367",
-    "title": "Verse 367"
+    "title": "Verse 367",
+    "externalId": 367,
+    "_id": "c6a66940-abbe-468e-8574-3df417c19612"
   },
   {
     "verse_number": 34,
@@ -4412,8 +4779,9 @@
     "chapter_number": 9,
     "verse_order": 368,
     "_type": "verse",
-    "_id": "368",
-    "title": "Verse 368"
+    "title": "Verse 368",
+    "externalId": 368,
+    "_id": "49883af2-23a9-46b5-8498-4a845e5338b9"
   },
   {
     "verse_number": 1,
@@ -4424,8 +4792,9 @@
     "chapter_number": 10,
     "verse_order": 369,
     "_type": "verse",
-    "_id": "369",
-    "title": "Verse 369"
+    "title": "Verse 369",
+    "externalId": 369,
+    "_id": "ef30f54e-4091-4419-bf87-28d0f92aceb0"
   },
   {
     "verse_number": 2,
@@ -4436,8 +4805,9 @@
     "chapter_number": 10,
     "verse_order": 370,
     "_type": "verse",
-    "_id": "370",
-    "title": "Verse 370"
+    "title": "Verse 370",
+    "externalId": 370,
+    "_id": "5ac387a1-3f80-48be-b175-2a66fe95827a"
   },
   {
     "verse_number": 3,
@@ -4448,8 +4818,9 @@
     "chapter_number": 10,
     "verse_order": 371,
     "_type": "verse",
-    "_id": "371",
-    "title": "Verse 371"
+    "title": "Verse 371",
+    "externalId": 371,
+    "_id": "46b8d9b0-38a1-4593-8940-ad89e77009f0"
   },
   {
     "verse_number": 4,
@@ -4460,8 +4831,9 @@
     "chapter_number": 10,
     "verse_order": 372,
     "_type": "verse",
-    "_id": "372",
-    "title": "Verse 372"
+    "title": "Verse 372",
+    "externalId": 372,
+    "_id": "133e4bd4-2886-4e2f-a653-6cf1fc2c503c"
   },
   {
     "verse_number": 6,
@@ -4472,8 +4844,9 @@
     "chapter_number": 10,
     "verse_order": 373,
     "_type": "verse",
-    "_id": "373",
-    "title": "Verse 373"
+    "title": "Verse 373",
+    "externalId": 373,
+    "_id": "fba87418-469b-41b3-a746-e5c6f5086d2f"
   },
   {
     "verse_number": 7,
@@ -4484,8 +4857,9 @@
     "chapter_number": 10,
     "verse_order": 374,
     "_type": "verse",
-    "_id": "374",
-    "title": "Verse 374"
+    "title": "Verse 374",
+    "externalId": 374,
+    "_id": "9d0d8152-03e5-407a-bb58-8738fb751e2b"
   },
   {
     "verse_number": 8,
@@ -4496,8 +4870,9 @@
     "chapter_number": 10,
     "verse_order": 375,
     "_type": "verse",
-    "_id": "375",
-    "title": "Verse 375"
+    "title": "Verse 375",
+    "externalId": 375,
+    "_id": "3b769a5d-4a1a-4e35-b10b-ce578995f6c1"
   },
   {
     "verse_number": 9,
@@ -4508,8 +4883,9 @@
     "chapter_number": 10,
     "verse_order": 376,
     "_type": "verse",
-    "_id": "376",
-    "title": "Verse 376"
+    "title": "Verse 376",
+    "externalId": 376,
+    "_id": "71d26a72-f926-401c-8808-d3331fe17e8f"
   },
   {
     "verse_number": 10,
@@ -4520,8 +4896,9 @@
     "chapter_number": 10,
     "verse_order": 377,
     "_type": "verse",
-    "_id": "377",
-    "title": "Verse 377"
+    "title": "Verse 377",
+    "externalId": 377,
+    "_id": "88462f89-8630-4b81-82da-f033be628cf4"
   },
   {
     "verse_number": 11,
@@ -4532,8 +4909,9 @@
     "chapter_number": 10,
     "verse_order": 378,
     "_type": "verse",
-    "_id": "378",
-    "title": "Verse 378"
+    "title": "Verse 378",
+    "externalId": 378,
+    "_id": "d859603c-edae-420e-b39f-cb4392887730"
   },
   {
     "verse_number": 12,
@@ -4544,8 +4922,9 @@
     "chapter_number": 10,
     "verse_order": 379,
     "_type": "verse",
-    "_id": "379",
-    "title": "Verse 379"
+    "title": "Verse 379",
+    "externalId": 379,
+    "_id": "870a7598-f760-4d0a-87ba-a30a1a0438b8"
   },
   {
     "verse_number": 28,
@@ -4556,8 +4935,9 @@
     "chapter_number": 10,
     "verse_order": 395,
     "_type": "verse",
-    "_id": "395",
-    "title": "Verse 395"
+    "title": "Verse 395",
+    "externalId": 395,
+    "_id": "1945faad-2d00-477b-a0ff-c8c54c14fb3b"
   },
   {
     "verse_number": 13,
@@ -4568,8 +4948,9 @@
     "chapter_number": 10,
     "verse_order": 380,
     "_type": "verse",
-    "_id": "380",
-    "title": "Verse 380"
+    "title": "Verse 380",
+    "externalId": 380,
+    "_id": "905b7cfe-ce60-4124-b864-da234e7d7cbf"
   },
   {
     "verse_number": 14,
@@ -4580,8 +4961,9 @@
     "chapter_number": 10,
     "verse_order": 381,
     "_type": "verse",
-    "_id": "381",
-    "title": "Verse 381"
+    "title": "Verse 381",
+    "externalId": 381,
+    "_id": "92950aef-12ef-4448-9b98-2aa97711f82a"
   },
   {
     "verse_number": 15,
@@ -4592,8 +4974,9 @@
     "chapter_number": 10,
     "verse_order": 382,
     "_type": "verse",
-    "_id": "382",
-    "title": "Verse 382"
+    "title": "Verse 382",
+    "externalId": 382,
+    "_id": "ac059436-543e-4f4c-800e-542e7511c375"
   },
   {
     "verse_number": 16,
@@ -4604,8 +4987,9 @@
     "chapter_number": 10,
     "verse_order": 383,
     "_type": "verse",
-    "_id": "383",
-    "title": "Verse 383"
+    "title": "Verse 383",
+    "externalId": 383,
+    "_id": "f412d48d-0856-4c32-a7a2-f5859a758b86"
   },
   {
     "verse_number": 17,
@@ -4616,8 +5000,9 @@
     "chapter_number": 10,
     "verse_order": 384,
     "_type": "verse",
-    "_id": "384",
-    "title": "Verse 384"
+    "title": "Verse 384",
+    "externalId": 384,
+    "_id": "7ff359a4-a327-4cdf-a421-f1ae5d11975b"
   },
   {
     "verse_number": 18,
@@ -4628,8 +5013,9 @@
     "chapter_number": 10,
     "verse_order": 385,
     "_type": "verse",
-    "_id": "385",
-    "title": "Verse 385"
+    "title": "Verse 385",
+    "externalId": 385,
+    "_id": "215b355e-82ee-442f-8501-63571c2a4018"
   },
   {
     "verse_number": 19,
@@ -4640,8 +5026,9 @@
     "chapter_number": 10,
     "verse_order": 386,
     "_type": "verse",
-    "_id": "386",
-    "title": "Verse 386"
+    "title": "Verse 386",
+    "externalId": 386,
+    "_id": "92748d75-ee26-421a-86d8-c5b183943235"
   },
   {
     "verse_number": 20,
@@ -4652,8 +5039,9 @@
     "chapter_number": 10,
     "verse_order": 387,
     "_type": "verse",
-    "_id": "387",
-    "title": "Verse 387"
+    "title": "Verse 387",
+    "externalId": 387,
+    "_id": "c832721c-250c-4a17-ac96-3078bfa9f427"
   },
   {
     "verse_number": 21,
@@ -4664,8 +5052,9 @@
     "chapter_number": 10,
     "verse_order": 388,
     "_type": "verse",
-    "_id": "388",
-    "title": "Verse 388"
+    "title": "Verse 388",
+    "externalId": 388,
+    "_id": "83389ee7-46e5-45b3-9387-af6588ae93e7"
   },
   {
     "verse_number": 22,
@@ -4676,8 +5065,9 @@
     "chapter_number": 10,
     "verse_order": 389,
     "_type": "verse",
-    "_id": "389",
-    "title": "Verse 389"
+    "title": "Verse 389",
+    "externalId": 389,
+    "_id": "1eedbc7d-a580-4b54-ab24-46bfe3b49aaa"
   },
   {
     "verse_number": 23,
@@ -4688,8 +5078,9 @@
     "chapter_number": 10,
     "verse_order": 390,
     "_type": "verse",
-    "_id": "390",
-    "title": "Verse 390"
+    "title": "Verse 390",
+    "externalId": 390,
+    "_id": "85c73bae-e934-40ee-ba9c-3e979d4a3ca1"
   },
   {
     "verse_number": 24,
@@ -4700,8 +5091,9 @@
     "chapter_number": 10,
     "verse_order": 391,
     "_type": "verse",
-    "_id": "391",
-    "title": "Verse 391"
+    "title": "Verse 391",
+    "externalId": 391,
+    "_id": "1529319a-e325-4a71-8858-a2e891452cc0"
   },
   {
     "verse_number": 25,
@@ -4712,8 +5104,9 @@
     "chapter_number": 10,
     "verse_order": 392,
     "_type": "verse",
-    "_id": "392",
-    "title": "Verse 392"
+    "title": "Verse 392",
+    "externalId": 392,
+    "_id": "145b1709-9b08-428e-a519-3646eb7d568e"
   },
   {
     "verse_number": 26,
@@ -4724,8 +5117,9 @@
     "chapter_number": 10,
     "verse_order": 393,
     "_type": "verse",
-    "_id": "393",
-    "title": "Verse 393"
+    "title": "Verse 393",
+    "externalId": 393,
+    "_id": "0ea73777-ad42-4e6e-8708-8f62f7cc6c13"
   },
   {
     "verse_number": 27,
@@ -4736,8 +5130,9 @@
     "chapter_number": 10,
     "verse_order": 394,
     "_type": "verse",
-    "_id": "394",
-    "title": "Verse 394"
+    "title": "Verse 394",
+    "externalId": 394,
+    "_id": "edbd73cd-bfa7-40f4-b56e-ef7b724ed094"
   },
   {
     "verse_number": 3,
@@ -4748,8 +5143,9 @@
     "chapter_number": 11,
     "verse_order": 412,
     "_type": "verse",
-    "_id": "412",
-    "title": "Verse 412"
+    "title": "Verse 412",
+    "externalId": 412,
+    "_id": "1c32cc18-9c4a-4328-94d7-b74ef8e87373"
   },
   {
     "verse_number": 29,
@@ -4760,8 +5156,9 @@
     "chapter_number": 10,
     "verse_order": 396,
     "_type": "verse",
-    "_id": "396",
-    "title": "Verse 396"
+    "title": "Verse 396",
+    "externalId": 396,
+    "_id": "4e6c073c-b3e1-4e85-892f-ea6c92049cab"
   },
   {
     "verse_number": 30,
@@ -4772,8 +5169,9 @@
     "chapter_number": 10,
     "verse_order": 397,
     "_type": "verse",
-    "_id": "397",
-    "title": "Verse 397"
+    "title": "Verse 397",
+    "externalId": 397,
+    "_id": "d0fc05ce-1490-4a90-aa59-f00dfa05dfc5"
   },
   {
     "verse_number": 31,
@@ -4784,8 +5182,9 @@
     "chapter_number": 10,
     "verse_order": 398,
     "_type": "verse",
-    "_id": "398",
-    "title": "Verse 398"
+    "title": "Verse 398",
+    "externalId": 398,
+    "_id": "53aecc05-33da-42a0-8c6a-dc94aea01245"
   },
   {
     "verse_number": 32,
@@ -4796,8 +5195,9 @@
     "chapter_number": 10,
     "verse_order": 399,
     "_type": "verse",
-    "_id": "399",
-    "title": "Verse 399"
+    "title": "Verse 399",
+    "externalId": 399,
+    "_id": "a52b9687-3f4f-40fd-b33b-836ba146ba89"
   },
   {
     "verse_number": 33,
@@ -4808,8 +5208,9 @@
     "chapter_number": 10,
     "verse_order": 400,
     "_type": "verse",
-    "_id": "400",
-    "title": "Verse 400"
+    "title": "Verse 400",
+    "externalId": 400,
+    "_id": "be37d150-0d9a-46ee-b10e-1285d0ac822d"
   },
   {
     "verse_number": 34,
@@ -4820,8 +5221,9 @@
     "chapter_number": 10,
     "verse_order": 401,
     "_type": "verse",
-    "_id": "401",
-    "title": "Verse 401"
+    "title": "Verse 401",
+    "externalId": 401,
+    "_id": "b18f2ede-2fe3-4fbd-8d54-e79803c3f107"
   },
   {
     "verse_number": 35,
@@ -4832,8 +5234,9 @@
     "chapter_number": 10,
     "verse_order": 402,
     "_type": "verse",
-    "_id": "402",
-    "title": "Verse 402"
+    "title": "Verse 402",
+    "externalId": 402,
+    "_id": "9ded5ffc-b71a-43b4-8f9b-fb64fdcc3499"
   },
   {
     "verse_number": 36,
@@ -4844,8 +5247,9 @@
     "chapter_number": 10,
     "verse_order": 403,
     "_type": "verse",
-    "_id": "403",
-    "title": "Verse 403"
+    "title": "Verse 403",
+    "externalId": 403,
+    "_id": "8dce03fb-0137-4076-a60e-b42e6d916fad"
   },
   {
     "verse_number": 37,
@@ -4856,8 +5260,9 @@
     "chapter_number": 10,
     "verse_order": 404,
     "_type": "verse",
-    "_id": "404",
-    "title": "Verse 404"
+    "title": "Verse 404",
+    "externalId": 404,
+    "_id": "8df79b03-55f3-493f-b7e6-5b0f6be085b2"
   },
   {
     "verse_number": 38,
@@ -4868,8 +5273,9 @@
     "chapter_number": 10,
     "verse_order": 405,
     "_type": "verse",
-    "_id": "405",
-    "title": "Verse 405"
+    "title": "Verse 405",
+    "externalId": 405,
+    "_id": "950f87e7-7d14-4ae9-a07c-467a83f49080"
   },
   {
     "verse_number": 39,
@@ -4880,8 +5286,9 @@
     "chapter_number": 10,
     "verse_order": 406,
     "_type": "verse",
-    "_id": "406",
-    "title": "Verse 406"
+    "title": "Verse 406",
+    "externalId": 406,
+    "_id": "11a5b450-e513-4245-84ce-478891c97164"
   },
   {
     "verse_number": 40,
@@ -4892,8 +5299,9 @@
     "chapter_number": 10,
     "verse_order": 407,
     "_type": "verse",
-    "_id": "407",
-    "title": "Verse 407"
+    "title": "Verse 407",
+    "externalId": 407,
+    "_id": "dd7fe26d-09ae-4c01-8f1a-9a2361dfec55"
   },
   {
     "verse_number": 41,
@@ -4904,8 +5312,9 @@
     "chapter_number": 10,
     "verse_order": 408,
     "_type": "verse",
-    "_id": "408",
-    "title": "Verse 408"
+    "title": "Verse 408",
+    "externalId": 408,
+    "_id": "9ad97453-e54c-465b-ad57-f098799a4bba"
   },
   {
     "verse_number": 42,
@@ -4916,8 +5325,9 @@
     "chapter_number": 10,
     "verse_order": 409,
     "_type": "verse",
-    "_id": "409",
-    "title": "Verse 409"
+    "title": "Verse 409",
+    "externalId": 409,
+    "_id": "962cae31-2cea-4ea3-9707-9652f5db166e"
   },
   {
     "verse_number": 1,
@@ -4928,8 +5338,9 @@
     "chapter_number": 11,
     "verse_order": 410,
     "_type": "verse",
-    "_id": "410",
-    "title": "Verse 410"
+    "title": "Verse 410",
+    "externalId": 410,
+    "_id": "cf70115e-e211-47dc-9b34-bfd7d4cd1964"
   },
   {
     "verse_number": 2,
@@ -4940,8 +5351,9 @@
     "chapter_number": 11,
     "verse_order": 411,
     "_type": "verse",
-    "_id": "411",
-    "title": "Verse 411"
+    "title": "Verse 411",
+    "externalId": 411,
+    "_id": "d805ce0a-a27b-4645-b1d3-57c7da47d8c0"
   },
   {
     "verse_number": 4,
@@ -4952,8 +5364,9 @@
     "chapter_number": 11,
     "verse_order": 413,
     "_type": "verse",
-    "_id": "413",
-    "title": "Verse 413"
+    "title": "Verse 413",
+    "externalId": 413,
+    "_id": "accf4d69-bb6d-4347-91ea-b9b3f585f440"
   },
   {
     "verse_number": 5,
@@ -4964,8 +5377,9 @@
     "chapter_number": 11,
     "verse_order": 414,
     "_type": "verse",
-    "_id": "414",
-    "title": "Verse 414"
+    "title": "Verse 414",
+    "externalId": 414,
+    "_id": "75d48371-f848-4035-8fab-e413a97e4538"
   },
   {
     "verse_number": 6,
@@ -4976,8 +5390,9 @@
     "chapter_number": 11,
     "verse_order": 415,
     "_type": "verse",
-    "_id": "415",
-    "title": "Verse 415"
+    "title": "Verse 415",
+    "externalId": 415,
+    "_id": "e390b1e1-69c2-47a7-8f08-c2f4f0bb019d"
   },
   {
     "verse_number": 7,
@@ -4988,8 +5403,9 @@
     "chapter_number": 11,
     "verse_order": 416,
     "_type": "verse",
-    "_id": "416",
-    "title": "Verse 416"
+    "title": "Verse 416",
+    "externalId": 416,
+    "_id": "40ebc110-bce6-4ddc-a934-f5341e52912f"
   },
   {
     "verse_number": 8,
@@ -5000,8 +5416,9 @@
     "chapter_number": 11,
     "verse_order": 417,
     "_type": "verse",
-    "_id": "417",
-    "title": "Verse 417"
+    "title": "Verse 417",
+    "externalId": 417,
+    "_id": "b00c0c41-62a6-4488-8b7a-5358c35a5339"
   },
   {
     "verse_number": 9,
@@ -5012,8 +5429,9 @@
     "chapter_number": 11,
     "verse_order": 418,
     "_type": "verse",
-    "_id": "418",
-    "title": "Verse 418"
+    "title": "Verse 418",
+    "externalId": 418,
+    "_id": "48a9e619-c526-4158-8149-8abfc8f2ca06"
   },
   {
     "verse_number": 10,
@@ -5024,8 +5442,9 @@
     "chapter_number": 11,
     "verse_order": 419,
     "_type": "verse",
-    "_id": "419",
-    "title": "Verse 419"
+    "title": "Verse 419",
+    "externalId": 419,
+    "_id": "e62d7aef-d6c0-4c32-9409-87128a1812a4"
   },
   {
     "verse_number": 11,
@@ -5036,8 +5455,9 @@
     "chapter_number": 11,
     "verse_order": 420,
     "_type": "verse",
-    "_id": "420",
-    "title": "Verse 420"
+    "title": "Verse 420",
+    "externalId": 420,
+    "_id": "d984aaf9-00fe-4275-8521-eddad0e07533"
   },
   {
     "verse_number": 12,
@@ -5048,8 +5468,9 @@
     "chapter_number": 11,
     "verse_order": 421,
     "_type": "verse",
-    "_id": "421",
-    "title": "Verse 421"
+    "title": "Verse 421",
+    "externalId": 421,
+    "_id": "737e0f3b-a47f-40b9-becb-6e897a9ec5e3"
   },
   {
     "verse_number": 13,
@@ -5060,8 +5481,9 @@
     "chapter_number": 11,
     "verse_order": 422,
     "_type": "verse",
-    "_id": "422",
-    "title": "Verse 422"
+    "title": "Verse 422",
+    "externalId": 422,
+    "_id": "86259da8-f134-4f35-8b68-fec83a4502ac"
   },
   {
     "verse_number": 14,
@@ -5072,8 +5494,9 @@
     "chapter_number": 11,
     "verse_order": 423,
     "_type": "verse",
-    "_id": "423",
-    "title": "Verse 423"
+    "title": "Verse 423",
+    "externalId": 423,
+    "_id": "51ce215d-7a98-4a21-89a0-52165180cbe8"
   },
   {
     "verse_number": 15,
@@ -5084,8 +5507,9 @@
     "chapter_number": 11,
     "verse_order": 424,
     "_type": "verse",
-    "_id": "424",
-    "title": "Verse 424"
+    "title": "Verse 424",
+    "externalId": 424,
+    "_id": "68c1061a-a7c5-46e4-894c-ab2a5e4eac73"
   },
   {
     "verse_number": 16,
@@ -5096,8 +5520,9 @@
     "chapter_number": 11,
     "verse_order": 425,
     "_type": "verse",
-    "_id": "425",
-    "title": "Verse 425"
+    "title": "Verse 425",
+    "externalId": 425,
+    "_id": "170c56fc-e24c-449a-b634-205690224177"
   },
   {
     "verse_number": 17,
@@ -5108,8 +5533,9 @@
     "chapter_number": 11,
     "verse_order": 426,
     "_type": "verse",
-    "_id": "426",
-    "title": "Verse 426"
+    "title": "Verse 426",
+    "externalId": 426,
+    "_id": "bca82366-ecc8-48e6-8353-a5af0e8731ab"
   },
   {
     "verse_number": 18,
@@ -5120,8 +5546,9 @@
     "chapter_number": 11,
     "verse_order": 427,
     "_type": "verse",
-    "_id": "427",
-    "title": "Verse 427"
+    "title": "Verse 427",
+    "externalId": 427,
+    "_id": "4af6282c-a64c-431e-8117-13983e5e4cd3"
   },
   {
     "verse_number": 19,
@@ -5132,8 +5559,9 @@
     "chapter_number": 11,
     "verse_order": 428,
     "_type": "verse",
-    "_id": "428",
-    "title": "Verse 428"
+    "title": "Verse 428",
+    "externalId": 428,
+    "_id": "7a29ed65-1d83-43a7-8b64-134fcd4829b1"
   },
   {
     "verse_number": 5,
@@ -5144,8 +5572,9 @@
     "chapter_number": 12,
     "verse_order": 467,
     "_type": "verse",
-    "_id": "467",
-    "title": "Verse 467"
+    "title": "Verse 467",
+    "externalId": 467,
+    "_id": "b8247af7-8d11-4f81-add5-e68c4e2fead0"
   },
   {
     "verse_number": 20,
@@ -5156,8 +5585,9 @@
     "chapter_number": 11,
     "verse_order": 429,
     "_type": "verse",
-    "_id": "429",
-    "title": "Verse 429"
+    "title": "Verse 429",
+    "externalId": 429,
+    "_id": "5ba3dbee-7e20-4c43-9976-82501fdd6d41"
   },
   {
     "verse_number": 21,
@@ -5168,8 +5598,9 @@
     "chapter_number": 11,
     "verse_order": 430,
     "_type": "verse",
-    "_id": "430",
-    "title": "Verse 430"
+    "title": "Verse 430",
+    "externalId": 430,
+    "_id": "5f39dd66-79e2-49e7-8442-5e9e93bb55f8"
   },
   {
     "verse_number": 22,
@@ -5180,8 +5611,9 @@
     "chapter_number": 11,
     "verse_order": 431,
     "_type": "verse",
-    "_id": "431",
-    "title": "Verse 431"
+    "title": "Verse 431",
+    "externalId": 431,
+    "_id": "435d145e-45cb-4dbb-bdd0-3cba63edcdb6"
   },
   {
     "verse_number": 23,
@@ -5192,8 +5624,9 @@
     "chapter_number": 11,
     "verse_order": 432,
     "_type": "verse",
-    "_id": "432",
-    "title": "Verse 432"
+    "title": "Verse 432",
+    "externalId": 432,
+    "_id": "e2886eb3-1d1b-456a-aa97-3df106e65212"
   },
   {
     "verse_number": 24,
@@ -5204,8 +5637,9 @@
     "chapter_number": 11,
     "verse_order": 433,
     "_type": "verse",
-    "_id": "433",
-    "title": "Verse 433"
+    "title": "Verse 433",
+    "externalId": 433,
+    "_id": "07dff89f-7eaa-4c60-a573-c5aa01b4ed23"
   },
   {
     "verse_number": 25,
@@ -5216,8 +5650,9 @@
     "chapter_number": 11,
     "verse_order": 434,
     "_type": "verse",
-    "_id": "434",
-    "title": "Verse 434"
+    "title": "Verse 434",
+    "externalId": 434,
+    "_id": "7adb8064-5b25-4a62-abd4-56cd9bd1fe01"
   },
   {
     "verse_number": 26,
@@ -5228,8 +5663,9 @@
     "chapter_number": 11,
     "verse_order": 435,
     "_type": "verse",
-    "_id": "435",
-    "title": "Verse 435"
+    "title": "Verse 435",
+    "externalId": 435,
+    "_id": "0baaf69c-939e-4867-ac3e-f3f8ae640ce9"
   },
   {
     "verse_number": 28,
@@ -5240,8 +5676,9 @@
     "chapter_number": 11,
     "verse_order": 436,
     "_type": "verse",
-    "_id": "436",
-    "title": "Verse 436"
+    "title": "Verse 436",
+    "externalId": 436,
+    "_id": "2f5c5377-d009-4bc3-a0ce-5ea485d02e88"
   },
   {
     "verse_number": 29,
@@ -5252,8 +5689,9 @@
     "chapter_number": 11,
     "verse_order": 437,
     "_type": "verse",
-    "_id": "437",
-    "title": "Verse 437"
+    "title": "Verse 437",
+    "externalId": 437,
+    "_id": "8eefc12f-f771-4142-a581-1fdf580a749a"
   },
   {
     "verse_number": 30,
@@ -5264,8 +5702,9 @@
     "chapter_number": 11,
     "verse_order": 438,
     "_type": "verse",
-    "_id": "438",
-    "title": "Verse 438"
+    "title": "Verse 438",
+    "externalId": 438,
+    "_id": "5250a232-ef20-483b-aec9-98869c71b2a3"
   },
   {
     "verse_number": 31,
@@ -5276,8 +5715,9 @@
     "chapter_number": 11,
     "verse_order": 439,
     "_type": "verse",
-    "_id": "439",
-    "title": "Verse 439"
+    "title": "Verse 439",
+    "externalId": 439,
+    "_id": "bcdaa96d-a08e-408d-9f8d-f7cd9123cb79"
   },
   {
     "verse_number": 32,
@@ -5288,8 +5728,9 @@
     "chapter_number": 11,
     "verse_order": 440,
     "_type": "verse",
-    "_id": "440",
-    "title": "Verse 440"
+    "title": "Verse 440",
+    "externalId": 440,
+    "_id": "34f97557-5540-42b2-87e0-18d9c3f7fe5f"
   },
   {
     "verse_number": 33,
@@ -5300,8 +5741,9 @@
     "chapter_number": 11,
     "verse_order": 441,
     "_type": "verse",
-    "_id": "441",
-    "title": "Verse 441"
+    "title": "Verse 441",
+    "externalId": 441,
+    "_id": "64261111-1743-4e63-a4d2-002e26c89d7b"
   },
   {
     "verse_number": 34,
@@ -5312,8 +5754,9 @@
     "chapter_number": 11,
     "verse_order": 442,
     "_type": "verse",
-    "_id": "442",
-    "title": "Verse 442"
+    "title": "Verse 442",
+    "externalId": 442,
+    "_id": "adb81c91-3aee-4ea0-a75d-eff0f31b0bac"
   },
   {
     "verse_number": 35,
@@ -5324,8 +5767,9 @@
     "chapter_number": 11,
     "verse_order": 443,
     "_type": "verse",
-    "_id": "443",
-    "title": "Verse 443"
+    "title": "Verse 443",
+    "externalId": 443,
+    "_id": "610ad4f3-face-4b1b-9084-37a3e59d097a"
   },
   {
     "verse_number": 36,
@@ -5336,8 +5780,9 @@
     "chapter_number": 11,
     "verse_order": 444,
     "_type": "verse",
-    "_id": "444",
-    "title": "Verse 444"
+    "title": "Verse 444",
+    "externalId": 444,
+    "_id": "d2cdd87a-c152-4387-8a7a-e676ab6d00a0"
   },
   {
     "verse_number": 37,
@@ -5348,8 +5793,9 @@
     "chapter_number": 11,
     "verse_order": 445,
     "_type": "verse",
-    "_id": "445",
-    "title": "Verse 445"
+    "title": "Verse 445",
+    "externalId": 445,
+    "_id": "b69602a4-7fe0-4ce4-82a4-dc3acee79510"
   },
   {
     "verse_number": 38,
@@ -5360,8 +5806,9 @@
     "chapter_number": 11,
     "verse_order": 446,
     "_type": "verse",
-    "_id": "446",
-    "title": "Verse 446"
+    "title": "Verse 446",
+    "externalId": 446,
+    "_id": "a77ecbaa-7a0a-4ef3-b542-506cf81c6710"
   },
   {
     "verse_number": 30,
@@ -5372,8 +5819,9 @@
     "chapter_number": 13,
     "verse_order": 512,
     "_type": "verse",
-    "_id": "512",
-    "title": "Verse 512"
+    "title": "Verse 512",
+    "externalId": 512,
+    "_id": "95657fd0-6069-4f1f-9140-b5ee0aa1a28c"
   },
   {
     "verse_number": 39,
@@ -5384,8 +5832,9 @@
     "chapter_number": 11,
     "verse_order": 447,
     "_type": "verse",
-    "_id": "447",
-    "title": "Verse 447"
+    "title": "Verse 447",
+    "externalId": 447,
+    "_id": "e40dbd87-73b4-4a81-8143-a87026e30717"
   },
   {
     "verse_number": 40,
@@ -5396,8 +5845,9 @@
     "chapter_number": 11,
     "verse_order": 448,
     "_type": "verse",
-    "_id": "448",
-    "title": "Verse 448"
+    "title": "Verse 448",
+    "externalId": 448,
+    "_id": "de29cc68-b2c6-4890-8c97-87bb3d684142"
   },
   {
     "verse_number": 41,
@@ -5408,8 +5858,9 @@
     "chapter_number": 11,
     "verse_order": 449,
     "_type": "verse",
-    "_id": "449",
-    "title": "Verse 449"
+    "title": "Verse 449",
+    "externalId": 449,
+    "_id": "ab92490e-cd81-4ab6-a072-7aaaf25fc47a"
   },
   {
     "verse_number": 42,
@@ -5420,8 +5871,9 @@
     "chapter_number": 11,
     "verse_order": 450,
     "_type": "verse",
-    "_id": "450",
-    "title": "Verse 450"
+    "title": "Verse 450",
+    "externalId": 450,
+    "_id": "e8d36c75-d108-473e-96a5-7758e74ed64e"
   },
   {
     "verse_number": 43,
@@ -5432,8 +5884,9 @@
     "chapter_number": 11,
     "verse_order": 451,
     "_type": "verse",
-    "_id": "451",
-    "title": "Verse 451"
+    "title": "Verse 451",
+    "externalId": 451,
+    "_id": "84eb1509-4e1b-4ebd-8b6a-a3cf5552a21c"
   },
   {
     "verse_number": 44,
@@ -5444,8 +5897,9 @@
     "chapter_number": 11,
     "verse_order": 452,
     "_type": "verse",
-    "_id": "452",
-    "title": "Verse 452"
+    "title": "Verse 452",
+    "externalId": 452,
+    "_id": "8e1cacd4-b776-41cd-81db-f264d336f1ec"
   },
   {
     "verse_number": 6,
@@ -5456,8 +5910,9 @@
     "chapter_number": 12,
     "verse_order": 468,
     "_type": "verse",
-    "_id": "468",
-    "title": "Verse 468"
+    "title": "Verse 468",
+    "externalId": 468,
+    "_id": "9b84f0b3-eb96-48eb-bace-7ceb76aad4ea"
   },
   {
     "verse_number": 45,
@@ -5468,8 +5923,9 @@
     "chapter_number": 11,
     "verse_order": 453,
     "_type": "verse",
-    "_id": "453",
-    "title": "Verse 453"
+    "title": "Verse 453",
+    "externalId": 453,
+    "_id": "6cbcf598-17e8-4539-bfcf-88cff824a7db"
   },
   {
     "verse_number": 46,
@@ -5480,8 +5936,9 @@
     "chapter_number": 11,
     "verse_order": 454,
     "_type": "verse",
-    "_id": "454",
-    "title": "Verse 454"
+    "title": "Verse 454",
+    "externalId": 454,
+    "_id": "2e1b91e5-bcb4-486c-a57e-829136f0130d"
   },
   {
     "verse_number": 47,
@@ -5492,8 +5949,9 @@
     "chapter_number": 11,
     "verse_order": 455,
     "_type": "verse",
-    "_id": "455",
-    "title": "Verse 455"
+    "title": "Verse 455",
+    "externalId": 455,
+    "_id": "e8f19b99-701c-436e-bb62-1137e689c325"
   },
   {
     "verse_number": 48,
@@ -5504,8 +5962,9 @@
     "chapter_number": 11,
     "verse_order": 456,
     "_type": "verse",
-    "_id": "456",
-    "title": "Verse 456"
+    "title": "Verse 456",
+    "externalId": 456,
+    "_id": "a855cd37-e32b-4450-a4c4-123beb5af136"
   },
   {
     "verse_number": 49,
@@ -5516,8 +5975,9 @@
     "chapter_number": 11,
     "verse_order": 457,
     "_type": "verse",
-    "_id": "457",
-    "title": "Verse 457"
+    "title": "Verse 457",
+    "externalId": 457,
+    "_id": "e42131f0-5a9f-4923-ae66-8afbe83ce2bb"
   },
   {
     "verse_number": 50,
@@ -5528,8 +5988,9 @@
     "chapter_number": 11,
     "verse_order": 458,
     "_type": "verse",
-    "_id": "458",
-    "title": "Verse 458"
+    "title": "Verse 458",
+    "externalId": 458,
+    "_id": "63f87190-5457-4068-b21e-a343d75f9ca5"
   },
   {
     "verse_number": 51,
@@ -5540,8 +6001,9 @@
     "chapter_number": 11,
     "verse_order": 459,
     "_type": "verse",
-    "_id": "459",
-    "title": "Verse 459"
+    "title": "Verse 459",
+    "externalId": 459,
+    "_id": "129d279d-1579-4f27-8ec3-f4776e18a1c9"
   },
   {
     "verse_number": 52,
@@ -5552,8 +6014,9 @@
     "chapter_number": 11,
     "verse_order": 460,
     "_type": "verse",
-    "_id": "460",
-    "title": "Verse 460"
+    "title": "Verse 460",
+    "externalId": 460,
+    "_id": "a2573df0-6cf0-4ca6-b080-91896135ad20"
   },
   {
     "verse_number": 53,
@@ -5564,8 +6027,9 @@
     "chapter_number": 11,
     "verse_order": 461,
     "_type": "verse",
-    "_id": "461",
-    "title": "Verse 461"
+    "title": "Verse 461",
+    "externalId": 461,
+    "_id": "7dbe58df-118a-4352-9f84-51d0a4c81613"
   },
   {
     "verse_number": 54,
@@ -5576,8 +6040,9 @@
     "chapter_number": 11,
     "verse_order": 462,
     "_type": "verse",
-    "_id": "462",
-    "title": "Verse 462"
+    "title": "Verse 462",
+    "externalId": 462,
+    "_id": "ebfc9100-e24a-481d-a767-748781d37e8f"
   },
   {
     "verse_number": 55,
@@ -5588,8 +6053,9 @@
     "chapter_number": 11,
     "verse_order": 463,
     "_type": "verse",
-    "_id": "463",
-    "title": "Verse 463"
+    "title": "Verse 463",
+    "externalId": 463,
+    "_id": "38cb4d73-9c7d-4b16-be11-1e426675592c"
   },
   {
     "verse_number": 1,
@@ -5600,8 +6066,9 @@
     "chapter_number": 12,
     "verse_order": 464,
     "_type": "verse",
-    "_id": "464",
-    "title": "Verse 464"
+    "title": "Verse 464",
+    "externalId": 464,
+    "_id": "4941d51e-ad9a-44c5-ac7e-f3a741187504"
   },
   {
     "verse_number": 2,
@@ -5612,8 +6079,9 @@
     "chapter_number": 12,
     "verse_order": 465,
     "_type": "verse",
-    "_id": "465",
-    "title": "Verse 465"
+    "title": "Verse 465",
+    "externalId": 465,
+    "_id": "ac7ddc1e-eef7-44f1-9190-27374a922852"
   },
   {
     "verse_number": 3,
@@ -5624,8 +6092,9 @@
     "chapter_number": 12,
     "verse_order": 466,
     "_type": "verse",
-    "_id": "466",
-    "title": "Verse 466"
+    "title": "Verse 466",
+    "externalId": 466,
+    "_id": "f074cc61-d5b3-4b8c-98d6-2a133e6004ec"
   },
   {
     "verse_number": 7,
@@ -5636,8 +6105,9 @@
     "chapter_number": 12,
     "verse_order": 469,
     "_type": "verse",
-    "_id": "469",
-    "title": "Verse 469"
+    "title": "Verse 469",
+    "externalId": 469,
+    "_id": "15293a2a-60b3-429b-9872-790c29634d8a"
   },
   {
     "verse_number": 8,
@@ -5648,8 +6118,9 @@
     "chapter_number": 12,
     "verse_order": 470,
     "_type": "verse",
-    "_id": "470",
-    "title": "Verse 470"
+    "title": "Verse 470",
+    "externalId": 470,
+    "_id": "2be425c7-b2bb-4011-bec2-1de94da547e4"
   },
   {
     "verse_number": 9,
@@ -5660,8 +6131,9 @@
     "chapter_number": 12,
     "verse_order": 471,
     "_type": "verse",
-    "_id": "471",
-    "title": "Verse 471"
+    "title": "Verse 471",
+    "externalId": 471,
+    "_id": "1c26a7fc-b6d7-4e18-af39-28cf18e496c8"
   },
   {
     "verse_number": 10,
@@ -5672,8 +6144,9 @@
     "chapter_number": 12,
     "verse_order": 472,
     "_type": "verse",
-    "_id": "472",
-    "title": "Verse 472"
+    "title": "Verse 472",
+    "externalId": 472,
+    "_id": "375544dd-40eb-4e98-aec0-9f2f4fc6e9ff"
   },
   {
     "verse_number": 11,
@@ -5684,8 +6157,9 @@
     "chapter_number": 12,
     "verse_order": 473,
     "_type": "verse",
-    "_id": "473",
-    "title": "Verse 473"
+    "title": "Verse 473",
+    "externalId": 473,
+    "_id": "426b345e-17c7-42dc-8ef8-b790c2b977fc"
   },
   {
     "verse_number": 12,
@@ -5696,8 +6170,9 @@
     "chapter_number": 12,
     "verse_order": 474,
     "_type": "verse",
-    "_id": "474",
-    "title": "Verse 474"
+    "title": "Verse 474",
+    "externalId": 474,
+    "_id": "ff3f8f65-4f81-41a8-b9ba-44d340c3547f"
   },
   {
     "verse_number": 13,
@@ -5708,8 +6183,9 @@
     "chapter_number": 12,
     "verse_order": 475,
     "_type": "verse",
-    "_id": "475",
-    "title": "Verse 475"
+    "title": "Verse 475",
+    "externalId": 475,
+    "_id": "1f41a38b-cd69-43d1-88ff-f04a32d10b92"
   },
   {
     "verse_number": 14,
@@ -5720,8 +6196,9 @@
     "chapter_number": 12,
     "verse_order": 476,
     "_type": "verse",
-    "_id": "476",
-    "title": "Verse 476"
+    "title": "Verse 476",
+    "externalId": 476,
+    "_id": "6f221bb3-6aac-47af-8848-a51fa3ff736a"
   },
   {
     "verse_number": 15,
@@ -5732,8 +6209,9 @@
     "chapter_number": 12,
     "verse_order": 477,
     "_type": "verse",
-    "_id": "477",
-    "title": "Verse 477"
+    "title": "Verse 477",
+    "externalId": 477,
+    "_id": "6c4edca5-3fdd-4d61-b36d-ec9b0b47f9df"
   },
   {
     "verse_number": 16,
@@ -5744,8 +6222,9 @@
     "chapter_number": 12,
     "verse_order": 478,
     "_type": "verse",
-    "_id": "478",
-    "title": "Verse 478"
+    "title": "Verse 478",
+    "externalId": 478,
+    "_id": "40ce9e83-3cdf-47bf-b995-0a6e30f1641f"
   },
   {
     "verse_number": 17,
@@ -5756,8 +6235,9 @@
     "chapter_number": 12,
     "verse_order": 479,
     "_type": "verse",
-    "_id": "479",
-    "title": "Verse 479"
+    "title": "Verse 479",
+    "externalId": 479,
+    "_id": "1df46632-7cd6-4667-92ae-a404dc1c02b3"
   },
   {
     "verse_number": 18,
@@ -5768,8 +6248,9 @@
     "chapter_number": 12,
     "verse_order": 480,
     "_type": "verse",
-    "_id": "480",
-    "title": "Verse 480"
+    "title": "Verse 480",
+    "externalId": 480,
+    "_id": "9709e71c-303f-46ca-8f6d-08c3b495f954"
   },
   {
     "verse_number": 19,
@@ -5780,8 +6261,9 @@
     "chapter_number": 12,
     "verse_order": 481,
     "_type": "verse",
-    "_id": "481",
-    "title": "Verse 481"
+    "title": "Verse 481",
+    "externalId": 481,
+    "_id": "baaee438-1bc9-4f79-9cd4-bf02f97e7ab2"
   },
   {
     "verse_number": 20,
@@ -5792,8 +6274,9 @@
     "chapter_number": 12,
     "verse_order": 482,
     "_type": "verse",
-    "_id": "482",
-    "title": "Verse 482"
+    "title": "Verse 482",
+    "externalId": 482,
+    "_id": "1414e3da-c63e-45ec-ad96-7244bfb952a8"
   },
   {
     "verse_number": 1,
@@ -5804,8 +6287,9 @@
     "chapter_number": 13,
     "verse_order": 483,
     "_type": "verse",
-    "_id": "483",
-    "title": "Verse 483"
+    "title": "Verse 483",
+    "externalId": 483,
+    "_id": "403f2133-c2fb-4488-a4c5-f3696f19ddf5"
   },
   {
     "verse_number": 2,
@@ -5816,8 +6300,9 @@
     "chapter_number": 13,
     "verse_order": 484,
     "_type": "verse",
-    "_id": "484",
-    "title": "Verse 484"
+    "title": "Verse 484",
+    "externalId": 484,
+    "_id": "e805258d-7f93-473b-8853-2ee136c947b7"
   },
   {
     "verse_number": 3,
@@ -5828,8 +6313,9 @@
     "chapter_number": 13,
     "verse_order": 485,
     "_type": "verse",
-    "_id": "485",
-    "title": "Verse 485"
+    "title": "Verse 485",
+    "externalId": 485,
+    "_id": "e74fb2bf-9901-40e0-b689-35feae778dfb"
   },
   {
     "verse_number": 4,
@@ -5840,8 +6326,9 @@
     "chapter_number": 13,
     "verse_order": 486,
     "_type": "verse",
-    "_id": "486",
-    "title": "Verse 486"
+    "title": "Verse 486",
+    "externalId": 486,
+    "_id": "15378fd2-b5ca-49a2-a527-b36846807013"
   },
   {
     "verse_number": 5,
@@ -5852,8 +6339,9 @@
     "chapter_number": 13,
     "verse_order": 487,
     "_type": "verse",
-    "_id": "487",
-    "title": "Verse 487"
+    "title": "Verse 487",
+    "externalId": 487,
+    "_id": "9be15a93-628d-4371-b09e-eb044bceedc4"
   },
   {
     "verse_number": 6,
@@ -5864,8 +6352,9 @@
     "chapter_number": 13,
     "verse_order": 488,
     "_type": "verse",
-    "_id": "488",
-    "title": "Verse 488"
+    "title": "Verse 488",
+    "externalId": 488,
+    "_id": "7cf1c4c9-2cef-4adc-a27c-eb861577e6e9"
   },
   {
     "verse_number": 7,
@@ -5876,8 +6365,9 @@
     "chapter_number": 13,
     "verse_order": 489,
     "_type": "verse",
-    "_id": "489",
-    "title": "Verse 489"
+    "title": "Verse 489",
+    "externalId": 489,
+    "_id": "3cc3fe7e-e0cc-4f04-b620-8bc490ed1d05"
   },
   {
     "verse_number": 8,
@@ -5888,8 +6378,9 @@
     "chapter_number": 13,
     "verse_order": 490,
     "_type": "verse",
-    "_id": "490",
-    "title": "Verse 490"
+    "title": "Verse 490",
+    "externalId": 490,
+    "_id": "c298a63a-cef4-48e6-b81e-2daedf8baf96"
   },
   {
     "verse_number": 9,
@@ -5900,8 +6391,9 @@
     "chapter_number": 13,
     "verse_order": 491,
     "_type": "verse",
-    "_id": "491",
-    "title": "Verse 491"
+    "title": "Verse 491",
+    "externalId": 491,
+    "_id": "bc9caf32-6b12-4778-b759-6bec453c9384"
   },
   {
     "verse_number": 10,
@@ -5912,8 +6404,9 @@
     "chapter_number": 13,
     "verse_order": 492,
     "_type": "verse",
-    "_id": "492",
-    "title": "Verse 492"
+    "title": "Verse 492",
+    "externalId": 492,
+    "_id": "960e0644-08ce-4b1a-95f4-ed2429d3a81f"
   },
   {
     "verse_number": 11,
@@ -5924,8 +6417,9 @@
     "chapter_number": 13,
     "verse_order": 493,
     "_type": "verse",
-    "_id": "493",
-    "title": "Verse 493"
+    "title": "Verse 493",
+    "externalId": 493,
+    "_id": "997459c0-f44c-4feb-acaf-8c5f33f55f11"
   },
   {
     "verse_number": 12,
@@ -5936,8 +6430,9 @@
     "chapter_number": 13,
     "verse_order": 494,
     "_type": "verse",
-    "_id": "494",
-    "title": "Verse 494"
+    "title": "Verse 494",
+    "externalId": 494,
+    "_id": "a5e7f4aa-e5ee-4276-864f-44cda390a93b"
   },
   {
     "verse_number": 13,
@@ -5948,8 +6443,9 @@
     "chapter_number": 13,
     "verse_order": 495,
     "_type": "verse",
-    "_id": "495",
-    "title": "Verse 495"
+    "title": "Verse 495",
+    "externalId": 495,
+    "_id": "bfb03781-62ee-4439-8fdd-e812f149441a"
   },
   {
     "verse_number": 14,
@@ -5960,8 +6456,9 @@
     "chapter_number": 13,
     "verse_order": 496,
     "_type": "verse",
-    "_id": "496",
-    "title": "Verse 496"
+    "title": "Verse 496",
+    "externalId": 496,
+    "_id": "8b53bae6-eed3-44d6-be56-50708dcf01d5"
   },
   {
     "verse_number": 15,
@@ -5972,8 +6469,9 @@
     "chapter_number": 13,
     "verse_order": 497,
     "_type": "verse",
-    "_id": "497",
-    "title": "Verse 497"
+    "title": "Verse 497",
+    "externalId": 497,
+    "_id": "ace8201c-ffd4-4964-bcba-a201189468e6"
   },
   {
     "verse_number": 16,
@@ -5984,8 +6482,9 @@
     "chapter_number": 13,
     "verse_order": 498,
     "_type": "verse",
-    "_id": "498",
-    "title": "Verse 498"
+    "title": "Verse 498",
+    "externalId": 498,
+    "_id": "2e897a1b-a4ca-4fb0-86e5-ada7789d00f5"
   },
   {
     "verse_number": 17,
@@ -5996,8 +6495,9 @@
     "chapter_number": 13,
     "verse_order": 499,
     "_type": "verse",
-    "_id": "499",
-    "title": "Verse 499"
+    "title": "Verse 499",
+    "externalId": 499,
+    "_id": "78cfee11-6731-4190-8b43-306f38c82666"
   },
   {
     "verse_number": 18,
@@ -6008,8 +6508,9 @@
     "chapter_number": 13,
     "verse_order": 500,
     "_type": "verse",
-    "_id": "500",
-    "title": "Verse 500"
+    "title": "Verse 500",
+    "externalId": 500,
+    "_id": "c85a07c2-4cba-4ad5-89f4-0703823420b0"
   },
   {
     "verse_number": 19,
@@ -6020,8 +6521,9 @@
     "chapter_number": 13,
     "verse_order": 501,
     "_type": "verse",
-    "_id": "501",
-    "title": "Verse 501"
+    "title": "Verse 501",
+    "externalId": 501,
+    "_id": "85e9faca-c3de-4c72-a4b0-b9578465abf5"
   },
   {
     "verse_number": 20,
@@ -6032,8 +6534,9 @@
     "chapter_number": 13,
     "verse_order": 502,
     "_type": "verse",
-    "_id": "502",
-    "title": "Verse 502"
+    "title": "Verse 502",
+    "externalId": 502,
+    "_id": "d348bd40-97c7-4b8d-b941-fdf9deef2f83"
   },
   {
     "verse_number": 21,
@@ -6044,8 +6547,9 @@
     "chapter_number": 13,
     "verse_order": 503,
     "_type": "verse",
-    "_id": "503",
-    "title": "Verse 503"
+    "title": "Verse 503",
+    "externalId": 503,
+    "_id": "066d1620-4a85-4678-a5ec-a01222087712"
   },
   {
     "verse_number": 22,
@@ -6056,8 +6560,9 @@
     "chapter_number": 13,
     "verse_order": 504,
     "_type": "verse",
-    "_id": "504",
-    "title": "Verse 504"
+    "title": "Verse 504",
+    "externalId": 504,
+    "_id": "c69f81b3-3fb1-4a3e-bd17-7d89c9cb775a"
   },
   {
     "verse_number": 23,
@@ -6068,8 +6573,9 @@
     "chapter_number": 13,
     "verse_order": 505,
     "_type": "verse",
-    "_id": "505",
-    "title": "Verse 505"
+    "title": "Verse 505",
+    "externalId": 505,
+    "_id": "549ea710-a358-475f-8371-ea87413f5e0b"
   },
   {
     "verse_number": 24,
@@ -6080,8 +6586,9 @@
     "chapter_number": 13,
     "verse_order": 506,
     "_type": "verse",
-    "_id": "506",
-    "title": "Verse 506"
+    "title": "Verse 506",
+    "externalId": 506,
+    "_id": "aa099eb2-ecf5-4c3e-a1ff-f995fceed486"
   },
   {
     "verse_number": 25,
@@ -6092,8 +6599,9 @@
     "chapter_number": 13,
     "verse_order": 507,
     "_type": "verse",
-    "_id": "507",
-    "title": "Verse 507"
+    "title": "Verse 507",
+    "externalId": 507,
+    "_id": "5c5cae0c-c901-49a1-8d83-42aa9531293c"
   },
   {
     "verse_number": 26,
@@ -6104,8 +6612,9 @@
     "chapter_number": 13,
     "verse_order": 508,
     "_type": "verse",
-    "_id": "508",
-    "title": "Verse 508"
+    "title": "Verse 508",
+    "externalId": 508,
+    "_id": "cf5e1c4d-b218-4f3b-94e8-025225d8a625"
   },
   {
     "verse_number": 27,
@@ -6116,8 +6625,9 @@
     "chapter_number": 13,
     "verse_order": 509,
     "_type": "verse",
-    "_id": "509",
-    "title": "Verse 509"
+    "title": "Verse 509",
+    "externalId": 509,
+    "_id": "9145f9dc-4af0-45d4-92f6-518093563b36"
   },
   {
     "verse_number": 28,
@@ -6128,8 +6638,9 @@
     "chapter_number": 13,
     "verse_order": 510,
     "_type": "verse",
-    "_id": "510",
-    "title": "Verse 510"
+    "title": "Verse 510",
+    "externalId": 510,
+    "_id": "c42eb847-a5e6-4a38-98cd-9f38a3e25547"
   },
   {
     "verse_number": 29,
@@ -6140,8 +6651,9 @@
     "chapter_number": 13,
     "verse_order": 511,
     "_type": "verse",
-    "_id": "511",
-    "title": "Verse 511"
+    "title": "Verse 511",
+    "externalId": 511,
+    "_id": "91c27e4f-4e0d-4274-ab6c-f424ed8b4092"
   },
   {
     "verse_number": 31,
@@ -6152,8 +6664,9 @@
     "chapter_number": 13,
     "verse_order": 513,
     "_type": "verse",
-    "_id": "513",
-    "title": "Verse 513"
+    "title": "Verse 513",
+    "externalId": 513,
+    "_id": "7e4baefa-89a4-442f-8c45-665c992ae95a"
   },
   {
     "verse_number": 32,
@@ -6164,8 +6677,9 @@
     "chapter_number": 13,
     "verse_order": 514,
     "_type": "verse",
-    "_id": "514",
-    "title": "Verse 514"
+    "title": "Verse 514",
+    "externalId": 514,
+    "_id": "5f264491-ae1b-4302-86ea-76a3403ade5e"
   },
   {
     "verse_number": 33,
@@ -6176,8 +6690,9 @@
     "chapter_number": 13,
     "verse_order": 515,
     "_type": "verse",
-    "_id": "515",
-    "title": "Verse 515"
+    "title": "Verse 515",
+    "externalId": 515,
+    "_id": "14053e33-4b39-4d2b-a6e5-688764c3a19f"
   },
   {
     "verse_number": 34,
@@ -6188,8 +6703,9 @@
     "chapter_number": 13,
     "verse_order": 516,
     "_type": "verse",
-    "_id": "516",
-    "title": "Verse 516"
+    "title": "Verse 516",
+    "externalId": 516,
+    "_id": "6578080d-9ce6-4fda-97f7-91234c37f3fe"
   },
   {
     "verse_number": 35,
@@ -6200,8 +6716,9 @@
     "chapter_number": 13,
     "verse_order": 517,
     "_type": "verse",
-    "_id": "517",
-    "title": "Verse 517"
+    "title": "Verse 517",
+    "externalId": 517,
+    "_id": "5a01bc04-0176-4daf-9022-12d710811f83"
   },
   {
     "verse_number": 1,
@@ -6212,8 +6729,9 @@
     "chapter_number": 14,
     "verse_order": 518,
     "_type": "verse",
-    "_id": "518",
-    "title": "Verse 518"
+    "title": "Verse 518",
+    "externalId": 518,
+    "_id": "ddb6424b-dbad-4779-a370-a4843adf71b3"
   },
   {
     "verse_number": 2,
@@ -6224,8 +6742,9 @@
     "chapter_number": 14,
     "verse_order": 519,
     "_type": "verse",
-    "_id": "519",
-    "title": "Verse 519"
+    "title": "Verse 519",
+    "externalId": 519,
+    "_id": "dc051173-2f3a-4596-9334-77dbc8f0744f"
   },
   {
     "verse_number": 3,
@@ -6236,8 +6755,9 @@
     "chapter_number": 14,
     "verse_order": 520,
     "_type": "verse",
-    "_id": "520",
-    "title": "Verse 520"
+    "title": "Verse 520",
+    "externalId": 520,
+    "_id": "6832a57d-db13-424d-84ad-844f03dc896d"
   },
   {
     "verse_number": 4,
@@ -6248,8 +6768,9 @@
     "chapter_number": 14,
     "verse_order": 521,
     "_type": "verse",
-    "_id": "521",
-    "title": "Verse 521"
+    "title": "Verse 521",
+    "externalId": 521,
+    "_id": "9755dbca-eb2c-41da-97e4-a21b0683ab8c"
   },
   {
     "verse_number": 5,
@@ -6260,8 +6781,9 @@
     "chapter_number": 14,
     "verse_order": 522,
     "_type": "verse",
-    "_id": "522",
-    "title": "Verse 522"
+    "title": "Verse 522",
+    "externalId": 522,
+    "_id": "f16838f1-533e-4135-a280-6082945a1be8"
   },
   {
     "verse_number": 6,
@@ -6272,8 +6794,9 @@
     "chapter_number": 14,
     "verse_order": 523,
     "_type": "verse",
-    "_id": "523",
-    "title": "Verse 523"
+    "title": "Verse 523",
+    "externalId": 523,
+    "_id": "d61af129-14d3-4172-a16c-195c963e1d0d"
   },
   {
     "verse_number": 7,
@@ -6284,8 +6807,9 @@
     "chapter_number": 14,
     "verse_order": 524,
     "_type": "verse",
-    "_id": "524",
-    "title": "Verse 524"
+    "title": "Verse 524",
+    "externalId": 524,
+    "_id": "869f1254-3b29-4a2a-ac7a-5dacbffb568c"
   },
   {
     "verse_number": 8,
@@ -6296,8 +6820,9 @@
     "chapter_number": 14,
     "verse_order": 525,
     "_type": "verse",
-    "_id": "525",
-    "title": "Verse 525"
+    "title": "Verse 525",
+    "externalId": 525,
+    "_id": "bfbdb2ba-ebd2-4572-abfa-32ea6a2b0772"
   },
   {
     "verse_number": 9,
@@ -6308,8 +6833,9 @@
     "chapter_number": 14,
     "verse_order": 526,
     "_type": "verse",
-    "_id": "526",
-    "title": "Verse 526"
+    "title": "Verse 526",
+    "externalId": 526,
+    "_id": "878a5d82-67c6-4c64-97ce-641ad89a8d5f"
   },
   {
     "verse_number": 10,
@@ -6320,8 +6846,9 @@
     "chapter_number": 14,
     "verse_order": 527,
     "_type": "verse",
-    "_id": "527",
-    "title": "Verse 527"
+    "title": "Verse 527",
+    "externalId": 527,
+    "_id": "726f4dea-0c69-40d0-bca7-942beb23533c"
   },
   {
     "verse_number": 11,
@@ -6332,8 +6859,9 @@
     "chapter_number": 14,
     "verse_order": 528,
     "_type": "verse",
-    "_id": "528",
-    "title": "Verse 528"
+    "title": "Verse 528",
+    "externalId": 528,
+    "_id": "01eb13f2-c125-4cb7-9d97-2b28f4f6bcdb"
   },
   {
     "verse_number": 12,
@@ -6344,8 +6872,9 @@
     "chapter_number": 14,
     "verse_order": 529,
     "_type": "verse",
-    "_id": "529",
-    "title": "Verse 529"
+    "title": "Verse 529",
+    "externalId": 529,
+    "_id": "d2b7d8e8-acfe-4a94-8dfb-e1382de41493"
   },
   {
     "verse_number": 13,
@@ -6356,8 +6885,9 @@
     "chapter_number": 14,
     "verse_order": 530,
     "_type": "verse",
-    "_id": "530",
-    "title": "Verse 530"
+    "title": "Verse 530",
+    "externalId": 530,
+    "_id": "c4e09825-676a-49d0-a3cd-1f7a84c7356b"
   },
   {
     "verse_number": 14,
@@ -6368,8 +6898,9 @@
     "chapter_number": 14,
     "verse_order": 531,
     "_type": "verse",
-    "_id": "531",
-    "title": "Verse 531"
+    "title": "Verse 531",
+    "externalId": 531,
+    "_id": "52d2dd33-5067-4d99-a1b6-a77f602257f3"
   },
   {
     "verse_number": 15,
@@ -6380,8 +6911,9 @@
     "chapter_number": 14,
     "verse_order": 532,
     "_type": "verse",
-    "_id": "532",
-    "title": "Verse 532"
+    "title": "Verse 532",
+    "externalId": 532,
+    "_id": "7da021bb-819d-4118-b038-602655eaafaf"
   },
   {
     "verse_number": 16,
@@ -6392,8 +6924,9 @@
     "chapter_number": 14,
     "verse_order": 533,
     "_type": "verse",
-    "_id": "533",
-    "title": "Verse 533"
+    "title": "Verse 533",
+    "externalId": 533,
+    "_id": "e23c83d7-5c3c-4891-bf73-ca17eeb8e761"
   },
   {
     "verse_number": 17,
@@ -6404,8 +6937,9 @@
     "chapter_number": 14,
     "verse_order": 534,
     "_type": "verse",
-    "_id": "534",
-    "title": "Verse 534"
+    "title": "Verse 534",
+    "externalId": 534,
+    "_id": "d7e1b90a-28bc-4351-944a-07175f1fcba0"
   },
   {
     "verse_number": 18,
@@ -6416,8 +6950,9 @@
     "chapter_number": 14,
     "verse_order": 535,
     "_type": "verse",
-    "_id": "535",
-    "title": "Verse 535"
+    "title": "Verse 535",
+    "externalId": 535,
+    "_id": "a77fdc8a-5c51-4394-b62e-aba081197562"
   },
   {
     "verse_number": 19,
@@ -6428,8 +6963,9 @@
     "chapter_number": 14,
     "verse_order": 536,
     "_type": "verse",
-    "_id": "536",
-    "title": "Verse 536"
+    "title": "Verse 536",
+    "externalId": 536,
+    "_id": "8913c218-f90f-4cd6-bdff-6658d7801395"
   },
   {
     "verse_number": 20,
@@ -6440,8 +6976,9 @@
     "chapter_number": 14,
     "verse_order": 537,
     "_type": "verse",
-    "_id": "537",
-    "title": "Verse 537"
+    "title": "Verse 537",
+    "externalId": 537,
+    "_id": "ec756b25-9723-4aa0-81d5-262da2238780"
   },
   {
     "verse_number": 21,
@@ -6452,8 +6989,9 @@
     "chapter_number": 14,
     "verse_order": 538,
     "_type": "verse",
-    "_id": "538",
-    "title": "Verse 538"
+    "title": "Verse 538",
+    "externalId": 538,
+    "_id": "f5fd6c0d-0272-4d37-a422-f0497e6b0716"
   },
   {
     "verse_number": 19,
@@ -6464,8 +7002,9 @@
     "chapter_number": 15,
     "verse_order": 563,
     "_type": "verse",
-    "_id": "563",
-    "title": "Verse 563"
+    "title": "Verse 563",
+    "externalId": 563,
+    "_id": "0628ac9c-9bf4-4495-9556-8ae977797e93"
   },
   {
     "verse_number": 22,
@@ -6476,8 +7015,9 @@
     "chapter_number": 14,
     "verse_order": 539,
     "_type": "verse",
-    "_id": "539",
-    "title": "Verse 539"
+    "title": "Verse 539",
+    "externalId": 539,
+    "_id": "7152b4e1-6bbd-4b47-8243-e7da18aa0ab6"
   },
   {
     "verse_number": 23,
@@ -6488,8 +7028,9 @@
     "chapter_number": 14,
     "verse_order": 540,
     "_type": "verse",
-    "_id": "540",
-    "title": "Verse 540"
+    "title": "Verse 540",
+    "externalId": 540,
+    "_id": "0fa1c9b3-ddb7-40c8-8728-aec67dbe78e2"
   },
   {
     "verse_number": 24,
@@ -6500,8 +7041,9 @@
     "chapter_number": 14,
     "verse_order": 541,
     "_type": "verse",
-    "_id": "541",
-    "title": "Verse 541"
+    "title": "Verse 541",
+    "externalId": 541,
+    "_id": "bc948406-e631-4c87-a668-b55c7b4f30e5"
   },
   {
     "verse_number": 25,
@@ -6512,8 +7054,9 @@
     "chapter_number": 14,
     "verse_order": 542,
     "_type": "verse",
-    "_id": "542",
-    "title": "Verse 542"
+    "title": "Verse 542",
+    "externalId": 542,
+    "_id": "7e5cce72-cedc-4cf0-a013-0190d16e0b83"
   },
   {
     "verse_number": 26,
@@ -6524,8 +7067,9 @@
     "chapter_number": 14,
     "verse_order": 543,
     "_type": "verse",
-    "_id": "543",
-    "title": "Verse 543"
+    "title": "Verse 543",
+    "externalId": 543,
+    "_id": "25d820af-818d-41d0-af0b-810675126a61"
   },
   {
     "verse_number": 27,
@@ -6536,8 +7080,9 @@
     "chapter_number": 14,
     "verse_order": 544,
     "_type": "verse",
-    "_id": "544",
-    "title": "Verse 544"
+    "title": "Verse 544",
+    "externalId": 544,
+    "_id": "7f9812bf-383c-42a9-8ee6-3c2aff20c154"
   },
   {
     "verse_number": 1,
@@ -6548,8 +7093,9 @@
     "chapter_number": 15,
     "verse_order": 545,
     "_type": "verse",
-    "_id": "545",
-    "title": "Verse 545"
+    "title": "Verse 545",
+    "externalId": 545,
+    "_id": "4c75ed19-9c35-4e8e-9944-b2f42642ad18"
   },
   {
     "verse_number": 2,
@@ -6560,8 +7106,9 @@
     "chapter_number": 15,
     "verse_order": 546,
     "_type": "verse",
-    "_id": "546",
-    "title": "Verse 546"
+    "title": "Verse 546",
+    "externalId": 546,
+    "_id": "c42f01ca-99d5-499d-9045-fba02470df9b"
   },
   {
     "verse_number": 3,
@@ -6572,8 +7119,9 @@
     "chapter_number": 15,
     "verse_order": 547,
     "_type": "verse",
-    "_id": "547",
-    "title": "Verse 547"
+    "title": "Verse 547",
+    "externalId": 547,
+    "_id": "3fae4c5d-8bd1-496c-9cfe-2ce3437db424"
   },
   {
     "verse_number": 4,
@@ -6584,8 +7132,9 @@
     "chapter_number": 15,
     "verse_order": 548,
     "_type": "verse",
-    "_id": "548",
-    "title": "Verse 548"
+    "title": "Verse 548",
+    "externalId": 548,
+    "_id": "11792ef0-4265-435d-b51b-1cc0d5303838"
   },
   {
     "verse_number": 5,
@@ -6596,8 +7145,9 @@
     "chapter_number": 15,
     "verse_order": 549,
     "_type": "verse",
-    "_id": "549",
-    "title": "Verse 549"
+    "title": "Verse 549",
+    "externalId": 549,
+    "_id": "74c58f0d-0221-4625-a0d8-76fb989eb8f2"
   },
   {
     "verse_number": 6,
@@ -6608,8 +7158,9 @@
     "chapter_number": 15,
     "verse_order": 550,
     "_type": "verse",
-    "_id": "550",
-    "title": "Verse 550"
+    "title": "Verse 550",
+    "externalId": 550,
+    "_id": "ffae86f0-65be-4448-9dfa-8012e3c2d462"
   },
   {
     "verse_number": 7,
@@ -6620,8 +7171,9 @@
     "chapter_number": 15,
     "verse_order": 551,
     "_type": "verse",
-    "_id": "551",
-    "title": "Verse 551"
+    "title": "Verse 551",
+    "externalId": 551,
+    "_id": "f8e4c475-cad0-4af4-a6b7-e4d971fc9fa4"
   },
   {
     "verse_number": 8,
@@ -6632,8 +7184,9 @@
     "chapter_number": 15,
     "verse_order": 552,
     "_type": "verse",
-    "_id": "552",
-    "title": "Verse 552"
+    "title": "Verse 552",
+    "externalId": 552,
+    "_id": "be4f464b-cec2-4ef9-9fe3-2b42dc1cae72"
   },
   {
     "verse_number": 9,
@@ -6644,8 +7197,9 @@
     "chapter_number": 15,
     "verse_order": 553,
     "_type": "verse",
-    "_id": "553",
-    "title": "Verse 553"
+    "title": "Verse 553",
+    "externalId": 553,
+    "_id": "e471e336-68b3-4d58-a724-80ce4320f43f"
   },
   {
     "verse_number": 10,
@@ -6656,8 +7210,9 @@
     "chapter_number": 15,
     "verse_order": 554,
     "_type": "verse",
-    "_id": "554",
-    "title": "Verse 554"
+    "title": "Verse 554",
+    "externalId": 554,
+    "_id": "ec707549-b69c-4fd7-8629-798df9e7dbfd"
   },
   {
     "verse_number": 11,
@@ -6668,8 +7223,9 @@
     "chapter_number": 15,
     "verse_order": 555,
     "_type": "verse",
-    "_id": "555",
-    "title": "Verse 555"
+    "title": "Verse 555",
+    "externalId": 555,
+    "_id": "16aabc0a-9944-4764-a57b-faf631f895f4"
   },
   {
     "verse_number": 12,
@@ -6680,8 +7236,9 @@
     "chapter_number": 15,
     "verse_order": 556,
     "_type": "verse",
-    "_id": "556",
-    "title": "Verse 556"
+    "title": "Verse 556",
+    "externalId": 556,
+    "_id": "0733a2fb-e6e5-404e-9dd7-b14c3123fe1a"
   },
   {
     "verse_number": 13,
@@ -6692,8 +7249,9 @@
     "chapter_number": 15,
     "verse_order": 557,
     "_type": "verse",
-    "_id": "557",
-    "title": "Verse 557"
+    "title": "Verse 557",
+    "externalId": 557,
+    "_id": "6da6edf9-b0b2-4434-8716-052f05e4e008"
   },
   {
     "verse_number": 14,
@@ -6704,8 +7262,9 @@
     "chapter_number": 15,
     "verse_order": 558,
     "_type": "verse",
-    "_id": "558",
-    "title": "Verse 558"
+    "title": "Verse 558",
+    "externalId": 558,
+    "_id": "22516c79-23d4-43ce-b01e-dd0d72e94fe4"
   },
   {
     "verse_number": 15,
@@ -6716,8 +7275,9 @@
     "chapter_number": 15,
     "verse_order": 559,
     "_type": "verse",
-    "_id": "559",
-    "title": "Verse 559"
+    "title": "Verse 559",
+    "externalId": 559,
+    "_id": "6ee3980b-0e75-4255-a228-caa21c917170"
   },
   {
     "verse_number": 16,
@@ -6728,8 +7288,9 @@
     "chapter_number": 15,
     "verse_order": 560,
     "_type": "verse",
-    "_id": "560",
-    "title": "Verse 560"
+    "title": "Verse 560",
+    "externalId": 560,
+    "_id": "894f230d-888c-4521-8920-2140b3e48bd0"
   },
   {
     "verse_number": 17,
@@ -6740,8 +7301,9 @@
     "chapter_number": 15,
     "verse_order": 561,
     "_type": "verse",
-    "_id": "561",
-    "title": "Verse 561"
+    "title": "Verse 561",
+    "externalId": 561,
+    "_id": "75a65288-bd8c-429a-9a70-3db980d67af3"
   },
   {
     "verse_number": 18,
@@ -6752,8 +7314,9 @@
     "chapter_number": 15,
     "verse_order": 562,
     "_type": "verse",
-    "_id": "562",
-    "title": "Verse 562"
+    "title": "Verse 562",
+    "externalId": 562,
+    "_id": "baf76518-9e0e-48a5-a7ec-b201a90b6126"
   },
   {
     "verse_number": 20,
@@ -6764,8 +7327,9 @@
     "chapter_number": 15,
     "verse_order": 564,
     "_type": "verse",
-    "_id": "564",
-    "title": "Verse 564"
+    "title": "Verse 564",
+    "externalId": 564,
+    "_id": "da228f53-0f84-4177-95b8-62cd2143995d"
   },
   {
     "verse_number": 1,
@@ -6776,8 +7340,9 @@
     "chapter_number": 16,
     "verse_order": 565,
     "_type": "verse",
-    "_id": "565",
-    "title": "Verse 565"
+    "title": "Verse 565",
+    "externalId": 565,
+    "_id": "04c2ab18-83d3-499c-9207-cc37b877e935"
   },
   {
     "verse_number": 2,
@@ -6788,8 +7353,9 @@
     "chapter_number": 16,
     "verse_order": 566,
     "_type": "verse",
-    "_id": "566",
-    "title": "Verse 566"
+    "title": "Verse 566",
+    "externalId": 566,
+    "_id": "d6a8853e-e501-4ee6-bfff-22ff6a60cd28"
   },
   {
     "verse_number": 3,
@@ -6800,8 +7366,9 @@
     "chapter_number": 16,
     "verse_order": 567,
     "_type": "verse",
-    "_id": "567",
-    "title": "Verse 567"
+    "title": "Verse 567",
+    "externalId": 567,
+    "_id": "f55274e0-bb88-401f-9db1-4de7b6a22e2c"
   },
   {
     "verse_number": 4,
@@ -6812,8 +7379,9 @@
     "chapter_number": 16,
     "verse_order": 568,
     "_type": "verse",
-    "_id": "568",
-    "title": "Verse 568"
+    "title": "Verse 568",
+    "externalId": 568,
+    "_id": "c6d87e4b-85a4-475b-a28d-0d483a02844f"
   },
   {
     "verse_number": 5,
@@ -6824,8 +7392,9 @@
     "chapter_number": 16,
     "verse_order": 569,
     "_type": "verse",
-    "_id": "569",
-    "title": "Verse 569"
+    "title": "Verse 569",
+    "externalId": 569,
+    "_id": "b676c09d-b250-4065-961c-bd2281fce6c1"
   },
   {
     "verse_number": 6,
@@ -6836,8 +7405,9 @@
     "chapter_number": 16,
     "verse_order": 570,
     "_type": "verse",
-    "_id": "570",
-    "title": "Verse 570"
+    "title": "Verse 570",
+    "externalId": 570,
+    "_id": "d74d5365-7d13-496b-a817-fa1c881b8464"
   },
   {
     "verse_number": 7,
@@ -6848,8 +7418,9 @@
     "chapter_number": 16,
     "verse_order": 571,
     "_type": "verse",
-    "_id": "571",
-    "title": "Verse 571"
+    "title": "Verse 571",
+    "externalId": 571,
+    "_id": "c0d1e8db-bdbf-47cb-b0f6-8c68803d394b"
   },
   {
     "verse_number": 8,
@@ -6860,8 +7431,9 @@
     "chapter_number": 16,
     "verse_order": 572,
     "_type": "verse",
-    "_id": "572",
-    "title": "Verse 572"
+    "title": "Verse 572",
+    "externalId": 572,
+    "_id": "35315671-2ce6-4503-be91-7d869e99a2f4"
   },
   {
     "verse_number": 9,
@@ -6872,8 +7444,9 @@
     "chapter_number": 16,
     "verse_order": 573,
     "_type": "verse",
-    "_id": "573",
-    "title": "Verse 573"
+    "title": "Verse 573",
+    "externalId": 573,
+    "_id": "b14e84be-1042-4d16-80f7-80585c772659"
   },
   {
     "verse_number": 10,
@@ -6884,8 +7457,9 @@
     "chapter_number": 16,
     "verse_order": 574,
     "_type": "verse",
-    "_id": "574",
-    "title": "Verse 574"
+    "title": "Verse 574",
+    "externalId": 574,
+    "_id": "bffc9634-4cc1-4656-8d79-b7c7b866ae0e"
   },
   {
     "verse_number": 11,
@@ -6896,8 +7470,9 @@
     "chapter_number": 16,
     "verse_order": 575,
     "_type": "verse",
-    "_id": "575",
-    "title": "Verse 575"
+    "title": "Verse 575",
+    "externalId": 575,
+    "_id": "e7e488d9-d21c-473f-85fc-18323d579fba"
   },
   {
     "verse_number": 12,
@@ -6908,8 +7483,9 @@
     "chapter_number": 16,
     "verse_order": 576,
     "_type": "verse",
-    "_id": "576",
-    "title": "Verse 576"
+    "title": "Verse 576",
+    "externalId": 576,
+    "_id": "1b276110-7317-4a67-8140-38d758cf7056"
   },
   {
     "verse_number": 13,
@@ -6920,8 +7496,9 @@
     "chapter_number": 16,
     "verse_order": 577,
     "_type": "verse",
-    "_id": "577",
-    "title": "Verse 577"
+    "title": "Verse 577",
+    "externalId": 577,
+    "_id": "2a1e0964-889d-46b3-aed4-95265e98a331"
   },
   {
     "verse_number": 14,
@@ -6932,8 +7509,9 @@
     "chapter_number": 16,
     "verse_order": 578,
     "_type": "verse",
-    "_id": "578",
-    "title": "Verse 578"
+    "title": "Verse 578",
+    "externalId": 578,
+    "_id": "b87341ab-a271-4f1e-adcf-889049e42118"
   },
   {
     "verse_number": 15,
@@ -6944,8 +7522,9 @@
     "chapter_number": 16,
     "verse_order": 579,
     "_type": "verse",
-    "_id": "579",
-    "title": "Verse 579"
+    "title": "Verse 579",
+    "externalId": 579,
+    "_id": "7072a436-d518-4091-a212-508fff0086e9"
   },
   {
     "verse_number": 17,
@@ -6956,8 +7535,9 @@
     "chapter_number": 16,
     "verse_order": 580,
     "_type": "verse",
-    "_id": "580",
-    "title": "Verse 580"
+    "title": "Verse 580",
+    "externalId": 580,
+    "_id": "0728e48e-1523-4018-a526-836132f7cdbe"
   },
   {
     "verse_number": 18,
@@ -6968,8 +7548,9 @@
     "chapter_number": 16,
     "verse_order": 581,
     "_type": "verse",
-    "_id": "581",
-    "title": "Verse 581"
+    "title": "Verse 581",
+    "externalId": 581,
+    "_id": "084c8ea0-6e2a-4762-b7f4-7ebc4594f195"
   },
   {
     "verse_number": 19,
@@ -6980,8 +7561,9 @@
     "chapter_number": 16,
     "verse_order": 582,
     "_type": "verse",
-    "_id": "582",
-    "title": "Verse 582"
+    "title": "Verse 582",
+    "externalId": 582,
+    "_id": "70d59539-cbe0-4efe-a763-567c7b5898a9"
   },
   {
     "verse_number": 20,
@@ -6992,8 +7574,9 @@
     "chapter_number": 16,
     "verse_order": 583,
     "_type": "verse",
-    "_id": "583",
-    "title": "Verse 583"
+    "title": "Verse 583",
+    "externalId": 583,
+    "_id": "e30387d1-b665-4a52-b3b9-c6e7da92a224"
   },
   {
     "verse_number": 21,
@@ -7004,8 +7587,9 @@
     "chapter_number": 16,
     "verse_order": 584,
     "_type": "verse",
-    "_id": "584",
-    "title": "Verse 584"
+    "title": "Verse 584",
+    "externalId": 584,
+    "_id": "21f48bc0-c9f2-438e-89a9-f23cb991d420"
   },
   {
     "verse_number": 22,
@@ -7016,8 +7600,9 @@
     "chapter_number": 16,
     "verse_order": 585,
     "_type": "verse",
-    "_id": "585",
-    "title": "Verse 585"
+    "title": "Verse 585",
+    "externalId": 585,
+    "_id": "97b915b1-2fbe-4142-9798-8516d9779ecc"
   },
   {
     "verse_number": 23,
@@ -7028,8 +7613,9 @@
     "chapter_number": 16,
     "verse_order": 586,
     "_type": "verse",
-    "_id": "586",
-    "title": "Verse 586"
+    "title": "Verse 586",
+    "externalId": 586,
+    "_id": "e9a8d0ad-235d-400f-916c-ebfc92ae90b7"
   },
   {
     "verse_number": 24,
@@ -7040,8 +7626,9 @@
     "chapter_number": 16,
     "verse_order": 587,
     "_type": "verse",
-    "_id": "587",
-    "title": "Verse 587"
+    "title": "Verse 587",
+    "externalId": 587,
+    "_id": "42649bb5-58c4-407c-acd3-d6dd2a8a4ad5"
   },
   {
     "verse_number": 9,
@@ -7052,8 +7639,9 @@
     "chapter_number": 17,
     "verse_order": 596,
     "_type": "verse",
-    "_id": "596",
-    "title": "Verse 596"
+    "title": "Verse 596",
+    "externalId": 596,
+    "_id": "5f46fe2b-1e86-4b36-bf15-02a76cb5c8c0"
   },
   {
     "verse_number": 1,
@@ -7064,8 +7652,9 @@
     "chapter_number": 17,
     "verse_order": 588,
     "_type": "verse",
-    "_id": "588",
-    "title": "Verse 588"
+    "title": "Verse 588",
+    "externalId": 588,
+    "_id": "2f4f66c2-ceb1-4984-bc32-b59f720c0748"
   },
   {
     "verse_number": 2,
@@ -7076,8 +7665,9 @@
     "chapter_number": 17,
     "verse_order": 589,
     "_type": "verse",
-    "_id": "589",
-    "title": "Verse 589"
+    "title": "Verse 589",
+    "externalId": 589,
+    "_id": "81b7b6fd-5e28-41ae-be9a-a77cf197ea59"
   },
   {
     "verse_number": 3,
@@ -7088,8 +7678,9 @@
     "chapter_number": 17,
     "verse_order": 590,
     "_type": "verse",
-    "_id": "590",
-    "title": "Verse 590"
+    "title": "Verse 590",
+    "externalId": 590,
+    "_id": "2bd88d67-abbc-4481-a6eb-127610c26e7b"
   },
   {
     "verse_number": 4,
@@ -7100,8 +7691,9 @@
     "chapter_number": 17,
     "verse_order": 591,
     "_type": "verse",
-    "_id": "591",
-    "title": "Verse 591"
+    "title": "Verse 591",
+    "externalId": 591,
+    "_id": "8e47efa5-e3c6-4374-bfc6-6e928aa6e12a"
   },
   {
     "verse_number": 5,
@@ -7112,8 +7704,9 @@
     "chapter_number": 17,
     "verse_order": 592,
     "_type": "verse",
-    "_id": "592",
-    "title": "Verse 592"
+    "title": "Verse 592",
+    "externalId": 592,
+    "_id": "e78a842e-2ee4-4911-99ba-e18943850337"
   },
   {
     "verse_number": 6,
@@ -7124,8 +7717,9 @@
     "chapter_number": 17,
     "verse_order": 593,
     "_type": "verse",
-    "_id": "593",
-    "title": "Verse 593"
+    "title": "Verse 593",
+    "externalId": 593,
+    "_id": "353bba4b-45dc-4054-b062-7c9608653503"
   },
   {
     "verse_number": 7,
@@ -7136,8 +7730,9 @@
     "chapter_number": 17,
     "verse_order": 594,
     "_type": "verse",
-    "_id": "594",
-    "title": "Verse 594"
+    "title": "Verse 594",
+    "externalId": 594,
+    "_id": "4bdbf848-59f3-4c84-99d7-0a3a51475c0b"
   },
   {
     "verse_number": 8,
@@ -7148,8 +7743,9 @@
     "chapter_number": 17,
     "verse_order": 595,
     "_type": "verse",
-    "_id": "595",
-    "title": "Verse 595"
+    "title": "Verse 595",
+    "externalId": 595,
+    "_id": "f39e4f42-583c-4f78-bf56-d05ba4ec4109"
   },
   {
     "verse_number": 10,
@@ -7160,8 +7756,9 @@
     "chapter_number": 17,
     "verse_order": 597,
     "_type": "verse",
-    "_id": "597",
-    "title": "Verse 597"
+    "title": "Verse 597",
+    "externalId": 597,
+    "_id": "74b32975-e6e8-45d7-a85a-a4009ea98c81"
   },
   {
     "verse_number": 11,
@@ -7172,8 +7769,9 @@
     "chapter_number": 17,
     "verse_order": 598,
     "_type": "verse",
-    "_id": "598",
-    "title": "Verse 598"
+    "title": "Verse 598",
+    "externalId": 598,
+    "_id": "09fea731-2403-4c94-b23a-68eb30f18b8d"
   },
   {
     "verse_number": 12,
@@ -7184,8 +7782,9 @@
     "chapter_number": 17,
     "verse_order": 599,
     "_type": "verse",
-    "_id": "599",
-    "title": "Verse 599"
+    "title": "Verse 599",
+    "externalId": 599,
+    "_id": "6998a32c-e005-45ef-8b56-75b1b1028dbc"
   },
   {
     "verse_number": 13,
@@ -7196,8 +7795,9 @@
     "chapter_number": 17,
     "verse_order": 600,
     "_type": "verse",
-    "_id": "600",
-    "title": "Verse 600"
+    "title": "Verse 600",
+    "externalId": 600,
+    "_id": "3c37f1c8-e19c-43cf-a430-d10eaed73bb0"
   },
   {
     "verse_number": 14,
@@ -7208,8 +7808,9 @@
     "chapter_number": 17,
     "verse_order": 601,
     "_type": "verse",
-    "_id": "601",
-    "title": "Verse 601"
+    "title": "Verse 601",
+    "externalId": 601,
+    "_id": "f661e681-6e07-4772-94fb-8a268a591a4e"
   },
   {
     "verse_number": 15,
@@ -7220,8 +7821,9 @@
     "chapter_number": 17,
     "verse_order": 602,
     "_type": "verse",
-    "_id": "602",
-    "title": "Verse 602"
+    "title": "Verse 602",
+    "externalId": 602,
+    "_id": "b59ea95d-c9d0-4785-bb00-5b3704097442"
   },
   {
     "verse_number": 16,
@@ -7232,8 +7834,9 @@
     "chapter_number": 17,
     "verse_order": 603,
     "_type": "verse",
-    "_id": "603",
-    "title": "Verse 603"
+    "title": "Verse 603",
+    "externalId": 603,
+    "_id": "7fbc615f-a90b-4b11-a235-e368e1241cd8"
   },
   {
     "verse_number": 17,
@@ -7244,8 +7847,9 @@
     "chapter_number": 17,
     "verse_order": 604,
     "_type": "verse",
-    "_id": "604",
-    "title": "Verse 604"
+    "title": "Verse 604",
+    "externalId": 604,
+    "_id": "a8c8fe65-19a2-4ad8-827e-37a8770926f1"
   },
   {
     "verse_number": 18,
@@ -7256,8 +7860,9 @@
     "chapter_number": 17,
     "verse_order": 605,
     "_type": "verse",
-    "_id": "605",
-    "title": "Verse 605"
+    "title": "Verse 605",
+    "externalId": 605,
+    "_id": "dd4debba-ed1d-448f-ba5a-9545dc915cdc"
   },
   {
     "verse_number": 19,
@@ -7268,8 +7873,9 @@
     "chapter_number": 17,
     "verse_order": 606,
     "_type": "verse",
-    "_id": "606",
-    "title": "Verse 606"
+    "title": "Verse 606",
+    "externalId": 606,
+    "_id": "8437a111-aa9c-4dd5-8df7-b960ede6a73a"
   },
   {
     "verse_number": 20,
@@ -7280,8 +7886,9 @@
     "chapter_number": 17,
     "verse_order": 607,
     "_type": "verse",
-    "_id": "607",
-    "title": "Verse 607"
+    "title": "Verse 607",
+    "externalId": 607,
+    "_id": "732f814f-6546-4a7f-8521-08baa4553037"
   },
   {
     "verse_number": 21,
@@ -7292,8 +7899,9 @@
     "chapter_number": 17,
     "verse_order": 608,
     "_type": "verse",
-    "_id": "608",
-    "title": "Verse 608"
+    "title": "Verse 608",
+    "externalId": 608,
+    "_id": "36d9f72e-d44e-4a24-aadc-725f9986964e"
   },
   {
     "verse_number": 22,
@@ -7304,8 +7912,9 @@
     "chapter_number": 17,
     "verse_order": 609,
     "_type": "verse",
-    "_id": "609",
-    "title": "Verse 609"
+    "title": "Verse 609",
+    "externalId": 609,
+    "_id": "73440695-176a-452f-b921-120a7ada8fbc"
   },
   {
     "verse_number": 23,
@@ -7316,8 +7925,9 @@
     "chapter_number": 17,
     "verse_order": 610,
     "_type": "verse",
-    "_id": "610",
-    "title": "Verse 610"
+    "title": "Verse 610",
+    "externalId": 610,
+    "_id": "eb06e8fb-044e-4837-a910-4ec7fb0bff3b"
   },
   {
     "verse_number": 24,
@@ -7328,8 +7938,9 @@
     "chapter_number": 17,
     "verse_order": 611,
     "_type": "verse",
-    "_id": "611",
-    "title": "Verse 611"
+    "title": "Verse 611",
+    "externalId": 611,
+    "_id": "39e9a809-4f71-47ad-a2f0-6875670566ed"
   },
   {
     "verse_number": 25,
@@ -7340,8 +7951,9 @@
     "chapter_number": 17,
     "verse_order": 612,
     "_type": "verse",
-    "_id": "612",
-    "title": "Verse 612"
+    "title": "Verse 612",
+    "externalId": 612,
+    "_id": "604d0d1a-f52e-4731-90e6-560c9f243756"
   },
   {
     "verse_number": 26,
@@ -7352,8 +7964,9 @@
     "chapter_number": 17,
     "verse_order": 613,
     "_type": "verse",
-    "_id": "613",
-    "title": "Verse 613"
+    "title": "Verse 613",
+    "externalId": 613,
+    "_id": "aea9f1a5-4aef-477b-b03a-97f02d10253d"
   },
   {
     "verse_number": 27,
@@ -7364,8 +7977,9 @@
     "chapter_number": 17,
     "verse_order": 614,
     "_type": "verse",
-    "_id": "614",
-    "title": "Verse 614"
+    "title": "Verse 614",
+    "externalId": 614,
+    "_id": "9833036c-49c7-4593-a927-5d7f996a34c5"
   },
   {
     "verse_number": 28,
@@ -7376,8 +7990,9 @@
     "chapter_number": 17,
     "verse_order": 615,
     "_type": "verse",
-    "_id": "615",
-    "title": "Verse 615"
+    "title": "Verse 615",
+    "externalId": 615,
+    "_id": "d9e99d56-6a55-400b-8984-6b258eedd3b2"
   },
   {
     "verse_number": 1,
@@ -7388,8 +8003,9 @@
     "chapter_number": 18,
     "verse_order": 616,
     "_type": "verse",
-    "_id": "616",
-    "title": "Verse 616"
+    "title": "Verse 616",
+    "externalId": 616,
+    "_id": "c6de75e5-a795-40f0-be26-5dc7cc0f314f"
   },
   {
     "verse_number": 2,
@@ -7400,8 +8016,9 @@
     "chapter_number": 18,
     "verse_order": 617,
     "_type": "verse",
-    "_id": "617",
-    "title": "Verse 617"
+    "title": "Verse 617",
+    "externalId": 617,
+    "_id": "d50148db-66d4-4731-b842-822a98c02349"
   },
   {
     "verse_number": 3,
@@ -7412,8 +8029,9 @@
     "chapter_number": 18,
     "verse_order": 618,
     "_type": "verse",
-    "_id": "618",
-    "title": "Verse 618"
+    "title": "Verse 618",
+    "externalId": 618,
+    "_id": "33a364b3-d3ec-4371-bfa9-f81d5952070f"
   },
   {
     "verse_number": 4,
@@ -7424,8 +8042,9 @@
     "chapter_number": 18,
     "verse_order": 619,
     "_type": "verse",
-    "_id": "619",
-    "title": "Verse 619"
+    "title": "Verse 619",
+    "externalId": 619,
+    "_id": "9f35c4b7-6449-4650-9447-479eef70f102"
   },
   {
     "verse_number": 5,
@@ -7436,8 +8055,9 @@
     "chapter_number": 18,
     "verse_order": 620,
     "_type": "verse",
-    "_id": "620",
-    "title": "Verse 620"
+    "title": "Verse 620",
+    "externalId": 620,
+    "_id": "a25204d2-cba6-4d3a-a1cd-980da62b7df5"
   },
   {
     "verse_number": 6,
@@ -7448,8 +8068,9 @@
     "chapter_number": 18,
     "verse_order": 621,
     "_type": "verse",
-    "_id": "621",
-    "title": "Verse 621"
+    "title": "Verse 621",
+    "externalId": 621,
+    "_id": "6372ea8b-5db4-43cb-b912-888d97e661ac"
   },
   {
     "verse_number": 7,
@@ -7460,8 +8081,9 @@
     "chapter_number": 18,
     "verse_order": 622,
     "_type": "verse",
-    "_id": "622",
-    "title": "Verse 622"
+    "title": "Verse 622",
+    "externalId": 622,
+    "_id": "ba44ddc6-2e15-4a63-87e7-450fda411066"
   },
   {
     "verse_number": 8,
@@ -7472,8 +8094,9 @@
     "chapter_number": 18,
     "verse_order": 623,
     "_type": "verse",
-    "_id": "623",
-    "title": "Verse 623"
+    "title": "Verse 623",
+    "externalId": 623,
+    "_id": "e457f67e-5b32-41a3-a142-b390e091009f"
   },
   {
     "verse_number": 9,
@@ -7484,8 +8107,9 @@
     "chapter_number": 18,
     "verse_order": 624,
     "_type": "verse",
-    "_id": "624",
-    "title": "Verse 624"
+    "title": "Verse 624",
+    "externalId": 624,
+    "_id": "1ffaaa1f-820f-4cb7-aaff-ab035d6ca894"
   },
   {
     "verse_number": 10,
@@ -7496,8 +8120,9 @@
     "chapter_number": 18,
     "verse_order": 625,
     "_type": "verse",
-    "_id": "625",
-    "title": "Verse 625"
+    "title": "Verse 625",
+    "externalId": 625,
+    "_id": "c8f29efd-cb08-47c0-88b9-389d285e8724"
   },
   {
     "verse_number": 11,
@@ -7508,8 +8133,9 @@
     "chapter_number": 18,
     "verse_order": 626,
     "_type": "verse",
-    "_id": "626",
-    "title": "Verse 626"
+    "title": "Verse 626",
+    "externalId": 626,
+    "_id": "c9c6e685-fd4b-4497-93b1-93672f6c1bab"
   },
   {
     "verse_number": 12,
@@ -7520,8 +8146,9 @@
     "chapter_number": 18,
     "verse_order": 627,
     "_type": "verse",
-    "_id": "627",
-    "title": "Verse 627"
+    "title": "Verse 627",
+    "externalId": 627,
+    "_id": "f1134d5c-172f-423a-b7b3-7c906b068804"
   },
   {
     "verse_number": 13,
@@ -7532,8 +8159,9 @@
     "chapter_number": 18,
     "verse_order": 628,
     "_type": "verse",
-    "_id": "628",
-    "title": "Verse 628"
+    "title": "Verse 628",
+    "externalId": 628,
+    "_id": "c92cdb6f-f263-461f-9c72-25312beae494"
   },
   {
     "verse_number": 14,
@@ -7544,8 +8172,9 @@
     "chapter_number": 18,
     "verse_order": 629,
     "_type": "verse",
-    "_id": "629",
-    "title": "Verse 629"
+    "title": "Verse 629",
+    "externalId": 629,
+    "_id": "1a264a4f-b4ce-4837-8269-ef57a1630a8f"
   },
   {
     "verse_number": 15,
@@ -7556,8 +8185,9 @@
     "chapter_number": 18,
     "verse_order": 630,
     "_type": "verse",
-    "_id": "630",
-    "title": "Verse 630"
+    "title": "Verse 630",
+    "externalId": 630,
+    "_id": "33976ef8-400d-4bee-9ae6-d24048b4d7e4"
   },
   {
     "verse_number": 16,
@@ -7568,8 +8198,9 @@
     "chapter_number": 18,
     "verse_order": 631,
     "_type": "verse",
-    "_id": "631",
-    "title": "Verse 631"
+    "title": "Verse 631",
+    "externalId": 631,
+    "_id": "6423adaa-e4c7-42a2-ab6d-4cc0c62ed83c"
   },
   {
     "verse_number": 17,
@@ -7580,8 +8211,9 @@
     "chapter_number": 18,
     "verse_order": 632,
     "_type": "verse",
-    "_id": "632",
-    "title": "Verse 632"
+    "title": "Verse 632",
+    "externalId": 632,
+    "_id": "6bc07fa1-87ad-4b41-bf26-7cfd2ea6e66a"
   },
   {
     "verse_number": 18,
@@ -7592,8 +8224,9 @@
     "chapter_number": 18,
     "verse_order": 633,
     "_type": "verse",
-    "_id": "633",
-    "title": "Verse 633"
+    "title": "Verse 633",
+    "externalId": 633,
+    "_id": "cf3d9337-69f1-4d43-86c3-969b523b6161"
   },
   {
     "verse_number": 19,
@@ -7604,8 +8237,9 @@
     "chapter_number": 18,
     "verse_order": 634,
     "_type": "verse",
-    "_id": "634",
-    "title": "Verse 634"
+    "title": "Verse 634",
+    "externalId": 634,
+    "_id": "f7f35ecf-3d1c-40fc-a66c-e23232c0d661"
   },
   {
     "verse_number": 20,
@@ -7616,8 +8250,9 @@
     "chapter_number": 18,
     "verse_order": 635,
     "_type": "verse",
-    "_id": "635",
-    "title": "Verse 635"
+    "title": "Verse 635",
+    "externalId": 635,
+    "_id": "38db52b7-a7ad-408b-91a1-fca2df89cfa0"
   },
   {
     "verse_number": 21,
@@ -7628,8 +8263,9 @@
     "chapter_number": 18,
     "verse_order": 636,
     "_type": "verse",
-    "_id": "636",
-    "title": "Verse 636"
+    "title": "Verse 636",
+    "externalId": 636,
+    "_id": "8b2806e1-30ac-4cdd-abec-7542accf6957"
   },
   {
     "verse_number": 22,
@@ -7640,8 +8276,9 @@
     "chapter_number": 18,
     "verse_order": 637,
     "_type": "verse",
-    "_id": "637",
-    "title": "Verse 637"
+    "title": "Verse 637",
+    "externalId": 637,
+    "_id": "3b3db809-fa60-4872-abb9-251e6a7401ec"
   },
   {
     "verse_number": 23,
@@ -7652,8 +8289,9 @@
     "chapter_number": 18,
     "verse_order": 638,
     "_type": "verse",
-    "_id": "638",
-    "title": "Verse 638"
+    "title": "Verse 638",
+    "externalId": 638,
+    "_id": "83a7e3c6-2f4d-4318-9b2b-21d12613b608"
   },
   {
     "verse_number": 24,
@@ -7664,8 +8302,9 @@
     "chapter_number": 18,
     "verse_order": 639,
     "_type": "verse",
-    "_id": "639",
-    "title": "Verse 639"
+    "title": "Verse 639",
+    "externalId": 639,
+    "_id": "f79ebb06-fe6d-4fa5-8d0d-2cb7f5f520ec"
   },
   {
     "verse_number": 25,
@@ -7676,8 +8315,9 @@
     "chapter_number": 18,
     "verse_order": 640,
     "_type": "verse",
-    "_id": "640",
-    "title": "Verse 640"
+    "title": "Verse 640",
+    "externalId": 640,
+    "_id": "923c0387-df8d-4b34-b2c1-97939712173f"
   },
   {
     "verse_number": 26,
@@ -7688,8 +8328,9 @@
     "chapter_number": 18,
     "verse_order": 641,
     "_type": "verse",
-    "_id": "641",
-    "title": "Verse 641"
+    "title": "Verse 641",
+    "externalId": 641,
+    "_id": "f13e4f65-069a-4bf9-921a-45e2c7d0d26c"
   },
   {
     "verse_number": 27,
@@ -7700,8 +8341,9 @@
     "chapter_number": 18,
     "verse_order": 642,
     "_type": "verse",
-    "_id": "642",
-    "title": "Verse 642"
+    "title": "Verse 642",
+    "externalId": 642,
+    "_id": "f8ef45b1-eccf-46f5-9ea0-7737d81a6004"
   },
   {
     "verse_number": 28,
@@ -7712,8 +8354,9 @@
     "chapter_number": 18,
     "verse_order": 643,
     "_type": "verse",
-    "_id": "643",
-    "title": "Verse 643"
+    "title": "Verse 643",
+    "externalId": 643,
+    "_id": "1160c432-2807-4572-85cd-62178814b2a2"
   },
   {
     "verse_number": 29,
@@ -7724,8 +8367,9 @@
     "chapter_number": 18,
     "verse_order": 644,
     "_type": "verse",
-    "_id": "644",
-    "title": "Verse 644"
+    "title": "Verse 644",
+    "externalId": 644,
+    "_id": "d0f3fe9b-91ee-42d6-9420-a5c0e9d181e0"
   },
   {
     "verse_number": 30,
@@ -7736,8 +8380,9 @@
     "chapter_number": 18,
     "verse_order": 645,
     "_type": "verse",
-    "_id": "645",
-    "title": "Verse 645"
+    "title": "Verse 645",
+    "externalId": 645,
+    "_id": "6cd7aef2-00e6-4964-8e1e-147cfe981c94"
   },
   {
     "verse_number": 31,
@@ -7748,8 +8393,9 @@
     "chapter_number": 18,
     "verse_order": 646,
     "_type": "verse",
-    "_id": "646",
-    "title": "Verse 646"
+    "title": "Verse 646",
+    "externalId": 646,
+    "_id": "0a7d672c-e185-4b50-ad17-5fc2452c0172"
   },
   {
     "verse_number": 32,
@@ -7760,8 +8406,9 @@
     "chapter_number": 18,
     "verse_order": 647,
     "_type": "verse",
-    "_id": "647",
-    "title": "Verse 647"
+    "title": "Verse 647",
+    "externalId": 647,
+    "_id": "e80ee303-20b8-41f9-85ed-8276ac11b86e"
   },
   {
     "verse_number": 33,
@@ -7772,8 +8419,9 @@
     "chapter_number": 18,
     "verse_order": 648,
     "_type": "verse",
-    "_id": "648",
-    "title": "Verse 648"
+    "title": "Verse 648",
+    "externalId": 648,
+    "_id": "41412455-727d-4b11-8757-2926af16f94c"
   },
   {
     "verse_number": 34,
@@ -7784,8 +8432,9 @@
     "chapter_number": 18,
     "verse_order": 649,
     "_type": "verse",
-    "_id": "649",
-    "title": "Verse 649"
+    "title": "Verse 649",
+    "externalId": 649,
+    "_id": "6ee41704-619f-42ac-b6c0-85f5c9d6a536"
   },
   {
     "verse_number": 35,
@@ -7796,8 +8445,9 @@
     "chapter_number": 18,
     "verse_order": 650,
     "_type": "verse",
-    "_id": "650",
-    "title": "Verse 650"
+    "title": "Verse 650",
+    "externalId": 650,
+    "_id": "9ec7e69a-6aec-4658-b7aa-ec74f4adde2a"
   },
   {
     "verse_number": 36,
@@ -7808,8 +8458,9 @@
     "chapter_number": 18,
     "verse_order": 651,
     "_type": "verse",
-    "_id": "651",
-    "title": "Verse 651"
+    "title": "Verse 651",
+    "externalId": 651,
+    "_id": "9b1fd98a-d55a-4d56-9e3a-715af97c5870"
   },
   {
     "verse_number": 38,
@@ -7820,8 +8471,9 @@
     "chapter_number": 18,
     "verse_order": 652,
     "_type": "verse",
-    "_id": "652",
-    "title": "Verse 652"
+    "title": "Verse 652",
+    "externalId": 652,
+    "_id": "96b89939-02d7-4cb7-ba7f-38c758c6af75"
   },
   {
     "verse_number": 39,
@@ -7832,8 +8484,9 @@
     "chapter_number": 18,
     "verse_order": 653,
     "_type": "verse",
-    "_id": "653",
-    "title": "Verse 653"
+    "title": "Verse 653",
+    "externalId": 653,
+    "_id": "7ca7631d-af31-45e5-860d-eb5740f19b27"
   },
   {
     "verse_number": 48,
@@ -7844,8 +8497,9 @@
     "chapter_number": 18,
     "verse_order": 662,
     "_type": "verse",
-    "_id": "662",
-    "title": "Verse 662"
+    "title": "Verse 662",
+    "externalId": 662,
+    "_id": "fed32db3-dd4a-478b-81e8-7d4f16f62d71"
   },
   {
     "verse_number": 40,
@@ -7856,8 +8510,9 @@
     "chapter_number": 18,
     "verse_order": 654,
     "_type": "verse",
-    "_id": "654",
-    "title": "Verse 654"
+    "title": "Verse 654",
+    "externalId": 654,
+    "_id": "84d06a36-204d-4152-8392-51417ea99a1c"
   },
   {
     "verse_number": 41,
@@ -7868,8 +8523,9 @@
     "chapter_number": 18,
     "verse_order": 655,
     "_type": "verse",
-    "_id": "655",
-    "title": "Verse 655"
+    "title": "Verse 655",
+    "externalId": 655,
+    "_id": "f53cbb53-a2d9-4b48-b9f3-8b28083d0d26"
   },
   {
     "verse_number": 42,
@@ -7880,8 +8536,9 @@
     "chapter_number": 18,
     "verse_order": 656,
     "_type": "verse",
-    "_id": "656",
-    "title": "Verse 656"
+    "title": "Verse 656",
+    "externalId": 656,
+    "_id": "d46dc8ea-9726-4d10-9717-700d7903374b"
   },
   {
     "verse_number": 43,
@@ -7892,8 +8549,9 @@
     "chapter_number": 18,
     "verse_order": 657,
     "_type": "verse",
-    "_id": "657",
-    "title": "Verse 657"
+    "title": "Verse 657",
+    "externalId": 657,
+    "_id": "30fec4f9-3cb0-475c-b51e-c92c56833dde"
   },
   {
     "verse_number": 44,
@@ -7904,8 +8562,9 @@
     "chapter_number": 18,
     "verse_order": 658,
     "_type": "verse",
-    "_id": "658",
-    "title": "Verse 658"
+    "title": "Verse 658",
+    "externalId": 658,
+    "_id": "4ffeff94-2f84-41e0-bebe-3cc88c799425"
   },
   {
     "verse_number": 45,
@@ -7916,8 +8575,9 @@
     "chapter_number": 18,
     "verse_order": 659,
     "_type": "verse",
-    "_id": "659",
-    "title": "Verse 659"
+    "title": "Verse 659",
+    "externalId": 659,
+    "_id": "5ffea5cf-ab07-4123-9300-b77c42ff42ff"
   },
   {
     "verse_number": 46,
@@ -7928,8 +8588,9 @@
     "chapter_number": 18,
     "verse_order": 660,
     "_type": "verse",
-    "_id": "660",
-    "title": "Verse 660"
+    "title": "Verse 660",
+    "externalId": 660,
+    "_id": "f640f6aa-7cd2-46d1-83fd-9772693b1cc7"
   },
   {
     "verse_number": 47,
@@ -7940,8 +8601,9 @@
     "chapter_number": 18,
     "verse_order": 661,
     "_type": "verse",
-    "_id": "661",
-    "title": "Verse 661"
+    "title": "Verse 661",
+    "externalId": 661,
+    "_id": "7a5b657e-b103-4f86-83ea-8a530af02981"
   },
   {
     "verse_number": 49,
@@ -7952,8 +8614,9 @@
     "chapter_number": 18,
     "verse_order": 663,
     "_type": "verse",
-    "_id": "663",
-    "title": "Verse 663"
+    "title": "Verse 663",
+    "externalId": 663,
+    "_id": "8521fe1c-0e1a-485c-ad07-1177ed49aa8d"
   },
   {
     "verse_number": 50,
@@ -7964,8 +8627,9 @@
     "chapter_number": 18,
     "verse_order": 664,
     "_type": "verse",
-    "_id": "664",
-    "title": "Verse 664"
+    "title": "Verse 664",
+    "externalId": 664,
+    "_id": "83fd4f7a-c126-429d-9228-9e75d5b32ef1"
   },
   {
     "verse_number": 51,
@@ -7976,8 +8640,9 @@
     "chapter_number": 18,
     "verse_order": 665,
     "_type": "verse",
-    "_id": "665",
-    "title": "Verse 665"
+    "title": "Verse 665",
+    "externalId": 665,
+    "_id": "aa424e03-2080-48f9-9c4b-5d77ea4de9b8"
   },
   {
     "verse_number": 52,
@@ -7988,8 +8653,9 @@
     "chapter_number": 18,
     "verse_order": 666,
     "_type": "verse",
-    "_id": "666",
-    "title": "Verse 666"
+    "title": "Verse 666",
+    "externalId": 666,
+    "_id": "27348af7-4ab0-43c7-8c21-9f60f22fd4ea"
   },
   {
     "verse_number": 53,
@@ -8000,8 +8666,9 @@
     "chapter_number": 18,
     "verse_order": 667,
     "_type": "verse",
-    "_id": "667",
-    "title": "Verse 667"
+    "title": "Verse 667",
+    "externalId": 667,
+    "_id": "4be380ea-acf0-4daa-a783-5187ecb174f9"
   },
   {
     "verse_number": 54,
@@ -8012,8 +8679,9 @@
     "chapter_number": 18,
     "verse_order": 668,
     "_type": "verse",
-    "_id": "668",
-    "title": "Verse 668"
+    "title": "Verse 668",
+    "externalId": 668,
+    "_id": "0353943c-5b77-4f5c-b273-f9c65d728987"
   },
   {
     "verse_number": 55,
@@ -8024,8 +8692,9 @@
     "chapter_number": 18,
     "verse_order": 669,
     "_type": "verse",
-    "_id": "669",
-    "title": "Verse 669"
+    "title": "Verse 669",
+    "externalId": 669,
+    "_id": "d5173c77-bbb7-4de7-9e8a-31a166ad72c6"
   },
   {
     "verse_number": 56,
@@ -8036,8 +8705,9 @@
     "chapter_number": 18,
     "verse_order": 670,
     "_type": "verse",
-    "_id": "670",
-    "title": "Verse 670"
+    "title": "Verse 670",
+    "externalId": 670,
+    "_id": "ff76f15c-338a-4ecd-a510-91644facde59"
   },
   {
     "verse_number": 57,
@@ -8048,8 +8718,9 @@
     "chapter_number": 18,
     "verse_order": 671,
     "_type": "verse",
-    "_id": "671",
-    "title": "Verse 671"
+    "title": "Verse 671",
+    "externalId": 671,
+    "_id": "563b603f-10dc-49e4-97d0-bba4ebbfea83"
   },
   {
     "verse_number": 58,
@@ -8060,8 +8731,9 @@
     "chapter_number": 18,
     "verse_order": 672,
     "_type": "verse",
-    "_id": "672",
-    "title": "Verse 672"
+    "title": "Verse 672",
+    "externalId": 672,
+    "_id": "a2d72b3b-d220-48f4-8829-857418b71d6a"
   },
   {
     "verse_number": 59,
@@ -8072,8 +8744,9 @@
     "chapter_number": 18,
     "verse_order": 673,
     "_type": "verse",
-    "_id": "673",
-    "title": "Verse 673"
+    "title": "Verse 673",
+    "externalId": 673,
+    "_id": "b6ed27cb-2825-4803-9f7a-942bf0fade6d"
   },
   {
     "verse_number": 60,
@@ -8084,8 +8757,9 @@
     "chapter_number": 18,
     "verse_order": 674,
     "_type": "verse",
-    "_id": "674",
-    "title": "Verse 674"
+    "title": "Verse 674",
+    "externalId": 674,
+    "_id": "32124cff-a7f1-4fe3-b183-ee08d3fb659e"
   },
   {
     "verse_number": 61,
@@ -8096,8 +8770,9 @@
     "chapter_number": 18,
     "verse_order": 675,
     "_type": "verse",
-    "_id": "675",
-    "title": "Verse 675"
+    "title": "Verse 675",
+    "externalId": 675,
+    "_id": "d35d4938-833d-45c5-b610-b0416d58665c"
   },
   {
     "verse_number": 62,
@@ -8108,8 +8783,9 @@
     "chapter_number": 18,
     "verse_order": 676,
     "_type": "verse",
-    "_id": "676",
-    "title": "Verse 676"
+    "title": "Verse 676",
+    "externalId": 676,
+    "_id": "aaa8a47a-e5cd-4100-b7cd-852e3e16792e"
   },
   {
     "verse_number": 63,
@@ -8120,8 +8796,9 @@
     "chapter_number": 18,
     "verse_order": 677,
     "_type": "verse",
-    "_id": "677",
-    "title": "Verse 677"
+    "title": "Verse 677",
+    "externalId": 677,
+    "_id": "cf5281ba-8a5a-416f-9d3d-3385f71a23a0"
   },
   {
     "verse_number": 64,
@@ -8132,8 +8809,9 @@
     "chapter_number": 18,
     "verse_order": 678,
     "_type": "verse",
-    "_id": "678",
-    "title": "Verse 678"
+    "title": "Verse 678",
+    "externalId": 678,
+    "_id": "28d328db-6f4c-49ea-80b8-56bb11c0bfb6"
   },
   {
     "verse_number": 65,
@@ -8144,8 +8822,9 @@
     "chapter_number": 18,
     "verse_order": 679,
     "_type": "verse",
-    "_id": "679",
-    "title": "Verse 679"
+    "title": "Verse 679",
+    "externalId": 679,
+    "_id": "c0585b9a-e298-4201-bd8e-f72d38978027"
   },
   {
     "verse_number": 66,
@@ -8156,8 +8835,9 @@
     "chapter_number": 18,
     "verse_order": 680,
     "_type": "verse",
-    "_id": "680",
-    "title": "Verse 680"
+    "title": "Verse 680",
+    "externalId": 680,
+    "_id": "480fe03a-bbc6-4480-a018-16a73e509899"
   },
   {
     "verse_number": 67,
@@ -8168,8 +8848,9 @@
     "chapter_number": 18,
     "verse_order": 681,
     "_type": "verse",
-    "_id": "681",
-    "title": "Verse 681"
+    "title": "Verse 681",
+    "externalId": 681,
+    "_id": "e8063f9d-f141-429f-9375-bd0770bd2f13"
   },
   {
     "verse_number": 68,
@@ -8180,8 +8861,9 @@
     "chapter_number": 18,
     "verse_order": 682,
     "_type": "verse",
-    "_id": "682",
-    "title": "Verse 682"
+    "title": "Verse 682",
+    "externalId": 682,
+    "_id": "e0dfdef2-0558-470b-9c3f-9b55677f972a"
   },
   {
     "verse_number": 69,
@@ -8192,8 +8874,9 @@
     "chapter_number": 18,
     "verse_order": 683,
     "_type": "verse",
-    "_id": "683",
-    "title": "Verse 683"
+    "title": "Verse 683",
+    "externalId": 683,
+    "_id": "7b0a9cf7-9d5f-4ce7-96ff-042bba068137"
   },
   {
     "verse_number": 70,
@@ -8204,8 +8887,9 @@
     "chapter_number": 18,
     "verse_order": 684,
     "_type": "verse",
-    "_id": "684",
-    "title": "Verse 684"
+    "title": "Verse 684",
+    "externalId": 684,
+    "_id": "f5d6b7b6-f323-4b2a-81f7-d82b720bbae2"
   },
   {
     "verse_number": 71,
@@ -8216,8 +8900,9 @@
     "chapter_number": 18,
     "verse_order": 685,
     "_type": "verse",
-    "_id": "685",
-    "title": "Verse 685"
+    "title": "Verse 685",
+    "externalId": 685,
+    "_id": "4cda1375-6048-4fda-a221-6f23b4671886"
   },
   {
     "verse_number": 72,
@@ -8228,8 +8913,9 @@
     "chapter_number": 18,
     "verse_order": 686,
     "_type": "verse",
-    "_id": "686",
-    "title": "Verse 686"
+    "title": "Verse 686",
+    "externalId": 686,
+    "_id": "f512ddd7-6d3a-4b88-ae57-7c3b32123500"
   },
   {
     "verse_number": 73,
@@ -8240,8 +8926,9 @@
     "chapter_number": 18,
     "verse_order": 687,
     "_type": "verse",
-    "_id": "687",
-    "title": "Verse 687"
+    "title": "Verse 687",
+    "externalId": 687,
+    "_id": "91bbf934-56b1-4436-bc40-8ca18f406e5f"
   },
   {
     "verse_number": 74,
@@ -8252,8 +8939,9 @@
     "chapter_number": 18,
     "verse_order": 688,
     "_type": "verse",
-    "_id": "688",
-    "title": "Verse 688"
+    "title": "Verse 688",
+    "externalId": 688,
+    "_id": "257af978-a6bc-4a04-b760-9950ed0cb71f"
   },
   {
     "verse_number": 75,
@@ -8264,8 +8952,9 @@
     "chapter_number": 18,
     "verse_order": 689,
     "_type": "verse",
-    "_id": "689",
-    "title": "Verse 689"
+    "title": "Verse 689",
+    "externalId": 689,
+    "_id": "9e9a90f6-4bfc-4e73-ba84-015789783db3"
   },
   {
     "verse_number": 76,
@@ -8276,8 +8965,9 @@
     "chapter_number": 18,
     "verse_order": 690,
     "_type": "verse",
-    "_id": "690",
-    "title": "Verse 690"
+    "title": "Verse 690",
+    "externalId": 690,
+    "_id": "043475d2-520e-4381-ae93-e5f1066c66cb"
   },
   {
     "verse_number": 77,
@@ -8288,8 +8978,9 @@
     "chapter_number": 18,
     "verse_order": 691,
     "_type": "verse",
-    "_id": "691",
-    "title": "Verse 691"
+    "title": "Verse 691",
+    "externalId": 691,
+    "_id": "9e315a35-5364-45e7-a01c-08cd157b1a69"
   },
   {
     "verse_number": 78,
@@ -8300,7 +8991,8 @@
     "chapter_number": 18,
     "verse_order": 692,
     "_type": "verse",
-    "_id": "692",
-    "title": "Verse 692"
+    "title": "Verse 692",
+    "externalId": 692,
+    "_id": "7c900db0-883c-43ff-a2ba-4dca68c268e9"
   }
 ]

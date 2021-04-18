@@ -12,8 +12,8 @@ import person from './person'
 import screening from './screening'
 import plotSummary from './plotSummary'
 import plotSummaries from './plotSummaries'
-import chapter from './chapter'
-import verse from './verse'
+import gitaVerse from './gitaVerse'
+import gitaChapter from './gitaChapter'
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -24,17 +24,17 @@ export default createSchema({
   types: schemaTypes.concat([
     // The following are document types which will appear
     // in the studio.
-    chapter,
-    verse,
-    movie,
-    person,
-    screening,
+    gitaChapter,
+    gitaVerse,
+    // movie,
+    // person,
+    // screening,
     // When added to this list, object types can be used as
     // { type: 'typename' } in other document schemas
     blockContent,
-    plotSummary,
-    plotSummaries,
-    castMember,
-    crewMember,
+    // plotSummary,
+    // plotSummaries,
+    // castMember,
+    // crewMember,
   ]),
 })

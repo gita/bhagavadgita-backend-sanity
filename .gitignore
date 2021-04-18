@@ -2,3 +2,4 @@ node_modules
 dist
 production*
 .env
+.set-env.sh

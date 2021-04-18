@@ -1,3 +1,7 @@
+/**
+ * We are using this script to transform our data dump to have some more fields for sanity
+ */
+
 const fs = require('fs');
 const jq = require('node-jq');
 const lodash = require('lodash')
@@ -9,7 +13,7 @@ const outputFilepath = './data/json-transformed/verses.json'
 const file = fs.readFileSync(inputFilepath, 'utf-8');
 const data = JSON.parse(file)
 const response = data.map(verse => {
-    verse._type = 'verse'
+    verse._type = 'gita_verse'
     verse.title = `Verse ${verse.id}`
     verse.verse_number = parseInt(verse.verse_number)
     verse.externalId=verse.id
@@ -26,7 +30,7 @@ const outputFilepath = './data/json-transformed/chapters.json'
 const file = fs.readFileSync(inputFilepath, 'utf-8');
 const data = JSON.parse(file)
 let response = data.map(chapter => {
-    chapter._type = 'chapter'
+    chapter._type = 'gita_chapter'
     chapter.title = `chapter ${chapter.id}`
     chapter.chapter_number = parseInt(chapter.chapter_number)
     chapter.externalId = chapter.id

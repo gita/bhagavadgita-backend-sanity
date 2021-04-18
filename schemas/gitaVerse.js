@@ -1,6 +1,6 @@
 export default {
-    name: 'verse',
-    title: 'Verse',
+    name: 'gita_verse',
+    title: 'Gita Verse',
     type: 'document',
     fields: [
         {
@@ -17,6 +17,25 @@ export default {
               maxLength: 100,
             },
           },
+          {
+            title: 'Chapter',
+            name: 'chapter',
+            type: 'reference',
+            weak: true,
+            to: [{
+              type: 'gita_chapter'
+            }],
+            options: {
+              filter: ({document}) => {
+                return {
+                  filter: 'chapter_number == $chapter_number',
+                  params: {
+                    chapter_number: document.chapter_number
+                  }
+                }
+              }
+            }
+          },  
           {
             name: 'chapter_number',
             title: 'Chapter Number',
@@ -53,9 +72,23 @@ export default {
             type: 'string',
           },
           {
+            name: "externalId",
+            title: "ExternalId",
+            type: "number",
+          },
+          {
             name: 'meaning',
             title: 'Meaning',
             type: 'string',
           },
+    ],
+    orderings: [
+      {
+        title: 'Verse Order',
+        name: 'verse_order_asc',
+        by: [
+          {field: 'verse_order', direction: 'asc'}
+        ]
+      }
     ]
 }    

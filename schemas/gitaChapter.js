@@ -1,6 +1,6 @@
 export default {
-  name: "chapter",
-  title: "Chapter",
+  name: "gita_chapter",
+  title: "Gita Chapter",
   type: "document",
   fields: [
     {
@@ -16,12 +16,6 @@ export default {
         source: (doc) => `chapter-${doc.chapter_number}-${doc.name}`,
         maxLength: 100,
       },
-    },
-    {
-      name: "verses",
-      title: "Verses",
-      type: "array",
-      of: [{ type: "verse" }],
     },
     {
       name: "name",
@@ -49,6 +43,11 @@ export default {
       type: "number",
     },
     {
+      name: "externalId",
+      title: "ExternalId",
+      type: "number",
+    },
+    {
       name: "name_meaning",
       title: "name meaning",
       type: "string",
@@ -63,5 +62,40 @@ export default {
       title: "chapter summary",
       type: "string",
     },
+    {
+      name: "verses",
+      title: "Verses",
+      type: "array",
+      of: [
+        {
+          type: "reference",
+          weak: true,
+          to: [
+            {
+              type: "gita_verse",
+            },
+          ],
+          options: {
+            filter: ({document}) => {
+              return {
+                filter: 'chapter_number == $chapter_number',
+                params: {
+                  chapter_number: document.chapter_number
+                }
+              }
+            }
+          }
+        },
+      ],
+    },
   ],
+  orderings: [
+    {
+      title: 'Chapter Number',
+      name: 'chapter_number_asc',
+      by: [
+        {field: 'chapter_number', direction: 'asc'}
+      ]
+    }
+  ]
 };

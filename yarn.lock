@@ -1017,6 +1017,19 @@
     make-error "^1.3.0"
     object-assign "^4.1.1"
 
+"@sanity/client@^2.8.0":
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/@sanity/client/-/client-2.8.0.tgz#43e35937e4de0f75c0b6bf029fca0e598c8a04ed"
+  integrity sha512-S/EYj4SOJ4OMOOULCjNE2moFsb4h2Vy9zV/v4dOappal+GBxafJ9E/J4+qLhkMZqd2hTfECfawjshuoUUo+L+g==
+  dependencies:
+    "@sanity/eventsource" "2.2.6"
+    "@sanity/generate-help-url" "2.2.6"
+    "@sanity/observable" "2.0.9"
+    deep-assign "^2.0.0"
+    get-it "^5.0.3"
+    make-error "^1.3.0"
+    object-assign "^4.1.1"
+
 "@sanity/color@^1.0.0":
   version "1.0.0"
   resolved "https://registry.npmjs.org/@sanity/color/-/color-1.0.0.tgz#6cc44d4a8f6da4567828f52f141deed4d17aa31e"
@@ -1101,6 +1114,14 @@
     postcss-modules-values "^1.3.0"
     postcss-value-parser "^3.3.0"
     source-list-map "^2.0.0"
+
+"@sanity/dashboard@^2.7.0":
+  version "2.7.0"
+  resolved "https://registry.npmjs.org/@sanity/dashboard/-/dashboard-2.7.0.tgz#73df5333ada718933c8ae7e4680dc7cea079a547"
+  dependencies:
+    "@sanity/image-url" "^0.140.19"
+    lodash "^4.17.15"
+    rxjs "^6.5.3"
 
 "@sanity/data-aspects@2.2.6":
   version "2.2.6"
@@ -1487,7 +1508,7 @@
     "@types/react" "^17.0.0"
     rxjs "^6.5.3"
 
-"@sanity/ui@^0.33.12":
+"@sanity/ui@^0.33.12", "@sanity/ui@^0.33.16":
   version "0.33.16"
   resolved "https://registry.npmjs.org/@sanity/ui/-/ui-0.33.16.tgz#35dacccce775b112549335885ffb4c4a10e7cc3b"
   dependencies:
@@ -8805,14 +8826,9 @@ uuid@^3.0.1, uuid@^3.1.0, uuid@^3.3.2:
   version "3.4.0"
   resolved "https://registry.npmjs.org/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
 
-uuid@^8.0.0:
+uuid@^8.0.0, uuid@^8.3.2:
   version "8.3.2"
   resolved "https://registry.npmjs.org/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
-
-uuid@^8.3.2:
-  version "8.3.2"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
-  integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
 
 validate-npm-package-license@^3.0.1:
   version "3.0.4"

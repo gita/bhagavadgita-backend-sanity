@@ -37,6 +37,23 @@ export default {
             }
           },  
           {
+            name: "tags",
+            title: "Tags",
+            type: "array",
+            of: [
+              {
+                type: "reference",
+                weak: true,
+                to: [
+                  {
+                    type: "gita_tag",
+                  },
+                ],
+                
+              },
+            ],
+          },
+          {
             name: 'chapter_number',
             title: 'Chapter Number',
             type: 'number',

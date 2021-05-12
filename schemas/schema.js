@@ -14,6 +14,12 @@ import plotSummary from './plotSummary'
 import plotSummaries from './plotSummaries'
 import gitaVerse from './gitaVerse'
 import gitaChapter from './gitaChapter'
+import commentary from './commentary'
+import author from './author'
+import aboutUs from './aboutUs'
+import tags from './tags'
+
+
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -26,12 +32,16 @@ export default createSchema({
     // in the studio.
     gitaChapter,
     gitaVerse,
+    tags,
     // movie,
     // person,
     // screening,
     // When added to this list, object types can be used as
     // { type: 'typename' } in other document schemas
     blockContent,
+    commentary,
+    author,
+    aboutUs,
     // plotSummary,
     // plotSummaries,
     // castMember,

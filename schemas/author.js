@@ -21,16 +21,16 @@ export default {
                 maxLength: 100,
             },
         },
-        {
-            name: 'image',
-            title: 'Image',
-            type: 'image',
-            options: {
-                hotspot: true,
-            },
-        },
+        // {
+        //     name: 'image',
+        //     title: 'Image',
+        //     type: 'image',
+        //     options: {
+        //         hotspot: true,
+        //     },
+        // },
     ],
-    preview: {
-        select: { title: 'name', media: 'image' },
-    },
+    // preview: {
+    //     select: { title: 'name', media: 'image' },
+    // },
 }

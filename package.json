@@ -32,6 +32,7 @@
     "react-dom": "^17.0",
     "react-icons": "^3.11.0",
     "sanity-plugin-intl-input": "^5.0.6",
+    "sanity-plugin-json-to-docs": "^1.0.3",
     "uuid": "^8.3.2"
   },
   "devDependencies": {}

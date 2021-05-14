@@ -17,7 +17,7 @@ import gitaChapter from './gitaChapter'
 import commentary from './commentary'
 import author from './author'
 import aboutUs from './aboutUs'
-import tags from './tags'
+import language from './language'
 
 
 
@@ -32,7 +32,6 @@ export default createSchema({
     // in the studio.
     gitaChapter,
     gitaVerse,
-    tags,
     // movie,
     // person,
     // screening,
@@ -42,6 +41,7 @@ export default createSchema({
     commentary,
     author,
     aboutUs,
+    language,
     // plotSummary,
     // plotSummaries,
     // castMember,

@@ -91,7 +91,7 @@ export default {
           weak: true,
           to: [
             {
-              type: "commentary",
+              type: "gita_commentary",
             },
           ],
         },

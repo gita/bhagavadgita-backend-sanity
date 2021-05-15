@@ -1,5 +1,5 @@
 export default {
-  name: "commentary",
+  name: "gita_commentary",
   title: "Commentary",
   type: "document",
   fields: [
@@ -7,37 +7,37 @@ export default {
       name: 'description',
       type: 'string',
       title: 'Description',
-      // of: [
-      //   {
-      //     type: 'block'
-      //   },
-      //   {
-      //     type: 'image'
-      //   },
-      // ]
+      
+    },
+    {
+      name: "authorName",
+      title: "Author Name",
+      type: "string",
     },
     {
       name: "author",
       title: "Author",
       type: "reference",
-      to: { type: "author" },
+      to: { type: "gita_author" },
     },
-    // {
-    //   name: "language",
-    //   title: "Language",
-    //   type: "string",
-    //   // of: [
-    //   //   {
-    //   //     type: "string"
-    //   //   }
-    //   // ]
-    // },
+    {
+      name: "lang",
+      title: "Lang",
+      type: "string",
+    },
     {
       name: "language",
       title: "Language",
       type: "reference",
-      to: { type: "language" },
+      to: { type: "gita_language" },
     },
+
+    {
+      name: "verseNumber",
+      title: "VerseNumber",
+      type: "string",
+    },
+
 
     {
       name: "verse",

@@ -1,5 +1,5 @@
 export default {
-    name: "language",
+    name: "gita_language",
     title: "language",
     type: "document",
     fields: [
@@ -8,6 +8,7 @@ export default {
             title: "Language",
             type: "string",
         },
+        
         
         
     ],

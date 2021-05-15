@@ -14,10 +14,10 @@ import plotSummary from './plotSummary'
 import plotSummaries from './plotSummaries'
 import gitaVerse from './gitaVerse'
 import gitaChapter from './gitaChapter'
-import commentary from './commentary'
-import author from './author'
+import gitaCommentary from './gitaCommentary'
+import author from './gitaAuthor'
 import aboutUs from './aboutUs'
-import language from './language'
+import language from './gitaLanguage'
 
 
 
@@ -38,7 +38,7 @@ export default createSchema({
     // When added to this list, object types can be used as
     // { type: 'typename' } in other document schemas
     blockContent,
-    commentary,
+    gitaCommentary,
     author,
     aboutUs,
     language,

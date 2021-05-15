@@ -1,7 +1,7 @@
 import UserIcon from 'part:@sanity/base/user-icon'
 
 export default {
-    name: 'author',
+    name: 'gita_author',
     title: 'Author',
     type: 'document',
     icon: UserIcon,
@@ -21,6 +21,24 @@ export default {
                 maxLength: 100,
             },
         },
+        {
+            name: "commentaries",
+            title: "Commentaries",
+            type: "array",
+            of: [
+              {
+                type: "reference",
+                weak: true,
+                to: [
+                  {
+                    type: "gita_commentary",
+                  },
+                ],
+              },
+            ],
+          },
+
+
         // {
         //     name: 'image',
         //     title: 'Image',

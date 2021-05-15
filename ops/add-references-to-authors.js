@@ -6,6 +6,21 @@ const getCommentary = require('./get-all-commentaries');
 const getAuthors = require('./get-all-authors');
 
 
+// commentaryObjectArray looks like this 
+// [
+//     {
+//       _ref: '554c92dd-df03-4de1-baff-d3c1bf5c5df6',
+//       _type: 'reference',
+//       _weak: false
+//     },
+//     {
+//       _ref: 'drafts.qwTh4Z3WS4K2LsDnti0nJX',       
+//       _type: 'reference',
+//       _weak: false
+//     }
+//   ]
+
+
 
 function getCommentaryObject(chain,authors,authorMap2)
 {   
@@ -59,7 +74,10 @@ async function run(){
     });
     let authorMap2 = new Map()
 
-    // const commentaryMap = new Map();
+    
+// I tried to make a map with keys as authorNames and values as a list of 
+// all the _ids of commentaries , employing which we use the map to make the object array 
+// that array is the list of references to be added to instance of author
     commentaries.forEach(commentary=>{
         
 

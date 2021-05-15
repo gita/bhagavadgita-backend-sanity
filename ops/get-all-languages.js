@@ -1,3 +1,5 @@
+// as language schema holds only a string of lanugage to be used as reference,
+// instead of JSON, we are returning a Map of (_languauge and _ID ) of language schema 
 const client = require("./client");
 
 const query = '*[_type == "gita_language"] {_id, language}'

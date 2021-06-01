@@ -14,12 +14,18 @@ const getAuthors = require('./get-all-authors');
        
 // }
 
+// we add all the references of author, language,and verse are added to commentary schema
+
+
 function addAuthorRefToCommentary(chain,commentaries,authorMap,languageMap,verseMap){
 
     commentaries.forEach(commentary=>{
        
         // console.log( verseMap.get(parseInt(commentary.verseNumber)));
         // console.log(verseMap.get(commentary.verseNumber));
+
+        // these 3 attributes can't be set in one pass because the backend in sanity is postgress and 
+        // the length of query must be reduced and hence should be made in 3 passes
         chain = chain.patch(commentary._id,p=>p.set({
             author : {
                 _ref : authorMap.get(commentary.authorName),
@@ -32,7 +38,7 @@ function addAuthorRefToCommentary(chain,commentaries,authorMap,languageMap,verse
                 _weak:false
             },
             verse:{
-                _ref: verseMap.get(parseInt(commentary.verseNumber)),
+                _ref: verseMap.get(commentary.verseNumber),
                 _type:'reference',
                 _weak:false
 

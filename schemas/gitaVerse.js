@@ -39,17 +39,17 @@ export default {
     {
       name: 'chapter_number',
       title: 'Chapter Number',
-      type: 'number',
+      type: 'string',
     },
     {
       name: 'verse_order',
       title: 'Verse Order',
-      type: 'number',
+      type: 'string',
     },
     {
       name: 'verse_number',
       title: 'Verse Number',
-      type: 'number',
+      type: 'string',
     },
     {
       name: 'overview',
@@ -74,12 +74,23 @@ export default {
     {
       name: "externalId",
       title: "ExternalId",
-      type: "number",
+      type: "string",
     },
-    {
-      name: 'meaning',
-      title: 'Meaning',
-      type: 'string',
+     {
+      name: "translations",
+      title: "Translations",
+      type: "array",
+      of: [
+        {
+          type: "reference",
+          weak: true,
+          to: [
+            {
+              type: "gita_translation",
+            },
+          ],
+        },
+      ],
     },
     {
       name: "commentaries",

@@ -1,6 +1,6 @@
 export default {
   name: "gita_commentary",
-  title: "Commentary",
+  title: "Gita Commentary",
   type: "document",
   fields: [
     {

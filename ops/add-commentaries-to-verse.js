@@ -4,7 +4,7 @@ const client = require('./client');
 const authors = require('./get-all-authors');
 const getCommentary = require('./get-all-commentaries');
 const getAuthors = require('./get-all-authors');
-
+const getTranslation = require('./get-all-translations');
 
 
 // commentaryObjectArray looks like this 

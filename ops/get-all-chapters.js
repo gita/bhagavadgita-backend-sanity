@@ -14,6 +14,7 @@ if (require.main === module) {
     console.log('called directly');
     getChapters().then(chapters => {
         chapters.forEach(chapter => {
+            
             console.log(JSON.stringify(chapter.verses))
         })
     });

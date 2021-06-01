@@ -2,7 +2,7 @@ const getLanguages = require('./get-all-languages');
 const getVerses = require('./get-all-verses');
 const client = require('./client');
 const authors = require('./get-all-authors');
-const getCommentary = require('./get-all-commentaries');
+const getCommentary = require('./get-all-commentaries');   //I made this script for commentary and duplicated for translations
 const getAuthors = require('./get-all-authors');
 
 
@@ -102,8 +102,8 @@ async function run(){
 
         
     })
-    getCommentaryObject(chain,authors,authorMap2)
-    addCommentriesToAuthor(chain,authorMap2,commentaries);
+    chain = getCommentaryObject(chain,authors,authorMap2)
+    // addCommentriesToAuthor(chain,authorMap2,commentaries);
     const response = await chain.commit();
     console.log(response);
 }

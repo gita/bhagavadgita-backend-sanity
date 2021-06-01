@@ -2,7 +2,7 @@ import UserIcon from 'part:@sanity/base/user-icon'
 
 export default {
     name: 'gita_author',
-    title: 'Author',
+    title: 'Gita Author',
     type: 'document',
     icon: UserIcon,
     fields: [
@@ -39,16 +39,26 @@ export default {
           },
 
 
-        // {
-        //     name: 'image',
-        //     title: 'Image',
-        //     type: 'image',
-        //     options: {
-        //         hotspot: true,
-        //     },
-        // },
+          {
+            name: "translations",
+            title: "Translations",
+            type: "array",
+            of: [
+              {
+                type: "reference",
+                weak: true,
+                to: [
+                  {
+                    type: "gita_translation",
+                  },
+                ],
+              },
+            ],
+          },
+
+
+
+   
     ],
-    // preview: {
-    //     select: { title: 'name', media: 'image' },
-    // },
+    
 }

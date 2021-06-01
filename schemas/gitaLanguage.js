@@ -1,6 +1,6 @@
 export default {
     name: "gita_language",
-    title: "language",
+    title: "Gita Language",
     type: "document",
     fields: [
         {
